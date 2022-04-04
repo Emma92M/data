@@ -1,0 +1,5028 @@
+Year,Area,Variable,Generation (TWh),Production (TWh),Share of production (%)
+2000,Austria,Fossil,16,60,27
+2000,Austria,Coal,6,60,10
+2000,Austria,Hard Coal,4,60,7
+2000,Austria,Lignite,1,60,2
+2000,Austria,Gas,8,60,13
+2000,Austria,Fossil,3,60,5
+2000,Austria,Renewables,43,60,73
+2000,Austria,Hydro,42,60,70
+2000,Austria,Bioenergy,2,60,3
+2000,Belgium,Fossil,34,83,41
+2000,Belgium,Coal,13,83,16
+2000,Belgium,Hard Coal,13,83,16
+2000,Belgium,Gas,16,83,19
+2000,Belgium,Fossil,5,83,6
+2000,Belgium,Nuclear,48,83,58
+2000,Belgium,Renewables,1,83,1
+2000,Belgium,Bioenergy,1,83,1
+2000,Bulgaria,Fossil,20,41,49
+2000,Bulgaria,Coal,17,41,42
+2000,Bulgaria,Hard Coal,3,41,7
+2000,Bulgaria,Lignite,14,41,34
+2000,Bulgaria,Gas,2,41,5
+2000,Bulgaria,Fossil,1,41,2
+2000,Bulgaria,Nuclear,18,41,45
+2000,Bulgaria,Renewables,3,41,6
+2000,Bulgaria,Hydro,3,41,6
+2000,Croatia,Fossil,5,11,43
+2000,Croatia,Coal,2,11,14
+2000,Croatia,Hard Coal,2,11,14
+2000,Croatia,Gas,2,11,14
+2000,Croatia,Fossil,2,11,15
+2000,Croatia,Renewables,6,11,57
+2000,Croatia,Hydro,6,11,57
+2000,Cyprus,Fossil,3,3,100
+2000,Cyprus,Fossil,3,3,100
+2000,Czech Republic,Fossil,57,73,78
+2000,Czech Republic,Coal,53,73,72
+2000,Czech Republic,Hard Coal,6,73,8
+2000,Czech Republic,Lignite,47,73,65
+2000,Czech Republic,Gas,2,73,2
+2000,Czech Republic,Fossil,3,73,4
+2000,Czech Republic,Nuclear,14,73,19
+2000,Czech Republic,Renewables,2,73,3
+2000,Czech Republic,Hydro,2,73,2
+2000,Czech Republic,Bioenergy,1,73,1
+2000,Denmark,Fossil,30,36,85
+2000,Denmark,Coal,17,36,46
+2000,Denmark,Hard Coal,17,36,46
+2000,Denmark,Gas,9,36,24
+2000,Denmark,Fossil,5,36,14
+2000,Denmark,Renewables,6,36,15
+2000,Denmark,Wind and solar,4,36,12
+2000,Denmark,Wind,4,36,12
+2000,Denmark,Bioenergy,1,36,4
+2000,Estonia,Fossil,8,9,100
+2000,Estonia,Gas,1,9,7
+2000,Estonia,Fossil,8,9,93
+2000,Finland,Fossil,24,70,34
+2000,Finland,Coal,8,70,12
+2000,Finland,Hard Coal,8,70,12
+2000,Finland,Gas,10,70,15
+2000,Finland,Fossil,5,70,8
+2000,Finland,Nuclear,22,70,32
+2000,Finland,Renewables,23,70,34
+2000,Finland,Hydro,15,70,21
+2000,Finland,Bioenergy,9,70,12
+2000,France,Fossil,51,535,9
+2000,France,Coal,27,535,5
+2000,France,Hard Coal,27,535,5
+2000,France,Gas,12,535,2
+2000,France,Fossil,12,535,2
+2000,France,Nuclear,415,535,78
+2000,France,Renewables,69,535,13
+2000,France,Hydro,66,535,12
+2000,France,Bioenergy,2,535,0
+2000,France,Renewables,1,535,0
+2000,Germany,Fossil,365,572,64
+2000,Germany,Coal,291,572,51
+2000,Germany,Hard Coal,143,572,25
+2000,Germany,Lignite,148,572,26
+2000,Germany,Gas,49,572,9
+2000,Germany,Fossil,24,572,4
+2000,Germany,Nuclear,170,572,30
+2000,Germany,Renewables,38,572,7
+2000,Germany,Hydro,25,572,4
+2000,Germany,Wind and solar,10,572,2
+2000,Germany,Wind,10,572,2
+2000,Germany,Bioenergy,3,572,1
+2000,Greece,Fossil,49,53,92
+2000,Greece,Coal,34,53,64
+2000,Greece,Lignite,34,53,64
+2000,Greece,Gas,6,53,11
+2000,Greece,Fossil,9,53,17
+2000,Greece,Renewables,4,53,8
+2000,Greece,Hydro,4,53,7
+2000,Hungary,Fossil,21,35,59
+2000,Hungary,Coal,10,35,27
+2000,Hungary,Lignite,10,35,27
+2000,Hungary,Gas,7,35,19
+2000,Hungary,Fossil,5,35,13
+2000,Hungary,Nuclear,14,35,40
+2000,Ireland,Fossil,22,24,95
+2000,Ireland,Coal,7,24,29
+2000,Ireland,Hard Coal,7,24,29
+2000,Ireland,Gas,9,24,39
+2000,Ireland,Fossil,6,24,27
+2000,Ireland,Renewables,1,24,5
+2000,Ireland,Hydro,1,24,4
+2000,Italy,Fossil,218,269,81
+2000,Italy,Coal,26,269,10
+2000,Italy,Hard Coal,26,269,10
+2000,Italy,Gas,101,269,38
+2000,Italy,Fossil,91,269,34
+2000,Italy,Renewables,51,269,19
+2000,Italy,Hydro,44,269,16
+2000,Italy,Wind and solar,1,269,0
+2000,Italy,Wind,1,269,0
+2000,Italy,Bioenergy,1,269,1
+2000,Italy,Renewables,5,269,2
+2000,Latvia,Fossil,1,4,32
+2000,Latvia,Gas,1,4,27
+2000,Latvia,Renewables,3,4,68
+2000,Latvia,Hydro,3,4,68
+2000,Lithuania,Fossil,2,11,21
+2000,Lithuania,Gas,2,11,15
+2000,Lithuania,Fossil,1,11,6
+2000,Lithuania,Nuclear,8,11,76
+2000,Malta,Fossil,2,2,100
+2000,Malta,Fossil,2,2,100
+2000,Netherlands,Fossil,82,89,92
+2000,Netherlands,Coal,24,89,27
+2000,Netherlands,Hard Coal,24,89,27
+2000,Netherlands,Gas,52,89,58
+2000,Netherlands,Fossil,7,89,7
+2000,Netherlands,Nuclear,4,89,4
+2000,Netherlands,Renewables,3,89,3
+2000,Netherlands,Wind and solar,1,89,1
+2000,Netherlands,Wind,1,89,1
+2000,Netherlands,Bioenergy,2,89,2
+2000,Poland,Fossil,141,143,98
+2000,Poland,Coal,136,143,95
+2000,Poland,Hard Coal,82,143,58
+2000,Poland,Lignite,53,143,37
+2000,Poland,Gas,1,143,1
+2000,Poland,Fossil,4,143,3
+2000,Poland,Renewables,2,143,2
+2000,Poland,Hydro,2,143,1
+2000,Portugal,Fossil,31,43,70
+2000,Portugal,Coal,15,43,34
+2000,Portugal,Hard Coal,15,43,34
+2000,Portugal,Gas,7,43,16
+2000,Portugal,Fossil,9,43,20
+2000,Portugal,Renewables,13,43,30
+2000,Portugal,Hydro,11,43,26
+2000,Portugal,Bioenergy,1,43,3
+2000,Romania,Fossil,31,52,61
+2000,Romania,Coal,19,52,37
+2000,Romania,Lignite,19,52,36
+2000,Romania,Gas,9,52,17
+2000,Romania,Fossil,3,52,7
+2000,Romania,Nuclear,5,52,11
+2000,Romania,Renewables,15,52,29
+2000,Romania,Hydro,15,52,29
+2000,Slovakia,Fossil,10,31,31
+2000,Slovakia,Coal,6,31,18
+2000,Slovakia,Hard Coal,3,31,11
+2000,Slovakia,Lignite,2,31,7
+2000,Slovakia,Gas,3,31,11
+2000,Slovakia,Fossil,1,31,2
+2000,Slovakia,Nuclear,16,31,54
+2000,Slovakia,Renewables,5,31,15
+2000,Slovakia,Hydro,5,31,15
+2000,Slovenia,Fossil,5,14,36
+2000,Slovenia,Coal,5,14,34
+2000,Slovenia,Lignite,4,14,32
+2000,Slovenia,Nuclear,5,14,35
+2000,Slovenia,Renewables,4,14,29
+2000,Slovenia,Hydro,4,14,28
+2000,Spain,Fossil,124,221,56
+2000,Spain,Coal,79,221,36
+2000,Spain,Hard Coal,73,221,33
+2000,Spain,Lignite,6,221,3
+2000,Spain,Gas,20,221,9
+2000,Spain,Fossil,25,221,11
+2000,Spain,Nuclear,62,221,28
+2000,Spain,Renewables,34,221,16
+2000,Spain,Hydro,28,221,13
+2000,Spain,Wind and solar,5,221,2
+2000,Spain,Wind,5,221,2
+2000,Spain,Bioenergy,1,221,1
+2000,Sweden,Fossil,5,145,3
+2000,Sweden,Coal,2,145,1
+2000,Sweden,Hard Coal,2,145,1
+2000,Sweden,Fossil,3,145,2
+2000,Sweden,Nuclear,57,145,39
+2000,Sweden,Renewables,83,145,57
+2000,Sweden,Hydro,79,145,54
+2000,Sweden,Bioenergy,4,145,3
+2000,United Kingdom,Fossil,279,374,75
+2000,United Kingdom,Coal,120,374,32
+2000,United Kingdom,Hard Coal,120,374,32
+2000,United Kingdom,Gas,148,374,40
+2000,United Kingdom,Fossil,11,374,3
+2000,United Kingdom,Nuclear,85,374,23
+2000,United Kingdom,Renewables,10,374,3
+2000,United Kingdom,Hydro,5,374,1
+2000,United Kingdom,Wind and solar,1,374,0
+2000,United Kingdom,Wind,1,374,0
+2000,United Kingdom,Bioenergy,4,374,1
+2001,Austria,Fossil,19,61,31
+2001,Austria,Coal,7,61,11
+2001,Austria,Hard Coal,5,61,9
+2001,Austria,Lignite,2,61,3
+2001,Austria,Gas,9,61,14
+2001,Austria,Fossil,3,61,5
+2001,Austria,Renewables,42,61,69
+2001,Austria,Hydro,40,61,66
+2001,Austria,Bioenergy,2,61,3
+2001,Belgium,Fossil,31,79,40
+2001,Belgium,Coal,10,79,13
+2001,Belgium,Hard Coal,10,79,13
+2001,Belgium,Gas,16,79,20
+2001,Belgium,Fossil,5,79,7
+2001,Belgium,Nuclear,46,79,59
+2001,Belgium,Renewables,1,79,1
+2001,Belgium,Bioenergy,1,79,1
+2001,Bulgaria,Fossil,22,43,51
+2001,Bulgaria,Coal,19,43,45
+2001,Bulgaria,Hard Coal,4,43,10
+2001,Bulgaria,Lignite,15,43,35
+2001,Bulgaria,Gas,2,43,4
+2001,Bulgaria,Fossil,1,43,2
+2001,Bulgaria,Nuclear,20,43,45
+2001,Bulgaria,Renewables,2,43,4
+2001,Bulgaria,Hydro,2,43,4
+2001,Croatia,Fossil,6,13,44
+2001,Croatia,Coal,2,13,13
+2001,Croatia,Hard Coal,2,13,13
+2001,Croatia,Gas,2,13,14
+2001,Croatia,Fossil,2,13,17
+2001,Croatia,Renewables,7,13,56
+2001,Croatia,Hydro,7,13,56
+2001,Cyprus,Fossil,4,4,100
+2001,Cyprus,Fossil,4,4,100
+2001,Czech Republic,Fossil,57,74,77
+2001,Czech Republic,Coal,53,74,71
+2001,Czech Republic,Hard Coal,6,74,8
+2001,Czech Republic,Lignite,47,74,63
+2001,Czech Republic,Gas,2,74,2
+2001,Czech Republic,Fossil,3,74,4
+2001,Czech Republic,Nuclear,15,74,20
+2001,Czech Republic,Renewables,3,74,3
+2001,Czech Republic,Hydro,2,74,3
+2001,Czech Republic,Bioenergy,1,74,1
+2001,Denmark,Fossil,32,38,84
+2001,Denmark,Coal,18,38,47
+2001,Denmark,Hard Coal,18,38,47
+2001,Denmark,Gas,9,38,25
+2001,Denmark,Fossil,5,38,13
+2001,Denmark,Renewables,6,38,16
+2001,Denmark,Wind and solar,4,38,11
+2001,Denmark,Wind,4,38,11
+2001,Denmark,Bioenergy,2,38,4
+2001,Estonia,Fossil,8,8,100
+2001,Estonia,Gas,1,8,7
+2001,Estonia,Fossil,8,8,93
+2001,Finland,Fossil,30,74,40
+2001,Finland,Coal,11,74,14
+2001,Finland,Hard Coal,11,74,14
+2001,Finland,Gas,12,74,16
+2001,Finland,Fossil,8,74,10
+2001,Finland,Nuclear,23,74,31
+2001,Finland,Renewables,22,74,29
+2001,Finland,Hydro,13,74,18
+2001,Finland,Bioenergy,8,74,11
+2001,France,Fossil,46,545,9
+2001,France,Coal,20,545,4
+2001,France,Hard Coal,20,545,4
+2001,France,Gas,15,545,3
+2001,France,Fossil,11,545,2
+2001,France,Nuclear,421,545,77
+2001,France,Renewables,78,545,14
+2001,France,Hydro,74,545,14
+2001,France,Bioenergy,3,545,1
+2001,Germany,Fossil,372,582,64
+2001,Germany,Coal,293,582,50
+2001,Germany,Hard Coal,138,582,24
+2001,Germany,Lignite,155,582,27
+2001,Germany,Gas,56,582,10
+2001,Germany,Fossil,23,582,4
+2001,Germany,Nuclear,171,582,29
+2001,Germany,Renewables,39,582,7
+2001,Germany,Hydro,23,582,4
+2001,Germany,Wind and solar,11,582,2
+2001,Germany,Wind,11,582,2
+2001,Germany,Bioenergy,5,582,1
+2001,Greece,Fossil,50,53,94
+2001,Greece,Coal,35,53,67
+2001,Greece,Lignite,35,53,67
+2001,Greece,Gas,6,53,12
+2001,Greece,Fossil,9,53,16
+2001,Greece,Renewables,3,53,6
+2001,Greece,Hydro,2,53,4
+2001,Greece,Wind and solar,1,53,1
+2001,Greece,Wind,1,53,1
+2001,Hungary,Fossil,22,36,61
+2001,Hungary,Coal,9,36,24
+2001,Hungary,Lignite,9,36,24
+2001,Hungary,Gas,9,36,24
+2001,Hungary,Fossil,4,36,12
+2001,Hungary,Nuclear,14,36,39
+2001,Ireland,Fossil,24,25,96
+2001,Ireland,Coal,7,25,29
+2001,Ireland,Hard Coal,7,25,29
+2001,Ireland,Gas,9,25,37
+2001,Ireland,Fossil,7,25,30
+2001,Ireland,Renewables,1,25,4
+2001,Ireland,Hydro,1,25,2
+2001,Italy,Fossil,217,271,80
+2001,Italy,Coal,32,271,12
+2001,Italy,Hard Coal,32,271,12
+2001,Italy,Gas,104,271,38
+2001,Italy,Fossil,81,271,30
+2001,Italy,Renewables,54,271,20
+2001,Italy,Hydro,47,271,17
+2001,Italy,Wind and solar,1,271,0
+2001,Italy,Wind,1,271,0
+2001,Italy,Bioenergy,2,271,1
+2001,Italy,Renewables,5,271,2
+2001,Latvia,Fossil,1,4,34
+2001,Latvia,Gas,1,4,30
+2001,Latvia,Renewables,3,4,66
+2001,Latvia,Hydro,3,4,66
+2001,Lithuania,Fossil,3,14,18
+2001,Lithuania,Gas,2,14,13
+2001,Lithuania,Fossil,1,14,5
+2001,Lithuania,Nuclear,11,14,79
+2001,Luxembourg,Fossil,1,1,81
+2001,Luxembourg,Gas,1,1,77
+2001,Malta,Fossil,2,2,100
+2001,Malta,Fossil,2,2,100
+2001,Netherlands,Fossil,86,93,92
+2001,Netherlands,Coal,25,93,27
+2001,Netherlands,Hard Coal,25,93,27
+2001,Netherlands,Gas,54,93,58
+2001,Netherlands,Fossil,7,93,7
+2001,Netherlands,Nuclear,4,93,4
+2001,Netherlands,Renewables,3,93,4
+2001,Netherlands,Wind and solar,1,93,1
+2001,Netherlands,Wind,1,93,1
+2001,Netherlands,Bioenergy,2,93,3
+2001,Poland,Fossil,141,144,98
+2001,Poland,Coal,135,144,94
+2001,Poland,Hard Coal,80,144,56
+2001,Poland,Lignite,55,144,38
+2001,Poland,Gas,1,144,1
+2001,Poland,Fossil,5,144,3
+2001,Poland,Renewables,3,144,2
+2001,Poland,Hydro,2,144,2
+2001,Portugal,Fossil,30,46,66
+2001,Portugal,Coal,14,46,29
+2001,Portugal,Hard Coal,14,46,29
+2001,Portugal,Gas,7,46,16
+2001,Portugal,Fossil,10,46,21
+2001,Portugal,Renewables,16,46,34
+2001,Portugal,Hydro,14,46,30
+2001,Portugal,Bioenergy,1,46,3
+2001,Romania,Fossil,33,54,62
+2001,Romania,Coal,20,54,37
+2001,Romania,Hard Coal,1,54,2
+2001,Romania,Lignite,19,54,35
+2001,Romania,Gas,8,54,15
+2001,Romania,Fossil,5,54,10
+2001,Romania,Nuclear,5,54,10
+2001,Romania,Renewables,15,54,28
+2001,Romania,Hydro,15,54,28
+2001,Slovakia,Fossil,10,32,30
+2001,Slovakia,Coal,6,32,18
+2001,Slovakia,Hard Coal,3,32,10
+2001,Slovakia,Lignite,3,32,8
+2001,Slovakia,Gas,3,32,8
+2001,Slovakia,Fossil,1,32,4
+2001,Slovakia,Nuclear,17,32,54
+2001,Slovakia,Renewables,5,32,16
+2001,Slovakia,Hydro,5,32,15
+2001,Slovenia,Fossil,5,14,37
+2001,Slovenia,Coal,5,14,34
+2001,Slovenia,Lignite,5,14,32
+2001,Slovenia,Nuclear,5,14,36
+2001,Slovenia,Renewables,4,14,27
+2001,Slovenia,Hydro,4,14,26
+2001,Spain,Fossil,120,233,52
+2001,Spain,Coal,70,233,30
+2001,Spain,Hard Coal,64,233,27
+2001,Spain,Lignite,6,233,3
+2001,Spain,Gas,23,233,10
+2001,Spain,Fossil,26,233,11
+2001,Spain,Nuclear,64,233,27
+2001,Spain,Renewables,49,233,21
+2001,Spain,Hydro,41,233,18
+2001,Spain,Wind and solar,7,233,3
+2001,Spain,Wind,7,233,3
+2001,Spain,Bioenergy,2,233,1
+2001,Sweden,Fossil,6,162,4
+2001,Sweden,Coal,2,162,1
+2001,Sweden,Hard Coal,2,162,1
+2001,Sweden,Fossil,4,162,2
+2001,Sweden,Nuclear,72,162,45
+2001,Sweden,Renewables,83,162,52
+2001,Sweden,Hydro,79,162,49
+2001,Sweden,Bioenergy,4,162,2
+2001,United Kingdom,Fossil,283,382,74
+2001,United Kingdom,Coal,131,382,34
+2001,United Kingdom,Hard Coal,131,382,34
+2001,United Kingdom,Gas,142,382,37
+2001,United Kingdom,Fossil,9,382,2
+2001,United Kingdom,Nuclear,90,382,24
+2001,United Kingdom,Renewables,10,382,2
+2001,United Kingdom,Hydro,4,382,1
+2001,United Kingdom,Wind and solar,1,382,0
+2001,United Kingdom,Wind,1,382,0
+2001,United Kingdom,Bioenergy,5,382,1
+2002,Austria,Fossil,19,61,31
+2002,Austria,Coal,7,61,11
+2002,Austria,Hard Coal,5,61,8
+2002,Austria,Lignite,1,61,2
+2002,Austria,Gas,9,61,15
+2002,Austria,Fossil,3,61,5
+2002,Austria,Renewables,42,61,69
+2002,Austria,Hydro,40,61,66
+2002,Austria,Bioenergy,2,61,3
+2002,Belgium,Fossil,32,81,40
+2002,Belgium,Coal,10,81,12
+2002,Belgium,Hard Coal,10,81,12
+2002,Belgium,Gas,18,81,22
+2002,Belgium,Fossil,5,81,6
+2002,Belgium,Nuclear,47,81,59
+2002,Belgium,Renewables,1,81,1
+2002,Belgium,Bioenergy,1,81,1
+2002,Bulgaria,Fossil,20,42,47
+2002,Bulgaria,Coal,17,42,41
+2002,Bulgaria,Hard Coal,4,42,9
+2002,Bulgaria,Lignite,13,42,32
+2002,Bulgaria,Gas,2,42,4
+2002,Bulgaria,Fossil,1,42,2
+2002,Bulgaria,Nuclear,20,42,48
+2002,Bulgaria,Renewables,2,42,5
+2002,Bulgaria,Hydro,2,42,5
+2002,Croatia,Fossil,7,13,54
+2002,Croatia,Coal,2,13,17
+2002,Croatia,Hard Coal,2,13,16
+2002,Croatia,Gas,3,13,20
+2002,Croatia,Fossil,2,13,17
+2002,Croatia,Renewables,6,13,46
+2002,Croatia,Hydro,6,13,46
+2002,Cyprus,Fossil,4,4,100
+2002,Cyprus,Fossil,4,4,100
+2002,Czech Republic,Fossil,54,76,71
+2002,Czech Republic,Coal,50,76,66
+2002,Czech Republic,Hard Coal,5,76,7
+2002,Czech Republic,Lignite,44,76,59
+2002,Czech Republic,Gas,2,76,2
+2002,Czech Republic,Fossil,3,76,4
+2002,Czech Republic,Nuclear,19,76,25
+2002,Czech Republic,Renewables,3,76,4
+2002,Czech Republic,Hydro,2,76,3
+2002,Czech Republic,Bioenergy,1,76,1
+2002,Denmark,Fossil,32,39,83
+2002,Denmark,Coal,18,39,46
+2002,Denmark,Hard Coal,18,39,46
+2002,Denmark,Gas,10,39,24
+2002,Denmark,Fossil,5,39,12
+2002,Denmark,Renewables,7,39,17
+2002,Denmark,Wind and solar,5,39,12
+2002,Denmark,Wind,5,39,12
+2002,Denmark,Bioenergy,2,39,5
+2002,Estonia,Fossil,8,9,100
+2002,Estonia,Gas,1,9,6
+2002,Estonia,Fossil,8,9,93
+2002,Finland,Fossil,33,75,44
+2002,Finland,Coal,13,75,17
+2002,Finland,Hard Coal,13,75,17
+2002,Finland,Gas,12,75,16
+2002,Finland,Fossil,8,75,11
+2002,Finland,Nuclear,22,75,30
+2002,Finland,Renewables,20,75,27
+2002,Finland,Hydro,11,75,14
+2002,Finland,Bioenergy,9,75,12
+2002,France,Fossil,53,554,10
+2002,France,Coal,24,554,4
+2002,France,Hard Coal,23,554,4
+2002,France,Gas,18,554,3
+2002,France,Fossil,11,554,2
+2002,France,Nuclear,437,554,79
+2002,France,Renewables,64,554,12
+2002,France,Hydro,60,554,11
+2002,France,Bioenergy,3,554,1
+2002,Germany,Fossil,371,582,64
+2002,Germany,Coal,293,582,50
+2002,Germany,Hard Coal,135,582,23
+2002,Germany,Lignite,158,582,27
+2002,Germany,Gas,56,582,10
+2002,Germany,Fossil,22,582,4
+2002,Germany,Nuclear,165,582,28
+2002,Germany,Renewables,46,582,8
+2002,Germany,Hydro,24,582,4
+2002,Germany,Wind and solar,16,582,3
+2002,Germany,Wind,16,582,3
+2002,Germany,Bioenergy,6,582,1
+2002,Greece,Fossil,50,54,93
+2002,Greece,Coal,35,54,64
+2002,Greece,Lignite,35,54,64
+2002,Greece,Gas,7,54,13
+2002,Greece,Fossil,9,54,16
+2002,Greece,Renewables,4,54,7
+2002,Greece,Hydro,3,54,5
+2002,Greece,Wind and solar,1,54,1
+2002,Greece,Wind,1,54,1
+2002,Hungary,Fossil,22,36,61
+2002,Hungary,Coal,9,36,25
+2002,Hungary,Lignite,9,36,25
+2002,Hungary,Gas,11,36,30
+2002,Hungary,Fossil,2,36,6
+2002,Hungary,Nuclear,14,36,39
+2002,Ireland,Fossil,23,25,94
+2002,Ireland,Coal,7,25,27
+2002,Ireland,Hard Coal,7,25,27
+2002,Ireland,Gas,11,25,44
+2002,Ireland,Fossil,6,25,23
+2002,Ireland,Renewables,1,25,6
+2002,Ireland,Hydro,1,25,4
+2002,Italy,Fossil,228,277,83
+2002,Italy,Coal,35,277,13
+2002,Italy,Hard Coal,35,277,13
+2002,Italy,Gas,99,277,36
+2002,Italy,Fossil,94,277,34
+2002,Italy,Renewables,48,277,17
+2002,Italy,Hydro,40,277,14
+2002,Italy,Wind and solar,1,277,1
+2002,Italy,Wind,1,277,1
+2002,Italy,Bioenergy,3,277,1
+2002,Italy,Renewables,5,277,2
+2002,Latvia,Fossil,1,4,37
+2002,Latvia,Gas,1,4,33
+2002,Latvia,Renewables,2,4,63
+2002,Latvia,Hydro,2,4,62
+2002,Lithuania,Fossil,3,17,15
+2002,Lithuania,Gas,2,17,12
+2002,Lithuania,Fossil,1,17,3
+2002,Lithuania,Nuclear,14,17,82
+2002,Luxembourg,Fossil,3,3,95
+2002,Luxembourg,Gas,3,3,93
+2002,Malta,Fossil,2,2,100
+2002,Malta,Fossil,2,2,100
+2002,Netherlands,Fossil,88,96,92
+2002,Netherlands,Coal,26,96,27
+2002,Netherlands,Hard Coal,26,96,27
+2002,Netherlands,Gas,55,96,58
+2002,Netherlands,Fossil,7,96,7
+2002,Netherlands,Nuclear,4,96,4
+2002,Netherlands,Renewables,4,96,4
+2002,Netherlands,Wind and solar,1,96,1
+2002,Netherlands,Wind,1,96,1
+2002,Netherlands,Bioenergy,3,96,3
+2002,Poland,Fossil,140,142,98
+2002,Poland,Coal,133,142,93
+2002,Poland,Hard Coal,80,142,56
+2002,Poland,Lignite,53,142,37
+2002,Poland,Gas,2,142,2
+2002,Poland,Fossil,5,142,3
+2002,Poland,Renewables,3,142,2
+2002,Poland,Hydro,2,142,2
+2002,Portugal,Fossil,36,46,79
+2002,Portugal,Coal,15,46,33
+2002,Portugal,Hard Coal,15,46,33
+2002,Portugal,Gas,9,46,20
+2002,Portugal,Fossil,12,46,26
+2002,Portugal,Renewables,10,46,21
+2002,Portugal,Hydro,8,46,17
+2002,Portugal,Bioenergy,1,46,3
+2002,Romania,Fossil,33,54,60
+2002,Romania,Coal,20,54,37
+2002,Romania,Lignite,20,54,37
+2002,Romania,Gas,9,54,16
+2002,Romania,Fossil,4,54,7
+2002,Romania,Nuclear,6,54,10
+2002,Romania,Renewables,16,54,29
+2002,Romania,Hydro,16,54,29
+2002,Slovakia,Fossil,9,32,27
+2002,Slovakia,Coal,5,32,16
+2002,Slovakia,Hard Coal,3,32,10
+2002,Slovakia,Lignite,2,32,6
+2002,Slovakia,Gas,3,32,8
+2002,Slovakia,Fossil,1,32,4
+2002,Slovakia,Nuclear,18,32,56
+2002,Slovakia,Renewables,5,32,17
+2002,Slovakia,Hydro,5,32,16
+2002,Slovenia,Fossil,6,15,39
+2002,Slovenia,Coal,5,15,36
+2002,Slovenia,Lignite,5,15,33
+2002,Slovenia,Nuclear,6,15,38
+2002,Slovenia,Renewables,3,15,23
+2002,Slovenia,Hydro,3,15,23
+2002,Spain,Fossil,144,240,60
+2002,Spain,Coal,81,240,34
+2002,Spain,Hard Coal,75,240,31
+2002,Spain,Lignite,7,240,3
+2002,Spain,Gas,32,240,13
+2002,Spain,Fossil,30,240,13
+2002,Spain,Nuclear,63,240,26
+2002,Spain,Renewables,33,240,14
+2002,Spain,Hydro,21,240,9
+2002,Spain,Wind and solar,9,240,4
+2002,Spain,Wind,9,240,4
+2002,Spain,Bioenergy,3,240,1
+2002,Sweden,Fossil,7,147,5
+2002,Sweden,Coal,2,147,2
+2002,Sweden,Hard Coal,2,147,2
+2002,Sweden,Gas,1,147,0
+2002,Sweden,Fossil,5,147,3
+2002,Sweden,Nuclear,68,147,46
+2002,Sweden,Renewables,71,147,48
+2002,Sweden,Hydro,66,147,45
+2002,Sweden,Wind and solar,1,147,0
+2002,Sweden,Wind,1,147,0
+2002,Sweden,Bioenergy,4,147,3
+2002,United Kingdom,Fossil,286,385,74
+2002,United Kingdom,Coal,124,385,32
+2002,United Kingdom,Hard Coal,124,385,32
+2002,United Kingdom,Gas,152,385,40
+2002,United Kingdom,Fossil,9,385,2
+2002,United Kingdom,Nuclear,88,385,23
+2002,United Kingdom,Renewables,11,385,3
+2002,United Kingdom,Hydro,5,385,1
+2002,United Kingdom,Wind and solar,1,385,0
+2002,United Kingdom,Wind,1,385,0
+2002,United Kingdom,Bioenergy,5,385,1
+2003,Austria,Fossil,23,58,39
+2003,Austria,Coal,8,58,15
+2003,Austria,Hard Coal,7,58,12
+2003,Austria,Lignite,2,58,3
+2003,Austria,Gas,11,58,19
+2003,Austria,Fossil,3,58,6
+2003,Austria,Renewables,35,58,61
+2003,Austria,Hydro,33,58,57
+2003,Austria,Bioenergy,2,58,3
+2003,Belgium,Fossil,35,84,42
+2003,Belgium,Coal,10,84,12
+2003,Belgium,Hard Coal,10,84,12
+2003,Belgium,Gas,22,84,26
+2003,Belgium,Fossil,4,84,4
+2003,Belgium,Nuclear,47,84,57
+2003,Belgium,Renewables,1,84,1
+2003,Belgium,Bioenergy,1,84,1
+2003,Bulgaria,Fossil,22,42,52
+2003,Bulgaria,Coal,19,42,45
+2003,Bulgaria,Hard Coal,5,42,11
+2003,Bulgaria,Lignite,15,42,35
+2003,Bulgaria,Gas,2,42,4
+2003,Bulgaria,Fossil,1,42,2
+2003,Bulgaria,Nuclear,17,42,41
+2003,Bulgaria,Renewables,3,42,7
+2003,Bulgaria,Hydro,3,42,7
+2003,Croatia,Fossil,8,13,59
+2003,Croatia,Coal,2,13,18
+2003,Croatia,Hard Coal,2,13,18
+2003,Croatia,Gas,2,13,16
+2003,Croatia,Fossil,3,13,25
+2003,Croatia,Renewables,5,13,41
+2003,Croatia,Hydro,5,13,41
+2003,Cyprus,Fossil,4,4,100
+2003,Cyprus,Fossil,4,4,100
+2003,Czech Republic,Fossil,55,83,66
+2003,Czech Republic,Coal,51,83,61
+2003,Czech Republic,Hard Coal,6,83,7
+2003,Czech Republic,Lignite,45,83,54
+2003,Czech Republic,Gas,2,83,2
+2003,Czech Republic,Fossil,3,83,3
+2003,Czech Republic,Nuclear,26,83,31
+2003,Czech Republic,Renewables,2,83,2
+2003,Czech Republic,Hydro,1,83,2
+2003,Denmark,Fossil,38,46,83
+2003,Denmark,Coal,25,46,55
+2003,Denmark,Hard Coal,25,46,55
+2003,Denmark,Gas,10,46,21
+2003,Denmark,Fossil,3,46,7
+2003,Denmark,Renewables,8,46,17
+2003,Denmark,Wind and solar,6,46,12
+2003,Denmark,Wind,6,46,12
+2003,Denmark,Bioenergy,2,46,5
+2003,Estonia,Fossil,10,10,100
+2003,Estonia,Gas,1,10,5
+2003,Estonia,Fossil,10,10,95
+2003,Finland,Fossil,42,84,50
+2003,Finland,Coal,19,84,23
+2003,Finland,Hard Coal,19,84,23
+2003,Finland,Gas,14,84,16
+2003,Finland,Fossil,9,84,11
+2003,Finland,Nuclear,23,84,27
+2003,Finland,Renewables,19,84,23
+2003,Finland,Hydro,10,84,11
+2003,Finland,Bioenergy,9,84,11
+2003,France,Fossil,57,562,10
+2003,France,Coal,26,562,5
+2003,France,Hard Coal,26,562,5
+2003,France,Gas,19,562,3
+2003,France,Fossil,12,562,2
+2003,France,Nuclear,441,562,79
+2003,France,Renewables,63,562,11
+2003,France,Hydro,59,562,10
+2003,France,Bioenergy,3,562,1
+2003,Germany,Fossil,393,604,65
+2003,Germany,Coal,305,604,50
+2003,Germany,Hard Coal,147,604,24
+2003,Germany,Lignite,158,604,26
+2003,Germany,Gas,63,604,10
+2003,Germany,Fossil,25,604,4
+2003,Germany,Nuclear,165,604,27
+2003,Germany,Renewables,46,604,8
+2003,Germany,Hydro,18,604,3
+2003,Germany,Wind and solar,20,604,3
+2003,Germany,Wind,19,604,3
+2003,Germany,Bioenergy,9,604,1
+2003,Greece,Fossil,52,58,90
+2003,Greece,Coal,35,58,61
+2003,Greece,Lignite,35,58,61
+2003,Greece,Gas,8,58,14
+2003,Greece,Fossil,9,58,15
+2003,Greece,Renewables,6,58,10
+2003,Greece,Hydro,5,58,8
+2003,Greece,Wind and solar,1,58,2
+2003,Greece,Wind,1,58,2
+2003,Hungary,Fossil,23,34,67
+2003,Hungary,Coal,9,34,27
+2003,Hungary,Lignite,9,34,26
+2003,Hungary,Gas,12,34,35
+2003,Hungary,Fossil,2,34,5
+2003,Hungary,Nuclear,11,34,32
+2003,Ireland,Fossil,24,25,95
+2003,Ireland,Coal,6,25,25
+2003,Ireland,Hard Coal,6,25,25
+2003,Ireland,Gas,13,25,52
+2003,Ireland,Fossil,4,25,18
+2003,Ireland,Renewables,1,25,5
+2003,Ireland,Hydro,1,25,2
+2003,Italy,Fossil,239,285,84
+2003,Italy,Coal,39,285,14
+2003,Italy,Hard Coal,39,285,14
+2003,Italy,Gas,117,285,41
+2003,Italy,Fossil,82,285,29
+2003,Italy,Renewables,47,285,16
+2003,Italy,Hydro,37,285,13
+2003,Italy,Wind and solar,1,285,1
+2003,Italy,Wind,1,285,1
+2003,Italy,Bioenergy,3,285,1
+2003,Italy,Renewables,5,285,2
+2003,Latvia,Fossil,2,4,41
+2003,Latvia,Gas,2,4,39
+2003,Latvia,Renewables,2,4,59
+2003,Latvia,Hydro,2,4,57
+2003,Lithuania,Fossil,3,19,15
+2003,Lithuania,Gas,3,19,13
+2003,Lithuania,Nuclear,15,19,83
+2003,Luxembourg,Fossil,3,3,95
+2003,Luxembourg,Gas,3,3,94
+2003,Malta,Fossil,2,2,100
+2003,Malta,Fossil,2,2,100
+2003,Netherlands,Fossil,89,97,92
+2003,Netherlands,Coal,27,97,28
+2003,Netherlands,Hard Coal,27,97,28
+2003,Netherlands,Gas,55,97,57
+2003,Netherlands,Fossil,7,97,7
+2003,Netherlands,Nuclear,4,97,4
+2003,Netherlands,Renewables,4,97,4
+2003,Netherlands,Wind and solar,1,97,1
+2003,Netherlands,Wind,1,97,1
+2003,Netherlands,Bioenergy,3,97,3
+2003,Poland,Fossil,148,150,99
+2003,Poland,Coal,141,150,94
+2003,Poland,Hard Coal,85,150,56
+2003,Poland,Lignite,56,150,37
+2003,Poland,Gas,2,150,2
+2003,Poland,Fossil,5,150,3
+2003,Poland,Renewables,2,150,1
+2003,Poland,Hydro,2,150,1
+2003,Portugal,Fossil,29,47,62
+2003,Portugal,Coal,15,47,31
+2003,Portugal,Hard Coal,15,47,31
+2003,Portugal,Gas,8,47,17
+2003,Portugal,Fossil,7,47,14
+2003,Portugal,Renewables,18,47,38
+2003,Portugal,Hydro,16,47,34
+2003,Portugal,Bioenergy,1,47,3
+2003,Romania,Fossil,37,55,67
+2003,Romania,Coal,23,55,43
+2003,Romania,Lignite,23,55,43
+2003,Romania,Gas,10,55,18
+2003,Romania,Fossil,4,55,7
+2003,Romania,Nuclear,5,55,9
+2003,Romania,Renewables,13,55,24
+2003,Romania,Hydro,13,55,24
+2003,Slovakia,Fossil,10,31,31
+2003,Slovakia,Coal,6,31,19
+2003,Slovakia,Hard Coal,4,31,11
+2003,Slovakia,Lignite,2,31,8
+2003,Slovakia,Gas,2,31,8
+2003,Slovakia,Fossil,1,31,4
+2003,Slovakia,Nuclear,18,31,58
+2003,Slovakia,Renewables,4,31,12
+2003,Slovakia,Hydro,3,31,11
+2003,Slovenia,Fossil,6,14,40
+2003,Slovenia,Coal,5,14,37
+2003,Slovenia,Hard Coal,1,14,4
+2003,Slovenia,Lignite,5,14,33
+2003,Slovenia,Nuclear,5,14,38
+2003,Slovenia,Renewables,3,14,22
+2003,Slovenia,Hydro,3,14,21
+2003,Spain,Fossil,140,257,54
+2003,Spain,Coal,75,257,29
+2003,Spain,Hard Coal,69,257,27
+2003,Spain,Lignite,6,257,2
+2003,Spain,Gas,39,257,15
+2003,Spain,Fossil,26,257,10
+2003,Spain,Nuclear,62,257,24
+2003,Spain,Renewables,56,257,22
+2003,Spain,Hydro,40,257,16
+2003,Spain,Wind and solar,12,257,5
+2003,Spain,Wind,12,257,5
+2003,Spain,Bioenergy,3,257,1
+2003,Sweden,Fossil,9,135,7
+2003,Sweden,Coal,3,135,2
+2003,Sweden,Hard Coal,3,135,2
+2003,Sweden,Gas,1,135,1
+2003,Sweden,Fossil,6,135,4
+2003,Sweden,Nuclear,67,135,50
+2003,Sweden,Renewables,59,135,43
+2003,Sweden,Hydro,54,135,40
+2003,Sweden,Wind and solar,1,135,1
+2003,Sweden,Wind,1,135,1
+2003,Sweden,Bioenergy,5,135,3
+2003,United Kingdom,Fossil,296,395,75
+2003,United Kingdom,Coal,138,395,35
+2003,United Kingdom,Hard Coal,138,395,35
+2003,United Kingdom,Gas,149,395,38
+2003,United Kingdom,Fossil,9,395,2
+2003,United Kingdom,Nuclear,89,395,22
+2003,United Kingdom,Renewables,11,395,3
+2003,United Kingdom,Hydro,3,395,1
+2003,United Kingdom,Wind and solar,1,395,0
+2003,United Kingdom,Wind,1,395,0
+2003,United Kingdom,Bioenergy,6,395,2
+2004,Austria,Fossil,22,62,36
+2004,Austria,Coal,8,62,13
+2004,Austria,Hard Coal,7,62,11
+2004,Austria,Lignite,1,62,2
+2004,Austria,Gas,11,62,18
+2004,Austria,Fossil,3,62,6
+2004,Austria,Renewables,40,62,64
+2004,Austria,Hydro,37,62,59
+2004,Austria,Wind and solar,1,62,2
+2004,Austria,Wind,1,62,2
+2004,Austria,Bioenergy,2,62,3
+2004,Belgium,Fossil,36,84,42
+2004,Belgium,Coal,9,84,11
+2004,Belgium,Hard Coal,9,84,11
+2004,Belgium,Gas,21,84,25
+2004,Belgium,Fossil,5,84,6
+2004,Belgium,Nuclear,47,84,56
+2004,Belgium,Renewables,1,84,2
+2004,Belgium,Bioenergy,1,84,1
+2004,Bulgaria,Fossil,21,41,52
+2004,Bulgaria,Coal,19,41,46
+2004,Bulgaria,Hard Coal,4,41,10
+2004,Bulgaria,Lignite,15,41,36
+2004,Bulgaria,Gas,1,41,4
+2004,Bulgaria,Fossil,1,41,3
+2004,Bulgaria,Nuclear,17,41,41
+2004,Bulgaria,Renewables,3,41,8
+2004,Bulgaria,Hydro,3,41,8
+2004,Croatia,Fossil,6,14,45
+2004,Croatia,Coal,2,14,15
+2004,Croatia,Hard Coal,2,14,15
+2004,Croatia,Gas,2,14,18
+2004,Croatia,Fossil,2,14,12
+2004,Croatia,Renewables,8,14,55
+2004,Croatia,Hydro,8,14,55
+2004,Cyprus,Fossil,4,4,100
+2004,Cyprus,Fossil,4,4,100
+2004,Czech Republic,Fossil,55,84,65
+2004,Czech Republic,Coal,50,84,60
+2004,Czech Republic,Hard Coal,6,84,7
+2004,Czech Republic,Lignite,44,84,53
+2004,Czech Republic,Gas,2,84,2
+2004,Czech Republic,Fossil,3,84,3
+2004,Czech Republic,Nuclear,26,84,31
+2004,Czech Republic,Renewables,3,84,3
+2004,Czech Republic,Hydro,2,84,2
+2004,Czech Republic,Bioenergy,1,84,1
+2004,Denmark,Fossil,31,40,76
+2004,Denmark,Coal,19,40,46
+2004,Denmark,Hard Coal,19,40,46
+2004,Denmark,Gas,10,40,25
+2004,Denmark,Fossil,2,40,6
+2004,Denmark,Renewables,10,40,24
+2004,Denmark,Wind and solar,7,40,16
+2004,Denmark,Wind,7,40,16
+2004,Denmark,Bioenergy,3,40,7
+2004,Estonia,Fossil,10,10,99
+2004,Estonia,Fossil,10,10,95
+2004,Finland,Fossil,37,86,44
+2004,Finland,Coal,16,86,19
+2004,Finland,Hard Coal,16,86,19
+2004,Finland,Gas,13,86,15
+2004,Finland,Fossil,8,86,9
+2004,Finland,Nuclear,23,86,27
+2004,Finland,Renewables,26,86,30
+2004,Finland,Hydro,15,86,18
+2004,Finland,Bioenergy,10,86,12
+2004,France,Fossil,57,569,10
+2004,France,Coal,24,569,4
+2004,France,Hard Coal,24,569,4
+2004,France,Gas,21,569,4
+2004,France,Fossil,11,569,2
+2004,France,Nuclear,448,569,79
+2004,France,Renewables,64,569,11
+2004,France,Hydro,60,569,10
+2004,France,Wind and solar,1,569,0
+2004,France,Wind,1,569,0
+2004,France,Bioenergy,3,569,1
+2004,Germany,Fossil,387,612,63
+2004,Germany,Coal,299,612,49
+2004,Germany,Hard Coal,141,612,23
+2004,Germany,Lignite,158,612,26
+2004,Germany,Gas,63,612,10
+2004,Germany,Fossil,26,612,4
+2004,Germany,Nuclear,167,612,27
+2004,Germany,Renewables,58,612,9
+2004,Germany,Hydro,20,612,3
+2004,Germany,Wind and solar,27,612,4
+2004,Germany,Wind,26,612,4
+2004,Germany,Solar,1,612,0
+2004,Germany,Bioenergy,11,612,2
+2004,Greece,Fossil,53,59,90
+2004,Greece,Coal,35,59,60
+2004,Greece,Lignite,35,59,60
+2004,Greece,Gas,9,59,15
+2004,Greece,Fossil,9,59,14
+2004,Greece,Renewables,6,59,10
+2004,Greece,Hydro,5,59,8
+2004,Greece,Wind and solar,1,59,2
+2004,Greece,Wind,1,59,2
+2004,Hungary,Fossil,21,34,62
+2004,Hungary,Coal,8,34,24
+2004,Hungary,Lignite,8,34,23
+2004,Hungary,Gas,12,34,35
+2004,Hungary,Fossil,1,34,3
+2004,Hungary,Nuclear,12,34,35
+2004,Hungary,Renewables,1,34,3
+2004,Hungary,Bioenergy,1,34,2
+2004,Ireland,Fossil,24,25,94
+2004,Ireland,Coal,6,25,25
+2004,Ireland,Hard Coal,6,25,25
+2004,Ireland,Gas,13,25,51
+2004,Ireland,Fossil,5,25,19
+2004,Ireland,Renewables,1,25,6
+2004,Ireland,Hydro,1,25,2
+2004,Ireland,Wind and solar,1,25,3
+2004,Ireland,Wind,1,25,3
+2004,Italy,Fossil,241,295,82
+2004,Italy,Coal,46,295,15
+2004,Italy,Hard Coal,46,295,15
+2004,Italy,Gas,130,295,44
+2004,Italy,Fossil,66,295,22
+2004,Italy,Renewables,54,295,18
+2004,Italy,Hydro,42,295,14
+2004,Italy,Wind and solar,2,295,1
+2004,Italy,Wind,2,295,1
+2004,Italy,Bioenergy,4,295,1
+2004,Italy,Renewables,5,295,2
+2004,Latvia,Fossil,1,5,32
+2004,Latvia,Gas,1,5,31
+2004,Latvia,Renewables,3,5,68
+2004,Latvia,Hydro,3,5,66
+2004,Lithuania,Fossil,3,19,16
+2004,Lithuania,Gas,3,19,14
+2004,Lithuania,Nuclear,15,19,81
+2004,Luxembourg,Fossil,3,3,94
+2004,Luxembourg,Gas,3,3,93
+2004,Malta,Fossil,2,2,100
+2004,Malta,Fossil,2,2,100
+2004,Netherlands,Fossil,92,101,91
+2004,Netherlands,Coal,25,101,25
+2004,Netherlands,Hard Coal,25,101,25
+2004,Netherlands,Gas,60,101,59
+2004,Netherlands,Fossil,7,101,7
+2004,Netherlands,Nuclear,4,101,4
+2004,Netherlands,Renewables,5,101,5
+2004,Netherlands,Wind and solar,2,101,2
+2004,Netherlands,Wind,2,101,2
+2004,Netherlands,Bioenergy,3,101,3
+2004,Poland,Fossil,149,152,98
+2004,Poland,Coal,141,152,93
+2004,Poland,Hard Coal,85,152,56
+2004,Poland,Lignite,56,152,37
+2004,Poland,Gas,3,152,2
+2004,Poland,Fossil,5,152,3
+2004,Poland,Renewables,3,152,2
+2004,Poland,Hydro,2,152,1
+2004,Poland,Bioenergy,1,152,1
+2004,Portugal,Fossil,33,45,73
+2004,Portugal,Coal,15,45,33
+2004,Portugal,Hard Coal,15,45,33
+2004,Portugal,Gas,12,45,26
+2004,Portugal,Fossil,6,45,13
+2004,Portugal,Renewables,12,45,27
+2004,Portugal,Hydro,10,45,22
+2004,Portugal,Wind and solar,1,45,2
+2004,Portugal,Wind,1,45,2
+2004,Portugal,Bioenergy,2,45,3
+2004,Romania,Fossil,34,56,61
+2004,Romania,Coal,21,56,38
+2004,Romania,Hard Coal,1,56,1
+2004,Romania,Lignite,21,56,37
+2004,Romania,Gas,10,56,19
+2004,Romania,Fossil,2,56,4
+2004,Romania,Nuclear,6,56,10
+2004,Romania,Renewables,17,56,29
+2004,Romania,Hydro,17,56,29
+2004,Slovakia,Fossil,9,30,31
+2004,Slovakia,Coal,6,30,19
+2004,Slovakia,Hard Coal,3,30,11
+2004,Slovakia,Lignite,2,30,8
+2004,Slovakia,Gas,2,30,8
+2004,Slovakia,Fossil,1,30,4
+2004,Slovakia,Nuclear,17,30,56
+2004,Slovakia,Renewables,4,30,14
+2004,Slovakia,Hydro,4,30,13
+2004,Slovenia,Fossil,6,15,37
+2004,Slovenia,Coal,5,15,34
+2004,Slovenia,Hard Coal,1,15,3
+2004,Slovenia,Lignite,5,15,31
+2004,Slovenia,Nuclear,5,15,36
+2004,Slovenia,Renewables,4,15,28
+2004,Slovenia,Hydro,4,15,27
+2004,Spain,Fossil,160,274,58
+2004,Spain,Coal,79,274,29
+2004,Spain,Hard Coal,73,274,27
+2004,Spain,Lignite,6,274,2
+2004,Spain,Gas,55,274,20
+2004,Spain,Fossil,25,274,9
+2004,Spain,Nuclear,64,274,23
+2004,Spain,Renewables,50,274,18
+2004,Spain,Hydro,31,274,11
+2004,Spain,Wind and solar,16,274,6
+2004,Spain,Wind,16,274,6
+2004,Spain,Bioenergy,3,274,1
+2004,Sweden,Fossil,6,152,4
+2004,Sweden,Coal,1,152,1
+2004,Sweden,Hard Coal,1,152,1
+2004,Sweden,Gas,1,152,1
+2004,Sweden,Fossil,4,152,3
+2004,Sweden,Nuclear,77,152,51
+2004,Sweden,Renewables,68,152,45
+2004,Sweden,Hydro,60,152,40
+2004,Sweden,Wind and solar,1,152,1
+2004,Sweden,Wind,1,152,1
+2004,Sweden,Bioenergy,7,152,5
+2004,United Kingdom,Fossil,297,391,76
+2004,United Kingdom,Coal,132,391,34
+2004,United Kingdom,Hard Coal,132,391,34
+2004,United Kingdom,Gas,157,391,40
+2004,United Kingdom,Fossil,8,391,2
+2004,United Kingdom,Nuclear,80,391,20
+2004,United Kingdom,Renewables,14,391,4
+2004,United Kingdom,Hydro,5,391,1
+2004,United Kingdom,Wind and solar,2,391,0
+2004,United Kingdom,Wind,2,391,0
+2004,United Kingdom,Bioenergy,7,391,2
+2005,Austria,Fossil,24,64,37
+2005,Austria,Coal,7,64,11
+2005,Austria,Hard Coal,6,64,9
+2005,Austria,Lignite,1,64,2
+2005,Austria,Gas,13,64,20
+2005,Austria,Fossil,3,64,5
+2005,Austria,Renewables,41,64,63
+2005,Austria,Hydro,37,64,58
+2005,Austria,Wind and solar,1,64,2
+2005,Austria,Wind,1,64,2
+2005,Austria,Bioenergy,2,64,4
+2005,Belgium,Fossil,36,85,42
+2005,Belgium,Coal,8,85,10
+2005,Belgium,Hard Coal,8,85,10
+2005,Belgium,Gas,23,85,27
+2005,Belgium,Fossil,5,85,5
+2005,Belgium,Nuclear,48,85,56
+2005,Belgium,Renewables,2,85,2
+2005,Belgium,Bioenergy,2,85,2
+2005,Bulgaria,Fossil,21,44,48
+2005,Bulgaria,Coal,18,44,42
+2005,Bulgaria,Hard Coal,4,44,10
+2005,Bulgaria,Lignite,14,44,32
+2005,Bulgaria,Gas,2,44,4
+2005,Bulgaria,Fossil,1,44,2
+2005,Bulgaria,Nuclear,19,44,42
+2005,Bulgaria,Renewables,4,44,10
+2005,Bulgaria,Hydro,4,44,10
+2005,Croatia,Fossil,6,13,46
+2005,Croatia,Coal,2,13,18
+2005,Croatia,Hard Coal,2,13,18
+2005,Croatia,Gas,2,13,14
+2005,Croatia,Fossil,2,13,14
+2005,Croatia,Renewables,7,13,54
+2005,Croatia,Hydro,7,13,54
+2005,Cyprus,Fossil,4,4,100
+2005,Cyprus,Fossil,4,4,100
+2005,Czech Republic,Fossil,54,82,66
+2005,Czech Republic,Coal,50,82,60
+2005,Czech Republic,Hard Coal,6,82,7
+2005,Czech Republic,Lignite,44,82,54
+2005,Czech Republic,Gas,1,82,2
+2005,Czech Republic,Fossil,3,82,4
+2005,Czech Republic,Nuclear,25,82,30
+2005,Czech Republic,Renewables,3,82,4
+2005,Czech Republic,Hydro,2,82,3
+2005,Czech Republic,Bioenergy,1,82,1
+2005,Denmark,Fossil,26,36,73
+2005,Denmark,Coal,15,36,43
+2005,Denmark,Hard Coal,15,36,43
+2005,Denmark,Gas,9,36,24
+2005,Denmark,Fossil,2,36,6
+2005,Denmark,Renewables,10,36,27
+2005,Denmark,Wind and solar,7,36,18
+2005,Denmark,Wind,7,36,18
+2005,Denmark,Bioenergy,3,36,9
+2005,Estonia,Fossil,10,10,99
+2005,Estonia,Gas,1,10,5
+2005,Estonia,Fossil,10,10,94
+2005,Finland,Fossil,24,70,34
+2005,Finland,Coal,6,70,9
+2005,Finland,Hard Coal,6,70,9
+2005,Finland,Gas,11,70,16
+2005,Finland,Fossil,6,70,8
+2005,Finland,Nuclear,23,70,33
+2005,Finland,Renewables,23,70,33
+2005,Finland,Hydro,14,70,20
+2005,Finland,Bioenergy,10,70,14
+2005,France,Fossil,63,571,11
+2005,France,Coal,28,571,5
+2005,France,Hard Coal,28,571,5
+2005,France,Gas,23,571,4
+2005,France,Fossil,13,571,2
+2005,France,Nuclear,452,571,79
+2005,France,Renewables,56,571,10
+2005,France,Hydro,51,571,9
+2005,France,Wind and solar,1,571,0
+2005,France,Wind,1,571,0
+2005,France,Bioenergy,3,571,1
+2005,Germany,Fossil,390,617,63
+2005,Germany,Coal,288,617,47
+2005,Germany,Hard Coal,134,617,22
+2005,Germany,Lignite,154,617,25
+2005,Germany,Gas,73,617,12
+2005,Germany,Fossil,29,617,5
+2005,Germany,Nuclear,163,617,26
+2005,Germany,Renewables,64,617,10
+2005,Germany,Hydro,20,617,3
+2005,Germany,Wind and solar,29,617,5
+2005,Germany,Wind,28,617,5
+2005,Germany,Solar,1,617,0
+2005,Germany,Bioenergy,15,617,2
+2005,Greece,Fossil,53,59,89
+2005,Greece,Coal,36,59,60
+2005,Greece,Lignite,36,59,60
+2005,Greece,Gas,8,59,14
+2005,Greece,Fossil,9,59,16
+2005,Greece,Renewables,6,59,11
+2005,Greece,Hydro,5,59,8
+2005,Greece,Wind and solar,1,59,2
+2005,Greece,Wind,1,59,2
+2005,Hungary,Fossil,20,36,56
+2005,Hungary,Coal,7,36,20
+2005,Hungary,Lignite,7,36,19
+2005,Hungary,Gas,12,36,35
+2005,Hungary,Fossil,1,36,2
+2005,Hungary,Nuclear,14,36,39
+2005,Hungary,Renewables,2,36,5
+2005,Hungary,Bioenergy,2,36,5
+2005,Ireland,Fossil,24,26,93
+2005,Ireland,Coal,6,26,25
+2005,Ireland,Hard Coal,6,26,25
+2005,Ireland,Gas,12,26,45
+2005,Ireland,Fossil,6,26,23
+2005,Ireland,Renewables,2,26,7
+2005,Ireland,Hydro,1,26,2
+2005,Ireland,Wind and solar,1,26,4
+2005,Ireland,Wind,1,26,4
+2005,Italy,Fossil,247,296,84
+2005,Italy,Coal,44,296,15
+2005,Italy,Hard Coal,44,296,15
+2005,Italy,Gas,149,296,50
+2005,Italy,Fossil,54,296,18
+2005,Italy,Renewables,48,296,16
+2005,Italy,Hydro,36,296,12
+2005,Italy,Wind and solar,2,296,1
+2005,Italy,Wind,2,296,1
+2005,Italy,Bioenergy,5,296,2
+2005,Italy,Renewables,5,296,2
+2005,Latvia,Fossil,1,5,30
+2005,Latvia,Gas,1,5,30
+2005,Latvia,Renewables,3,5,70
+2005,Latvia,Hydro,3,5,68
+2005,Lithuania,Fossil,3,14,24
+2005,Lithuania,Gas,3,14,21
+2005,Lithuania,Nuclear,10,14,73
+2005,Luxembourg,Fossil,3,3,94
+2005,Luxembourg,Gas,3,3,93
+2005,Malta,Fossil,2,2,100
+2005,Malta,Fossil,2,2,100
+2005,Netherlands,Fossil,88,100,89
+2005,Netherlands,Coal,24,100,24
+2005,Netherlands,Hard Coal,24,100,24
+2005,Netherlands,Gas,58,100,58
+2005,Netherlands,Fossil,7,100,7
+2005,Netherlands,Nuclear,4,100,4
+2005,Netherlands,Renewables,7,100,7
+2005,Netherlands,Wind and solar,2,100,2
+2005,Netherlands,Wind,2,100,2
+2005,Netherlands,Bioenergy,5,100,5
+2005,Poland,Fossil,151,155,98
+2005,Poland,Coal,142,155,92
+2005,Poland,Hard Coal,87,155,56
+2005,Poland,Lignite,55,155,35
+2005,Poland,Gas,5,155,3
+2005,Poland,Fossil,4,155,3
+2005,Poland,Renewables,4,155,2
+2005,Poland,Hydro,2,155,1
+2005,Poland,Bioenergy,2,155,1
+2005,Portugal,Fossil,38,46,82
+2005,Portugal,Coal,15,46,33
+2005,Portugal,Hard Coal,15,46,33
+2005,Portugal,Gas,14,46,29
+2005,Portugal,Fossil,9,46,20
+2005,Portugal,Renewables,8,46,18
+2005,Portugal,Hydro,5,46,10
+2005,Portugal,Wind and solar,2,46,4
+2005,Portugal,Wind,2,46,4
+2005,Portugal,Bioenergy,2,46,4
+2005,Romania,Fossil,34,59,57
+2005,Romania,Coal,22,59,37
+2005,Romania,Lignite,21,59,36
+2005,Romania,Gas,10,59,16
+2005,Romania,Fossil,2,59,4
+2005,Romania,Nuclear,6,59,9
+2005,Romania,Renewables,20,59,34
+2005,Romania,Hydro,20,59,34
+2005,Slovakia,Fossil,9,31,28
+2005,Slovakia,Coal,6,31,18
+2005,Slovakia,Hard Coal,4,31,11
+2005,Slovakia,Lignite,2,31,6
+2005,Slovakia,Gas,2,31,7
+2005,Slovakia,Fossil,1,31,4
+2005,Slovakia,Nuclear,18,31,57
+2005,Slovakia,Renewables,5,31,15
+2005,Slovakia,Hydro,5,31,15
+2005,Slovenia,Fossil,6,15,37
+2005,Slovenia,Coal,5,15,35
+2005,Slovenia,Hard Coal,1,15,3
+2005,Slovenia,Lignite,5,15,31
+2005,Slovenia,Nuclear,6,15,39
+2005,Slovenia,Renewables,4,15,24
+2005,Slovenia,Hydro,3,15,23
+2005,Spain,Fossil,185,284,65
+2005,Spain,Coal,79,284,28
+2005,Spain,Hard Coal,74,284,26
+2005,Spain,Lignite,5,284,2
+2005,Spain,Gas,79,284,28
+2005,Spain,Fossil,27,284,9
+2005,Spain,Nuclear,58,284,20
+2005,Spain,Renewables,42,284,15
+2005,Spain,Hydro,18,284,6
+2005,Spain,Wind and solar,21,284,7
+2005,Spain,Wind,21,284,7
+2005,Spain,Bioenergy,3,284,1
+2005,Sweden,Fossil,5,158,3
+2005,Sweden,Coal,1,158,0
+2005,Sweden,Hard Coal,1,158,0
+2005,Sweden,Gas,1,158,0
+2005,Sweden,Fossil,4,158,2
+2005,Sweden,Nuclear,72,158,46
+2005,Sweden,Renewables,81,158,51
+2005,Sweden,Hydro,73,158,46
+2005,Sweden,Wind and solar,1,158,1
+2005,Sweden,Wind,1,158,1
+2005,Sweden,Bioenergy,7,158,5
+2005,United Kingdom,Fossil,297,395,75
+2005,United Kingdom,Coal,135,395,34
+2005,United Kingdom,Hard Coal,135,395,34
+2005,United Kingdom,Gas,153,395,39
+2005,United Kingdom,Fossil,10,395,2
+2005,United Kingdom,Nuclear,82,395,21
+2005,United Kingdom,Renewables,17,395,4
+2005,United Kingdom,Hydro,5,395,1
+2005,United Kingdom,Wind and solar,3,395,1
+2005,United Kingdom,Wind,3,395,1
+2005,United Kingdom,Bioenergy,9,395,2
+2006,Austria,Fossil,21,62,34
+2006,Austria,Coal,7,62,11
+2006,Austria,Hard Coal,6,62,10
+2006,Austria,Lignite,1,62,1
+2006,Austria,Gas,11,62,17
+2006,Austria,Fossil,4,62,6
+2006,Austria,Renewables,41,62,66
+2006,Austria,Hydro,36,62,58
+2006,Austria,Wind and solar,2,62,3
+2006,Austria,Wind,2,62,3
+2006,Austria,Bioenergy,3,62,5
+2006,Belgium,Fossil,34,84,41
+2006,Belgium,Coal,7,84,8
+2006,Belgium,Hard Coal,7,84,8
+2006,Belgium,Gas,23,84,27
+2006,Belgium,Fossil,5,84,5
+2006,Belgium,Nuclear,47,84,55
+2006,Belgium,Renewables,3,84,4
+2006,Belgium,Bioenergy,2,84,3
+2006,Bulgaria,Fossil,22,45,48
+2006,Bulgaria,Coal,19,45,42
+2006,Bulgaria,Hard Coal,5,45,11
+2006,Bulgaria,Lignite,14,45,31
+2006,Bulgaria,Gas,2,45,5
+2006,Bulgaria,Fossil,1,45,1
+2006,Bulgaria,Nuclear,19,45,43
+2006,Bulgaria,Renewables,4,45,9
+2006,Bulgaria,Hydro,4,45,9
+2006,Croatia,Fossil,6,13,49
+2006,Croatia,Coal,2,13,17
+2006,Croatia,Hard Coal,2,13,17
+2006,Croatia,Gas,2,13,16
+2006,Croatia,Fossil,2,13,15
+2006,Croatia,Renewables,7,13,51
+2006,Croatia,Hydro,7,13,51
+2006,Cyprus,Fossil,5,5,100
+2006,Cyprus,Fossil,5,5,100
+2006,Czech Republic,Fossil,54,84,65
+2006,Czech Republic,Coal,50,84,59
+2006,Czech Republic,Hard Coal,6,84,7
+2006,Czech Republic,Lignite,44,84,52
+2006,Czech Republic,Gas,2,84,2
+2006,Czech Republic,Fossil,3,84,3
+2006,Czech Republic,Nuclear,26,84,31
+2006,Czech Republic,Renewables,4,84,4
+2006,Czech Republic,Hydro,3,84,3
+2006,Czech Republic,Bioenergy,1,84,1
+2006,Denmark,Fossil,36,46,80
+2006,Denmark,Coal,25,46,54
+2006,Denmark,Hard Coal,25,46,54
+2006,Denmark,Gas,9,46,21
+2006,Denmark,Fossil,2,46,5
+2006,Denmark,Renewables,9,46,20
+2006,Denmark,Wind and solar,6,46,13
+2006,Denmark,Wind,6,46,13
+2006,Denmark,Bioenergy,3,46,7
+2006,Estonia,Fossil,10,10,99
+2006,Estonia,Gas,1,10,6
+2006,Estonia,Fossil,9,10,93
+2006,Finland,Fossil,37,82,45
+2006,Finland,Coal,16,82,20
+2006,Finland,Hard Coal,16,82,20
+2006,Finland,Gas,12,82,15
+2006,Finland,Fossil,8,82,10
+2006,Finland,Nuclear,23,82,28
+2006,Finland,Renewables,22,82,27
+2006,Finland,Hydro,11,82,14
+2006,Finland,Bioenergy,11,82,13
+2006,France,Fossil,57,569,10
+2006,France,Coal,23,569,4
+2006,France,Hard Coal,23,569,4
+2006,France,Gas,22,569,4
+2006,France,Fossil,12,569,2
+2006,France,Nuclear,450,569,79
+2006,France,Renewables,62,569,11
+2006,France,Hydro,56,569,10
+2006,France,Wind and solar,2,569,0
+2006,France,Wind,2,569,0
+2006,France,Bioenergy,3,569,1
+2006,Germany,Fossil,394,634,62
+2006,Germany,Coal,289,634,46
+2006,Germany,Hard Coal,138,634,22
+2006,Germany,Lignite,151,634,24
+2006,Germany,Gas,75,634,12
+2006,Germany,Fossil,29,634,5
+2006,Germany,Nuclear,167,634,26
+2006,Germany,Renewables,73,634,11
+2006,Germany,Hydro,20,634,3
+2006,Germany,Wind and solar,34,634,5
+2006,Germany,Wind,31,634,5
+2006,Germany,Solar,2,634,0
+2006,Germany,Bioenergy,19,634,3
+2006,Greece,Fossil,53,60,87
+2006,Greece,Coal,32,60,54
+2006,Greece,Lignite,32,60,54
+2006,Greece,Gas,11,60,18
+2006,Greece,Fossil,10,60,16
+2006,Greece,Renewables,8,60,13
+2006,Greece,Hydro,6,60,10
+2006,Greece,Wind and solar,2,60,3
+2006,Greece,Wind,2,60,3
+2006,Hungary,Fossil,21,36,58
+2006,Hungary,Coal,7,36,20
+2006,Hungary,Lignite,7,36,19
+2006,Hungary,Gas,13,36,37
+2006,Hungary,Fossil,1,36,2
+2006,Hungary,Nuclear,13,36,38
+2006,Hungary,Renewables,1,36,4
+2006,Hungary,Bioenergy,1,36,4
+2006,Ireland,Fossil,25,27,91
+2006,Ireland,Coal,6,27,22
+2006,Ireland,Hard Coal,6,27,22
+2006,Ireland,Gas,14,27,51
+2006,Ireland,Fossil,5,27,18
+2006,Ireland,Renewables,2,27,9
+2006,Ireland,Hydro,1,27,3
+2006,Ireland,Wind and solar,2,27,6
+2006,Ireland,Wind,2,27,6
+2006,Italy,Fossil,256,307,83
+2006,Italy,Coal,44,307,14
+2006,Italy,Hard Coal,44,307,14
+2006,Italy,Gas,158,307,52
+2006,Italy,Fossil,54,307,18
+2006,Italy,Renewables,51,307,17
+2006,Italy,Hydro,37,307,12
+2006,Italy,Wind and solar,3,307,1
+2006,Italy,Wind,3,307,1
+2006,Italy,Bioenergy,5,307,2
+2006,Italy,Renewables,6,307,2
+2006,Latvia,Fossil,2,5,43
+2006,Latvia,Gas,2,5,43
+2006,Latvia,Renewables,3,5,57
+2006,Latvia,Hydro,3,5,55
+2006,Lithuania,Fossil,3,12,24
+2006,Lithuania,Gas,2,12,21
+2006,Lithuania,Nuclear,9,12,73
+2006,Luxembourg,Fossil,3,4,93
+2006,Luxembourg,Gas,3,4,92
+2006,Malta,Fossil,2,2,100
+2006,Malta,Fossil,2,2,100
+2006,Netherlands,Fossil,87,99,88
+2006,Netherlands,Coal,24,99,24
+2006,Netherlands,Hard Coal,24,99,24
+2006,Netherlands,Gas,57,99,58
+2006,Netherlands,Fossil,6,99,6
+2006,Netherlands,Nuclear,3,99,4
+2006,Netherlands,Renewables,8,99,8
+2006,Netherlands,Wind and solar,3,99,3
+2006,Netherlands,Wind,3,99,3
+2006,Netherlands,Bioenergy,5,99,5
+2006,Poland,Fossil,156,160,97
+2006,Poland,Coal,147,160,92
+2006,Poland,Hard Coal,94,160,58
+2006,Poland,Lignite,53,160,33
+2006,Poland,Gas,5,160,3
+2006,Poland,Fossil,5,160,3
+2006,Poland,Renewables,4,160,3
+2006,Poland,Hydro,2,160,1
+2006,Poland,Bioenergy,2,160,1
+2006,Portugal,Fossil,33,49,68
+2006,Portugal,Coal,15,49,31
+2006,Portugal,Hard Coal,15,49,31
+2006,Portugal,Gas,12,49,25
+2006,Portugal,Fossil,6,49,11
+2006,Portugal,Renewables,16,49,32
+2006,Portugal,Hydro,11,49,23
+2006,Portugal,Wind and solar,3,49,6
+2006,Portugal,Wind,3,49,6
+2006,Portugal,Bioenergy,2,49,4
+2006,Romania,Fossil,39,63,62
+2006,Romania,Coal,25,63,40
+2006,Romania,Hard Coal,1,63,1
+2006,Romania,Lignite,25,63,39
+2006,Romania,Gas,12,63,19
+2006,Romania,Fossil,2,63,3
+2006,Romania,Nuclear,6,63,9
+2006,Romania,Renewables,18,63,29
+2006,Romania,Hydro,18,63,29
+2006,Slovakia,Fossil,8,31,27
+2006,Slovakia,Coal,5,31,17
+2006,Slovakia,Hard Coal,3,31,11
+2006,Slovakia,Lignite,2,31,6
+2006,Slovakia,Gas,2,31,6
+2006,Slovakia,Fossil,1,31,4
+2006,Slovakia,Nuclear,18,31,58
+2006,Slovakia,Renewables,5,31,15
+2006,Slovakia,Hydro,4,31,14
+2006,Slovenia,Fossil,6,15,39
+2006,Slovenia,Coal,5,15,36
+2006,Slovenia,Hard Coal,1,15,3
+2006,Slovenia,Lignite,5,15,33
+2006,Slovenia,Nuclear,6,15,37
+2006,Slovenia,Renewables,4,15,24
+2006,Slovenia,Hydro,4,15,24
+2006,Spain,Fossil,183,295,62
+2006,Spain,Coal,67,295,23
+2006,Spain,Hard Coal,62,295,21
+2006,Spain,Lignite,5,295,2
+2006,Spain,Gas,91,295,31
+2006,Spain,Fossil,26,295,9
+2006,Spain,Nuclear,60,295,20
+2006,Spain,Renewables,52,295,18
+2006,Spain,Hydro,26,295,9
+2006,Spain,Wind and solar,23,295,8
+2006,Spain,Wind,23,295,8
+2006,Spain,Bioenergy,3,295,1
+2006,Sweden,Fossil,5,143,4
+2006,Sweden,Coal,1,143,1
+2006,Sweden,Hard Coal,1,143,1
+2006,Sweden,Gas,1,143,0
+2006,Sweden,Fossil,4,143,3
+2006,Sweden,Nuclear,67,143,47
+2006,Sweden,Renewables,71,143,50
+2006,Sweden,Hydro,62,143,43
+2006,Sweden,Wind and solar,1,143,1
+2006,Sweden,Wind,1,143,1
+2006,Sweden,Bioenergy,8,143,6
+2006,United Kingdom,Fossil,300,393,76
+2006,United Kingdom,Coal,149,393,38
+2006,United Kingdom,Hard Coal,149,393,38
+2006,United Kingdom,Gas,141,393,36
+2006,United Kingdom,Fossil,10,393,3
+2006,United Kingdom,Nuclear,75,393,19
+2006,United Kingdom,Renewables,18,393,5
+2006,United Kingdom,Hydro,5,393,1
+2006,United Kingdom,Wind and solar,4,393,1
+2006,United Kingdom,Wind,4,393,1
+2006,United Kingdom,Bioenergy,9,393,2
+2007,Austria,Fossil,20,63,31
+2007,Austria,Coal,7,63,10
+2007,Austria,Hard Coal,7,63,10
+2007,Austria,Gas,10,63,16
+2007,Austria,Fossil,3,63,5
+2007,Austria,Renewables,43,63,69
+2007,Austria,Hydro,37,63,59
+2007,Austria,Wind and solar,2,63,3
+2007,Austria,Wind,2,63,3
+2007,Austria,Bioenergy,4,63,6
+2007,Belgium,Fossil,36,87,41
+2007,Belgium,Coal,6,87,7
+2007,Belgium,Hard Coal,6,87,7
+2007,Belgium,Gas,25,87,29
+2007,Belgium,Fossil,4,87,4
+2007,Belgium,Nuclear,48,87,55
+2007,Belgium,Renewables,3,87,4
+2007,Belgium,Bioenergy,3,87,3
+2007,Bulgaria,Fossil,25,43,59
+2007,Bulgaria,Coal,22,43,52
+2007,Bulgaria,Hard Coal,6,43,14
+2007,Bulgaria,Lignite,16,43,38
+2007,Bulgaria,Gas,2,43,5
+2007,Bulgaria,Fossil,1,43,2
+2007,Bulgaria,Nuclear,15,43,34
+2007,Bulgaria,Renewables,3,43,7
+2007,Bulgaria,Hydro,3,43,7
+2007,Croatia,Fossil,8,13,62
+2007,Croatia,Coal,2,13,19
+2007,Croatia,Hard Coal,2,13,19
+2007,Croatia,Gas,3,13,24
+2007,Croatia,Fossil,2,13,18
+2007,Croatia,Renewables,5,13,38
+2007,Croatia,Hydro,5,13,37
+2007,Cyprus,Fossil,5,5,100
+2007,Cyprus,Fossil,5,5,100
+2007,Czech Republic,Fossil,58,88,66
+2007,Czech Republic,Coal,54,88,61
+2007,Czech Republic,Hard Coal,7,88,8
+2007,Czech Republic,Lignite,47,88,53
+2007,Czech Republic,Gas,1,88,2
+2007,Czech Republic,Fossil,3,88,3
+2007,Czech Republic,Nuclear,26,88,30
+2007,Czech Republic,Renewables,3,88,4
+2007,Czech Republic,Hydro,2,88,2
+2007,Czech Republic,Bioenergy,1,88,1
+2007,Denmark,Fossil,29,39,74
+2007,Denmark,Coal,20,39,51
+2007,Denmark,Hard Coal,20,39,51
+2007,Denmark,Gas,7,39,18
+2007,Denmark,Fossil,2,39,5
+2007,Denmark,Renewables,10,39,26
+2007,Denmark,Wind and solar,7,39,18
+2007,Denmark,Wind,7,39,18
+2007,Denmark,Bioenergy,3,39,8
+2007,Estonia,Fossil,12,12,99
+2007,Estonia,Fossil,12,12,96
+2007,Finland,Fossil,33,81,41
+2007,Finland,Coal,14,81,17
+2007,Finland,Hard Coal,14,81,17
+2007,Finland,Gas,11,81,13
+2007,Finland,Fossil,9,81,11
+2007,Finland,Nuclear,23,81,29
+2007,Finland,Renewables,24,81,30
+2007,Finland,Hydro,14,81,18
+2007,Finland,Bioenergy,10,81,12
+2007,France,Fossil,58,564,10
+2007,France,Coal,24,564,4
+2007,France,Hard Coal,24,564,4
+2007,France,Gas,22,564,4
+2007,France,Fossil,12,564,2
+2007,France,Nuclear,440,564,78
+2007,France,Renewables,66,564,12
+2007,France,Hydro,58,564,10
+2007,France,Wind and solar,4,564,1
+2007,France,Wind,4,564,1
+2007,France,Bioenergy,4,564,1
+2007,Germany,Fossil,405,634,64
+2007,Germany,Coal,297,635,47
+2007,Germany,Hard Coal,142,635,22
+2007,Germany,Lignite,155,635,24
+2007,Germany,Gas,78,635,12
+2007,Germany,Fossil,29,635,5
+2007,Germany,Nuclear,141,635,22
+2007,Germany,Renewables,89,635,14
+2007,Germany,Hydro,21,635,3
+2007,Germany,Wind and solar,44,635,7
+2007,Germany,Wind,41,635,6
+2007,Germany,Solar,3,635,0
+2007,Germany,Bioenergy,25,635,4
+2007,Greece,Fossil,58,63,93
+2007,Greece,Coal,35,63,55
+2007,Greece,Lignite,35,63,55
+2007,Greece,Gas,14,63,23
+2007,Greece,Fossil,9,63,15
+2007,Greece,Renewables,5,63,7
+2007,Greece,Hydro,3,63,4
+2007,Greece,Wind and solar,2,63,3
+2007,Greece,Wind,2,63,3
+2007,Hungary,Fossil,23,40,59
+2007,Hungary,Coal,7,40,18
+2007,Hungary,Hard Coal,1,40,1
+2007,Hungary,Lignite,7,40,17
+2007,Hungary,Gas,15,40,38
+2007,Hungary,Fossil,1,40,2
+2007,Hungary,Nuclear,15,40,37
+2007,Hungary,Renewables,2,40,5
+2007,Hungary,Bioenergy,2,40,4
+2007,Ireland,Fossil,25,28,90
+2007,Ireland,Coal,5,28,20
+2007,Ireland,Hard Coal,5,28,20
+2007,Ireland,Gas,15,28,56
+2007,Ireland,Fossil,4,28,15
+2007,Ireland,Renewables,3,28,10
+2007,Ireland,Hydro,1,28,2
+2007,Ireland,Wind and solar,2,28,7
+2007,Ireland,Wind,2,28,7
+2007,Italy,Fossil,259,307,84
+2007,Italy,Coal,44,307,14
+2007,Italy,Hard Coal,44,307,14
+2007,Italy,Gas,173,307,56
+2007,Italy,Fossil,43,307,14
+2007,Italy,Renewables,48,307,16
+2007,Italy,Hydro,33,307,11
+2007,Italy,Wind and solar,4,307,1
+2007,Italy,Wind,4,307,1
+2007,Italy,Bioenergy,5,307,2
+2007,Italy,Renewables,6,307,2
+2007,Latvia,Fossil,2,5,41
+2007,Latvia,Gas,2,5,40
+2007,Latvia,Renewables,3,5,59
+2007,Latvia,Hydro,3,5,57
+2007,Lithuania,Fossil,3,13,21
+2007,Lithuania,Gas,2,13,18
+2007,Lithuania,Nuclear,10,13,74
+2007,Lithuania,Renewables,1,13,4
+2007,Luxembourg,Fossil,3,3,92
+2007,Luxembourg,Gas,3,3,90
+2007,Malta,Fossil,2,2,100
+2007,Malta,Fossil,2,2,100
+2007,Netherlands,Fossil,93,105,89
+2007,Netherlands,Coal,25,105,24
+2007,Netherlands,Hard Coal,25,105,24
+2007,Netherlands,Gas,61,105,58
+2007,Netherlands,Fossil,7,105,7
+2007,Netherlands,Nuclear,4,105,4
+2007,Netherlands,Renewables,8,105,7
+2007,Netherlands,Wind and solar,3,105,3
+2007,Netherlands,Wind,3,105,3
+2007,Netherlands,Bioenergy,4,105,4
+2007,Poland,Fossil,153,159,97
+2007,Poland,Coal,144,159,91
+2007,Poland,Hard Coal,93,159,59
+2007,Poland,Lignite,51,159,32
+2007,Poland,Gas,4,159,3
+2007,Poland,Fossil,5,159,3
+2007,Poland,Renewables,5,159,3
+2007,Poland,Hydro,2,159,1
+2007,Poland,Wind and solar,1,159,0
+2007,Poland,Wind,1,159,0
+2007,Poland,Bioenergy,3,159,2
+2007,Portugal,Fossil,31,47,65
+2007,Portugal,Coal,12,47,26
+2007,Portugal,Hard Coal,12,47,26
+2007,Portugal,Gas,13,47,28
+2007,Portugal,Fossil,5,47,11
+2007,Portugal,Renewables,16,47,35
+2007,Portugal,Hydro,10,47,22
+2007,Portugal,Wind and solar,4,47,9
+2007,Portugal,Wind,4,47,9
+2007,Portugal,Bioenergy,2,47,4
+2007,Romania,Fossil,38,62,62
+2007,Romania,Coal,25,62,41
+2007,Romania,Hard Coal,2,62,3
+2007,Romania,Lignite,23,62,38
+2007,Romania,Gas,12,62,19
+2007,Romania,Fossil,1,62,2
+2007,Romania,Nuclear,8,62,12
+2007,Romania,Renewables,16,62,26
+2007,Romania,Hydro,16,62,26
+2007,Slovakia,Fossil,8,28,27
+2007,Slovakia,Coal,5,28,17
+2007,Slovakia,Hard Coal,3,28,10
+2007,Slovakia,Lignite,2,28,7
+2007,Slovakia,Gas,2,28,6
+2007,Slovakia,Fossil,1,28,4
+2007,Slovakia,Nuclear,15,28,55
+2007,Slovakia,Renewables,5,28,18
+2007,Slovakia,Hydro,4,28,16
+2007,Slovenia,Fossil,6,15,40
+2007,Slovenia,Coal,5,15,36
+2007,Slovenia,Hard Coal,1,15,4
+2007,Slovenia,Lignite,5,15,33
+2007,Slovenia,Nuclear,6,15,38
+2007,Slovenia,Renewables,3,15,22
+2007,Slovenia,Hydro,3,15,22
+2007,Spain,Fossil,188,302,62
+2007,Spain,Coal,73,302,24
+2007,Spain,Hard Coal,68,302,23
+2007,Spain,Lignite,4,302,1
+2007,Spain,Gas,95,302,31
+2007,Spain,Fossil,21,302,7
+2007,Spain,Nuclear,55,302,18
+2007,Spain,Renewables,58,302,19
+2007,Spain,Hydro,27,302,9
+2007,Spain,Wind and solar,28,302,9
+2007,Spain,Wind,28,302,9
+2007,Spain,Solar,1,302,0
+2007,Spain,Bioenergy,3,302,1
+2007,Sweden,Fossil,4,149,3
+2007,Sweden,Coal,1,149,0
+2007,Sweden,Hard Coal,1,149,0
+2007,Sweden,Gas,1,149,1
+2007,Sweden,Fossil,3,149,2
+2007,Sweden,Nuclear,67,149,45
+2007,Sweden,Renewables,77,149,52
+2007,Sweden,Hydro,66,149,44
+2007,Sweden,Wind and solar,1,149,1
+2007,Sweden,Wind,1,149,1
+2007,Sweden,Bioenergy,10,149,7
+2007,United Kingdom,Fossil,310,393,79
+2007,United Kingdom,Coal,136,393,35
+2007,United Kingdom,Hard Coal,136,393,35
+2007,United Kingdom,Gas,166,393,42
+2007,United Kingdom,Fossil,9,393,2
+2007,United Kingdom,Nuclear,63,393,16
+2007,United Kingdom,Renewables,20,393,5
+2007,United Kingdom,Hydro,5,393,1
+2007,United Kingdom,Wind and solar,5,393,1
+2007,United Kingdom,Wind,5,393,1
+2007,United Kingdom,Bioenergy,9,393,2
+2008,Austria,Fossil,20,64,31
+2008,Austria,Coal,6,64,9
+2008,Austria,Hard Coal,6,64,9
+2008,Austria,Gas,11,64,17
+2008,Austria,Fossil,3,64,5
+2008,Austria,Renewables,45,64,69
+2008,Austria,Hydro,38,64,59
+2008,Austria,Wind and solar,2,64,3
+2008,Austria,Wind,2,64,3
+2008,Austria,Bioenergy,4,64,6
+2008,Belgium,Fossil,33,83,40
+2008,Belgium,Coal,6,83,7
+2008,Belgium,Hard Coal,6,83,7
+2008,Belgium,Gas,25,83,30
+2008,Belgium,Fossil,3,83,4
+2008,Belgium,Nuclear,46,83,55
+2008,Belgium,Renewables,4,83,5
+2008,Belgium,Wind and solar,1,83,1
+2008,Belgium,Wind,1,83,1
+2008,Belgium,Bioenergy,3,83,4
+2008,Bulgaria,Fossil,26,45,58
+2008,Bulgaria,Coal,23,45,52
+2008,Bulgaria,Hard Coal,6,45,14
+2008,Bulgaria,Lignite,17,45,38
+2008,Bulgaria,Gas,2,45,5
+2008,Bulgaria,Nuclear,16,45,35
+2008,Bulgaria,Renewables,3,45,7
+2008,Bulgaria,Hydro,3,45,6
+2008,Croatia,Fossil,7,13,54
+2008,Croatia,Coal,2,13,20
+2008,Croatia,Hard Coal,2,13,19
+2008,Croatia,Gas,2,13,19
+2008,Croatia,Fossil,2,13,16
+2008,Croatia,Renewables,6,13,46
+2008,Croatia,Hydro,6,13,45
+2008,Cyprus,Fossil,5,5,100
+2008,Cyprus,Fossil,5,5,100
+2008,Czech Republic,Fossil,53,83,64
+2008,Czech Republic,Coal,49,83,59
+2008,Czech Republic,Hard Coal,6,83,7
+2008,Czech Republic,Lignite,43,83,52
+2008,Czech Republic,Gas,1,83,1
+2008,Czech Republic,Fossil,3,83,4
+2008,Czech Republic,Nuclear,27,83,32
+2008,Czech Republic,Renewables,4,83,4
+2008,Czech Republic,Hydro,2,83,2
+2008,Czech Republic,Bioenergy,1,83,2
+2008,Denmark,Fossil,27,37,72
+2008,Denmark,Coal,17,37,48
+2008,Denmark,Hard Coal,17,37,48
+2008,Denmark,Gas,7,37,19
+2008,Denmark,Fossil,2,37,5
+2008,Denmark,Renewables,10,37,28
+2008,Denmark,Wind and solar,7,37,19
+2008,Denmark,Wind,7,37,19
+2008,Denmark,Bioenergy,3,37,9
+2008,Estonia,Fossil,10,11,98
+2008,Estonia,Fossil,10,11,94
+2008,Finland,Fossil,26,77,34
+2008,Finland,Coal,9,77,11
+2008,Finland,Hard Coal,9,77,11
+2008,Finland,Gas,11,77,14
+2008,Finland,Fossil,7,77,9
+2008,Finland,Nuclear,23,77,30
+2008,Finland,Renewables,28,77,36
+2008,Finland,Hydro,17,77,22
+2008,Finland,Bioenergy,10,77,14
+2008,France,Fossil,56,569,10
+2008,France,Coal,23,569,4
+2008,France,Hard Coal,23,569,4
+2008,France,Gas,22,569,4
+2008,France,Fossil,11,569,2
+2008,France,Nuclear,439,569,77
+2008,France,Renewables,74,569,13
+2008,France,Hydro,64,569,11
+2008,France,Wind and solar,6,569,1
+2008,France,Wind,6,569,1
+2008,France,Bioenergy,4,569,1
+2008,Germany,Fossil,393,636,62
+2008,Germany,Coal,275,636,43
+2008,Germany,Hard Coal,125,636,20
+2008,Germany,Lignite,151,636,24
+2008,Germany,Gas,89,636,14
+2008,Germany,Fossil,28,636,4
+2008,Germany,Nuclear,149,636,23
+2008,Germany,Renewables,94,636,15
+2008,Germany,Hydro,20,636,3
+2008,Germany,Wind and solar,46,636,7
+2008,Germany,Wind,41,636,7
+2008,Germany,Solar,4,636,1
+2008,Germany,Bioenergy,28,636,4
+2008,Greece,Fossil,57,63,91
+2008,Greece,Coal,33,63,53
+2008,Greece,Lignite,33,63,53
+2008,Greece,Gas,14,63,22
+2008,Greece,Fossil,10,63,16
+2008,Greece,Renewables,6,63,9
+2008,Greece,Hydro,3,63,5
+2008,Greece,Wind and solar,2,63,4
+2008,Greece,Wind,2,63,4
+2008,Hungary,Fossil,23,40,57
+2008,Hungary,Coal,7,40,18
+2008,Hungary,Hard Coal,1,40,1
+2008,Hungary,Lignite,7,40,16
+2008,Hungary,Gas,15,40,38
+2008,Hungary,Fossil,1,40,1
+2008,Hungary,Nuclear,15,40,37
+2008,Hungary,Renewables,2,40,6
+2008,Hungary,Bioenergy,2,40,5
+2008,Ireland,Fossil,26,30,88
+2008,Ireland,Coal,5,30,17
+2008,Ireland,Hard Coal,5,30,17
+2008,Ireland,Gas,17,30,56
+2008,Ireland,Fossil,4,30,15
+2008,Ireland,Renewables,4,30,12
+2008,Ireland,Hydro,1,30,3
+2008,Ireland,Wind and solar,2,30,8
+2008,Ireland,Wind,2,30,8
+2008,Italy,Fossil,254,313,81
+2008,Italy,Coal,43,313,14
+2008,Italy,Hard Coal,43,313,14
+2008,Italy,Gas,173,313,55
+2008,Italy,Fossil,39,313,12
+2008,Italy,Renewables,58,313,19
+2008,Italy,Hydro,42,313,13
+2008,Italy,Wind and solar,5,313,2
+2008,Italy,Wind,5,313,2
+2008,Italy,Bioenergy,6,313,2
+2008,Italy,Renewables,6,313,2
+2008,Latvia,Fossil,2,5,39
+2008,Latvia,Gas,2,5,39
+2008,Latvia,Renewables,3,5,61
+2008,Latvia,Hydro,3,5,59
+2008,Lithuania,Fossil,3,13,20
+2008,Lithuania,Gas,2,13,15
+2008,Lithuania,Fossil,1,13,4
+2008,Lithuania,Nuclear,10,13,76
+2008,Lithuania,Renewables,1,13,5
+2008,Luxembourg,Fossil,2,3,90
+2008,Luxembourg,Gas,2,3,88
+2008,Malta,Fossil,2,2,100
+2008,Malta,Fossil,2,2,100
+2008,Netherlands,Fossil,94,107,87
+2008,Netherlands,Coal,23,107,22
+2008,Netherlands,Hard Coal,23,107,22
+2008,Netherlands,Gas,63,107,59
+2008,Netherlands,Fossil,7,107,6
+2008,Netherlands,Nuclear,4,107,4
+2008,Netherlands,Renewables,10,107,9
+2008,Netherlands,Wind and solar,4,107,4
+2008,Netherlands,Wind,4,107,4
+2008,Netherlands,Bioenergy,5,107,5
+2008,Poland,Fossil,148,155,96
+2008,Poland,Coal,139,155,90
+2008,Poland,Hard Coal,86,155,55
+2008,Poland,Lignite,53,155,34
+2008,Poland,Gas,5,155,3
+2008,Poland,Fossil,4,155,3
+2008,Poland,Renewables,7,155,4
+2008,Poland,Hydro,2,155,1
+2008,Poland,Wind and solar,1,155,1
+2008,Poland,Wind,1,155,1
+2008,Poland,Bioenergy,4,155,2
+2008,Portugal,Fossil,31,45,68
+2008,Portugal,Coal,11,45,25
+2008,Portugal,Hard Coal,11,45,25
+2008,Portugal,Gas,15,45,33
+2008,Portugal,Fossil,4,45,10
+2008,Portugal,Renewables,15,45,32
+2008,Portugal,Hydro,7,45,15
+2008,Portugal,Wind and solar,6,45,13
+2008,Portugal,Wind,6,45,13
+2008,Portugal,Bioenergy,2,45,4
+2008,Romania,Fossil,37,65,56
+2008,Romania,Coal,26,65,40
+2008,Romania,Lignite,26,65,40
+2008,Romania,Gas,10,65,15
+2008,Romania,Fossil,1,65,1
+2008,Romania,Nuclear,11,65,17
+2008,Romania,Renewables,17,65,27
+2008,Romania,Hydro,17,65,26
+2008,Slovakia,Fossil,7,29,26
+2008,Slovakia,Coal,5,29,16
+2008,Slovakia,Hard Coal,2,29,9
+2008,Slovakia,Lignite,2,29,8
+2008,Slovakia,Gas,2,29,6
+2008,Slovakia,Fossil,1,29,4
+2008,Slovakia,Nuclear,17,29,58
+2008,Slovakia,Renewables,5,29,16
+2008,Slovakia,Hydro,4,29,14
+2008,Slovakia,Bioenergy,1,29,2
+2008,Slovenia,Fossil,6,16,35
+2008,Slovenia,Coal,5,16,32
+2008,Slovenia,Hard Coal,1,16,3
+2008,Slovenia,Lignite,5,16,29
+2008,Slovenia,Nuclear,6,16,38
+2008,Slovenia,Renewables,4,16,26
+2008,Slovenia,Hydro,4,16,25
+2008,Spain,Fossil,190,311,61
+2008,Spain,Coal,49,311,16
+2008,Spain,Hard Coal,49,311,16
+2008,Spain,Gas,121,311,39
+2008,Spain,Fossil,20,311,6
+2008,Spain,Nuclear,59,311,19
+2008,Spain,Renewables,62,311,20
+2008,Spain,Hydro,23,311,8
+2008,Spain,Wind and solar,36,311,11
+2008,Spain,Wind,33,311,11
+2008,Spain,Solar,3,311,1
+2008,Spain,Bioenergy,3,311,1
+2008,Sweden,Fossil,5,150,3
+2008,Sweden,Coal,1,150,0
+2008,Sweden,Hard Coal,1,150,0
+2008,Sweden,Gas,1,150,0
+2008,Sweden,Fossil,3,150,2
+2008,Sweden,Nuclear,64,150,43
+2008,Sweden,Renewables,81,150,54
+2008,Sweden,Hydro,69,150,46
+2008,Sweden,Wind and solar,2,150,1
+2008,Sweden,Wind,2,150,1
+2008,Sweden,Bioenergy,10,150,7
+2008,United Kingdom,Fossil,310,385,81
+2008,United Kingdom,Coal,124,385,32
+2008,United Kingdom,Hard Coal,124,385,32
+2008,United Kingdom,Gas,176,385,46
+2008,United Kingdom,Fossil,10,385,3
+2008,United Kingdom,Nuclear,52,385,14
+2008,United Kingdom,Renewables,22,385,6
+2008,United Kingdom,Hydro,5,385,1
+2008,United Kingdom,Wind and solar,7,385,2
+2008,United Kingdom,Wind,7,385,2
+2008,United Kingdom,Bioenergy,10,385,2
+2009,Austria,Fossil,19,66,29
+2009,Austria,Coal,4,66,6
+2009,Austria,Hard Coal,4,66,6
+2009,Austria,Gas,12,66,19
+2009,Austria,Fossil,3,66,5
+2009,Austria,Renewables,47,66,71
+2009,Austria,Hydro,41,66,62
+2009,Austria,Wind and solar,2,66,3
+2009,Austria,Wind,2,66,3
+2009,Austria,Bioenergy,4,66,6
+2009,Belgium,Fossil,37,90,41
+2009,Belgium,Coal,5,90,6
+2009,Belgium,Hard Coal,5,90,6
+2009,Belgium,Gas,29,90,33
+2009,Belgium,Fossil,3,90,3
+2009,Belgium,Nuclear,47,90,53
+2009,Belgium,Renewables,5,90,6
+2009,Belgium,Wind and solar,1,90,1
+2009,Belgium,Wind,1,90,1
+2009,Belgium,Bioenergy,4,90,4
+2009,Bulgaria,Fossil,23,42,55
+2009,Bulgaria,Coal,21,42,50
+2009,Bulgaria,Hard Coal,5,42,11
+2009,Bulgaria,Lignite,17,42,39
+2009,Bulgaria,Gas,2,42,5
+2009,Bulgaria,Nuclear,15,42,36
+2009,Bulgaria,Renewables,4,42,9
+2009,Bulgaria,Hydro,3,42,8
+2009,Croatia,Fossil,6,13,44
+2009,Croatia,Coal,2,13,12
+2009,Croatia,Hard Coal,2,13,12
+2009,Croatia,Gas,2,13,17
+2009,Croatia,Fossil,2,13,15
+2009,Croatia,Renewables,7,13,56
+2009,Croatia,Hydro,7,13,55
+2009,Cyprus,Fossil,5,5,99
+2009,Cyprus,Fossil,5,5,99
+2009,Czech Republic,Fossil,50,82,61
+2009,Czech Republic,Coal,46,82,56
+2009,Czech Republic,Hard Coal,6,82,7
+2009,Czech Republic,Lignite,40,82,49
+2009,Czech Republic,Gas,1,82,1
+2009,Czech Republic,Fossil,3,82,3
+2009,Czech Republic,Nuclear,27,82,33
+2009,Czech Republic,Renewables,5,82,6
+2009,Czech Republic,Hydro,2,82,3
+2009,Czech Republic,Bioenergy,2,82,2
+2009,Denmark,Fossil,26,36,72
+2009,Denmark,Coal,18,36,49
+2009,Denmark,Hard Coal,18,36,49
+2009,Denmark,Gas,7,36,18
+2009,Denmark,Fossil,2,36,5
+2009,Denmark,Renewables,10,36,28
+2009,Denmark,Wind and solar,7,36,18
+2009,Denmark,Wind,7,36,18
+2009,Denmark,Bioenergy,3,36,9
+2009,Estonia,Fossil,8,9,94
+2009,Estonia,Fossil,8,9,93
+2009,Estonia,Renewables,1,9,6
+2009,Finland,Fossil,27,72,37
+2009,Finland,Coal,11,72,16
+2009,Finland,Hard Coal,11,72,16
+2009,Finland,Gas,10,72,14
+2009,Finland,Fossil,6,72,8
+2009,Finland,Nuclear,24,72,33
+2009,Finland,Renewables,22,72,30
+2009,Finland,Hydro,13,72,18
+2009,Finland,Bioenergy,9,72,12
+2009,France,Fossil,51,531,10
+2009,France,Coal,22,531,4
+2009,France,Hard Coal,22,531,4
+2009,France,Gas,21,531,4
+2009,France,Fossil,9,531,2
+2009,France,Nuclear,410,531,77
+2009,France,Renewables,70,531,13
+2009,France,Hydro,57,531,11
+2009,France,Wind and solar,8,531,2
+2009,France,Wind,8,531,1
+2009,France,Bioenergy,4,531,1
+2009,Germany,Fossil,360,591,61
+2009,Germany,Coal,254,591,43
+2009,Germany,Hard Coal,108,591,18
+2009,Germany,Lignite,146,591,25
+2009,Germany,Gas,81,591,14
+2009,Germany,Fossil,26,591,4
+2009,Germany,Nuclear,135,591,23
+2009,Germany,Renewables,96,591,16
+2009,Germany,Hydro,19,591,3
+2009,Germany,Wind and solar,46,591,8
+2009,Germany,Wind,40,591,7
+2009,Germany,Solar,7,591,1
+2009,Germany,Bioenergy,31,591,5
+2009,Greece,Fossil,53,61,87
+2009,Greece,Coal,34,61,56
+2009,Greece,Lignite,34,61,56
+2009,Greece,Gas,11,61,18
+2009,Greece,Fossil,8,61,13
+2009,Greece,Renewables,8,61,13
+2009,Greece,Hydro,5,61,9
+2009,Greece,Wind and solar,3,61,4
+2009,Greece,Wind,3,61,4
+2009,Hungary,Fossil,18,36,49
+2009,Hungary,Coal,6,36,18
+2009,Hungary,Lignite,6,36,17
+2009,Hungary,Gas,10,36,29
+2009,Hungary,Fossil,1,36,2
+2009,Hungary,Nuclear,15,36,43
+2009,Hungary,Renewables,3,36,8
+2009,Hungary,Bioenergy,2,36,7
+2009,Ireland,Fossil,24,28,85
+2009,Ireland,Coal,4,28,14
+2009,Ireland,Hard Coal,4,28,14
+2009,Ireland,Gas,16,28,58
+2009,Ireland,Fossil,4,28,13
+2009,Ireland,Renewables,4,28,15
+2009,Ireland,Hydro,1,28,3
+2009,Ireland,Wind and solar,3,28,11
+2009,Ireland,Wind,3,28,11
+2009,Italy,Fossil,218,288,76
+2009,Italy,Coal,40,288,14
+2009,Italy,Hard Coal,40,288,14
+2009,Italy,Gas,147,288,51
+2009,Italy,Fossil,31,288,11
+2009,Italy,Renewables,69,288,24
+2009,Italy,Hydro,49,288,17
+2009,Italy,Wind and solar,7,288,3
+2009,Italy,Wind,7,288,2
+2009,Italy,Solar,1,288,0
+2009,Italy,Bioenergy,8,288,3
+2009,Italy,Renewables,5,288,2
+2009,Latvia,Fossil,2,6,36
+2009,Latvia,Gas,2,6,36
+2009,Latvia,Renewables,4,6,64
+2009,Latvia,Hydro,3,6,62
+2009,Lithuania,Fossil,3,14,20
+2009,Lithuania,Gas,2,14,15
+2009,Lithuania,Fossil,1,14,5
+2009,Lithuania,Nuclear,11,14,76
+2009,Lithuania,Renewables,1,14,5
+2009,Luxembourg,Fossil,3,3,92
+2009,Luxembourg,Gas,3,3,90
+2009,Malta,Fossil,2,2,100
+2009,Malta,Fossil,2,2,100
+2009,Netherlands,Fossil,98,114,87
+2009,Netherlands,Coal,24,114,21
+2009,Netherlands,Hard Coal,24,114,21
+2009,Netherlands,Gas,69,114,61
+2009,Netherlands,Fossil,5,114,5
+2009,Netherlands,Nuclear,4,114,4
+2009,Netherlands,Renewables,11,114,10
+2009,Netherlands,Wind and solar,5,114,4
+2009,Netherlands,Wind,5,114,4
+2009,Netherlands,Bioenergy,6,114,5
+2009,Poland,Fossil,142,151,94
+2009,Poland,Coal,133,151,88
+2009,Poland,Hard Coal,83,151,55
+2009,Poland,Lignite,50,151,33
+2009,Poland,Gas,5,151,3
+2009,Poland,Fossil,4,151,3
+2009,Poland,Renewables,9,151,6
+2009,Poland,Hydro,2,151,2
+2009,Poland,Wind and solar,1,151,1
+2009,Poland,Wind,1,151,1
+2009,Poland,Bioenergy,5,151,3
+2009,Portugal,Fossil,31,49,63
+2009,Portugal,Coal,13,49,26
+2009,Portugal,Hard Coal,13,49,26
+2009,Portugal,Gas,15,49,30
+2009,Portugal,Fossil,4,49,7
+2009,Portugal,Renewables,18,49,37
+2009,Portugal,Hydro,8,49,17
+2009,Portugal,Wind and solar,8,49,16
+2009,Portugal,Wind,8,49,15
+2009,Portugal,Bioenergy,2,49,4
+2009,Romania,Fossil,30,58,53
+2009,Romania,Coal,22,58,38
+2009,Romania,Hard Coal,1,58,1
+2009,Romania,Lignite,21,58,36
+2009,Romania,Gas,8,58,13
+2009,Romania,Fossil,1,58,2
+2009,Romania,Nuclear,12,58,20
+2009,Romania,Renewables,16,58,27
+2009,Romania,Hydro,16,58,27
+2009,Slovakia,Fossil,7,26,27
+2009,Slovakia,Coal,4,26,15
+2009,Slovakia,Hard Coal,2,26,6
+2009,Slovakia,Lignite,2,26,9
+2009,Slovakia,Gas,2,26,8
+2009,Slovakia,Fossil,1,26,4
+2009,Slovakia,Nuclear,14,26,54
+2009,Slovakia,Renewables,5,26,19
+2009,Slovakia,Hydro,4,26,17
+2009,Slovakia,Bioenergy,1,26,2
+2009,Slovenia,Fossil,6,16,35
+2009,Slovenia,Coal,5,16,31
+2009,Slovenia,Lignite,5,16,29
+2009,Slovenia,Gas,1,16,4
+2009,Slovenia,Nuclear,6,16,35
+2009,Slovenia,Renewables,5,16,30
+2009,Slovenia,Hydro,5,16,29
+2009,Spain,Fossil,165,292,56
+2009,Spain,Coal,36,292,12
+2009,Spain,Hard Coal,36,292,12
+2009,Spain,Gas,108,292,37
+2009,Spain,Fossil,21,292,7
+2009,Spain,Nuclear,53,292,18
+2009,Spain,Renewables,74,292,25
+2009,Spain,Hydro,26,292,9
+2009,Spain,Wind and solar,44,292,15
+2009,Spain,Wind,38,292,13
+2009,Spain,Solar,6,292,2
+2009,Spain,Bioenergy,3,292,1
+2009,Sweden,Fossil,5,137,3
+2009,Sweden,Coal,1,137,0
+2009,Sweden,Hard Coal,1,137,0
+2009,Sweden,Gas,2,137,1
+2009,Sweden,Fossil,3,137,2
+2009,Sweden,Nuclear,52,137,38
+2009,Sweden,Renewables,80,137,58
+2009,Sweden,Hydro,66,137,48
+2009,Sweden,Wind and solar,2,137,2
+2009,Sweden,Wind,2,137,2
+2009,Sweden,Bioenergy,11,137,8
+2009,United Kingdom,Fossil,279,373,75
+2009,United Kingdom,Coal,103,373,28
+2009,United Kingdom,Hard Coal,103,373,28
+2009,United Kingdom,Gas,166,373,45
+2009,United Kingdom,Fossil,9,373,2
+2009,United Kingdom,Nuclear,69,373,19
+2009,United Kingdom,Renewables,25,373,7
+2009,United Kingdom,Hydro,5,373,1
+2009,United Kingdom,Wind and solar,9,373,2
+2009,United Kingdom,Wind,9,373,2
+2009,United Kingdom,Bioenergy,11,373,3
+2010,Austria,Fossil,23,68,34
+2010,Austria,Coal,5,68,7
+2010,Austria,Hard Coal,5,68,7
+2010,Austria,Gas,14,68,21
+2010,Austria,Fossil,4,68,5
+2010,Austria,Renewables,45,68,66
+2010,Austria,Hydro,38,68,56
+2010,Austria,Wind and solar,2,68,3
+2010,Austria,Wind,2,68,3
+2010,Austria,Bioenergy,4,68,7
+2010,Belgium,Fossil,39,94,42
+2010,Belgium,Coal,4,94,4
+2010,Belgium,Hard Coal,4,94,4
+2010,Belgium,Gas,31,94,34
+2010,Belgium,Fossil,4,94,4
+2010,Belgium,Nuclear,48,94,51
+2010,Belgium,Renewables,6,94,7
+2010,Belgium,Wind and solar,2,94,2
+2010,Belgium,Wind,1,94,1
+2010,Belgium,Solar,1,94,1
+2010,Belgium,Bioenergy,4,94,5
+2010,Bulgaria,Fossil,25,46,54
+2010,Bulgaria,Coal,23,46,49
+2010,Bulgaria,Hard Coal,5,46,11
+2010,Bulgaria,Lignite,17,46,38
+2010,Bulgaria,Gas,2,46,4
+2010,Bulgaria,Nuclear,15,46,33
+2010,Bulgaria,Renewables,6,46,13
+2010,Bulgaria,Hydro,5,46,11
+2010,Bulgaria,Wind and solar,1,46,2
+2010,Bulgaria,Wind,1,46,1
+2010,Croatia,Fossil,5,15,37
+2010,Croatia,Coal,2,15,16
+2010,Croatia,Hard Coal,2,15,16
+2010,Croatia,Gas,3,15,17
+2010,Croatia,Fossil,1,15,4
+2010,Croatia,Renewables,9,15,63
+2010,Croatia,Hydro,9,15,62
+2010,Cyprus,Fossil,5,5,99
+2010,Cyprus,Fossil,5,5,99
+2010,Czech Republic,Fossil,51,85,60
+2010,Czech Republic,Coal,47,85,55
+2010,Czech Republic,Hard Coal,6,85,7
+2010,Czech Republic,Lignite,41,85,48
+2010,Czech Republic,Gas,1,85,2
+2010,Czech Republic,Fossil,3,85,4
+2010,Czech Republic,Nuclear,28,85,33
+2010,Czech Republic,Renewables,6,85,7
+2010,Czech Republic,Hydro,3,85,3
+2010,Czech Republic,Wind and solar,1,85,1
+2010,Czech Republic,Solar,1,85,1
+2010,Czech Republic,Bioenergy,2,85,3
+2010,Denmark,Fossil,26,39,68
+2010,Denmark,Coal,17,39,44
+2010,Denmark,Hard Coal,17,39,44
+2010,Denmark,Gas,8,39,20
+2010,Denmark,Fossil,2,39,4
+2010,Denmark,Renewables,12,39,32
+2010,Denmark,Wind and solar,8,39,20
+2010,Denmark,Wind,8,39,20
+2010,Denmark,Bioenergy,5,39,12
+2010,Estonia,Fossil,12,13,92
+2010,Estonia,Fossil,12,13,90
+2010,Estonia,Renewables,1,13,8
+2010,Estonia,Bioenergy,1,13,6
+2010,Finland,Fossil,33,80,42
+2010,Finland,Coal,15,80,18
+2010,Finland,Hard Coal,15,80,18
+2010,Finland,Gas,11,80,14
+2010,Finland,Fossil,8,80,9
+2010,Finland,Nuclear,23,80,28
+2010,Finland,Renewables,24,80,30
+2010,Finland,Hydro,13,80,16
+2010,Finland,Bioenergy,11,80,14
+2010,France,Fossil,58,564,10
+2010,France,Coal,23,564,4
+2010,France,Hard Coal,23,564,4
+2010,France,Gas,24,564,4
+2010,France,Fossil,11,564,2
+2010,France,Nuclear,429,564,76
+2010,France,Renewables,78,564,14
+2010,France,Hydro,63,564,11
+2010,France,Wind and solar,11,564,2
+2010,France,Wind,10,564,2
+2010,France,Solar,1,564,0
+2010,France,Bioenergy,4,564,1
+2010,Germany,Fossil,381,627,61
+2010,Germany,Coal,263,627,42
+2010,Germany,Hard Coal,117,627,19
+2010,Germany,Lignite,146,627,23
+2010,Germany,Gas,89,627,14
+2010,Germany,Fossil,29,627,5
+2010,Germany,Nuclear,141,627,22
+2010,Germany,Renewables,105,627,17
+2010,Germany,Hydro,21,627,3
+2010,Germany,Wind and solar,50,627,8
+2010,Germany,Wind,39,627,6
+2010,Germany,Solar,12,627,2
+2010,Germany,Bioenergy,34,627,5
+2010,Greece,Fossil,47,57,82
+2010,Greece,Coal,31,57,54
+2010,Greece,Lignite,30,57,53
+2010,Greece,Gas,10,57,17
+2010,Greece,Fossil,6,57,11
+2010,Greece,Renewables,11,57,18
+2010,Greece,Hydro,7,57,13
+2010,Greece,Wind and solar,3,57,5
+2010,Greece,Wind,3,57,5
+2010,Hungary,Fossil,19,37,50
+2010,Hungary,Coal,6,37,17
+2010,Hungary,Lignite,6,37,16
+2010,Hungary,Gas,12,37,31
+2010,Hungary,Fossil,1,37,2
+2010,Hungary,Nuclear,16,37,42
+2010,Hungary,Renewables,3,37,8
+2010,Hungary,Wind and solar,1,37,1
+2010,Hungary,Wind,1,37,1
+2010,Hungary,Bioenergy,2,37,6
+2010,Ireland,Fossil,24,28,87
+2010,Ireland,Coal,4,28,13
+2010,Ireland,Hard Coal,4,28,13
+2010,Ireland,Gas,18,28,64
+2010,Ireland,Fossil,3,28,10
+2010,Ireland,Renewables,4,28,13
+2010,Ireland,Hydro,1,28,2
+2010,Ireland,Wind and solar,3,28,10
+2010,Ireland,Wind,3,28,10
+2010,Italy,Fossil,221,298,74
+2010,Italy,Coal,40,298,13
+2010,Italy,Hard Coal,40,298,13
+2010,Italy,Gas,153,298,51
+2010,Italy,Fossil,28,298,10
+2010,Italy,Renewables,77,298,26
+2010,Italy,Hydro,51,298,17
+2010,Italy,Wind and solar,11,298,4
+2010,Italy,Wind,9,298,3
+2010,Italy,Solar,2,298,1
+2010,Italy,Bioenergy,9,298,3
+2010,Italy,Renewables,5,298,2
+2010,Latvia,Fossil,3,7,45
+2010,Latvia,Gas,3,7,45
+2010,Latvia,Renewables,4,7,55
+2010,Latvia,Hydro,4,7,53
+2010,Lithuania,Fossil,4,5,81
+2010,Lithuania,Gas,3,5,67
+2010,Lithuania,Fossil,1,5,14
+2010,Lithuania,Renewables,1,5,19
+2010,Lithuania,Hydro,1,5,11
+2010,Luxembourg,Fossil,3,3,92
+2010,Luxembourg,Gas,3,3,90
+2010,Malta,Fossil,2,2,100
+2010,Malta,Fossil,2,2,100
+2010,Netherlands,Fossil,104,119,87
+2010,Netherlands,Coal,23,119,19
+2010,Netherlands,Hard Coal,23,119,19
+2010,Netherlands,Gas,75,119,63
+2010,Netherlands,Fossil,6,119,5
+2010,Netherlands,Nuclear,4,119,3
+2010,Netherlands,Renewables,11,119,9
+2010,Netherlands,Wind and solar,4,119,3
+2010,Netherlands,Wind,4,119,3
+2010,Netherlands,Bioenergy,7,119,6
+2010,Poland,Fossil,146,157,93
+2010,Poland,Coal,137,157,87
+2010,Poland,Hard Coal,88,157,56
+2010,Poland,Lignite,49,157,31
+2010,Poland,Gas,5,157,3
+2010,Poland,Fossil,5,157,3
+2010,Poland,Renewables,11,157,7
+2010,Poland,Hydro,3,157,2
+2010,Poland,Wind and solar,2,157,1
+2010,Poland,Wind,2,157,1
+2010,Poland,Bioenergy,6,157,4
+2010,Portugal,Fossil,25,54,47
+2010,Portugal,Coal,7,54,13
+2010,Portugal,Hard Coal,7,54,13
+2010,Portugal,Gas,15,54,28
+2010,Portugal,Fossil,3,54,6
+2010,Portugal,Renewables,28,54,53
+2010,Portugal,Hydro,16,54,30
+2010,Portugal,Wind and solar,9,54,17
+2010,Portugal,Wind,9,54,17
+2010,Portugal,Bioenergy,3,54,5
+2010,Romania,Fossil,29,61,47
+2010,Romania,Coal,21,61,34
+2010,Romania,Hard Coal,1,61,1
+2010,Romania,Lignite,20,61,33
+2010,Romania,Gas,7,61,12
+2010,Romania,Fossil,1,61,1
+2010,Romania,Nuclear,12,61,19
+2010,Romania,Renewables,20,61,33
+2010,Romania,Hydro,20,61,33
+2010,Slovakia,Fossil,7,27,25
+2010,Slovakia,Coal,4,27,13
+2010,Slovakia,Hard Coal,1,27,5
+2010,Slovakia,Lignite,2,27,8
+2010,Slovakia,Gas,2,27,8
+2010,Slovakia,Fossil,1,27,4
+2010,Slovakia,Nuclear,15,27,53
+2010,Slovakia,Renewables,6,27,22
+2010,Slovakia,Hydro,5,27,19
+2010,Slovakia,Bioenergy,1,27,2
+2010,Slovenia,Fossil,6,16,36
+2010,Slovenia,Coal,5,16,33
+2010,Slovenia,Lignite,5,16,30
+2010,Slovenia,Gas,1,16,3
+2010,Slovenia,Nuclear,6,16,35
+2010,Slovenia,Renewables,5,16,29
+2010,Slovenia,Hydro,5,16,28
+2010,Spain,Fossil,138,298,46
+2010,Spain,Coal,25,298,8
+2010,Spain,Hard Coal,25,298,8
+2010,Spain,Gas,95,298,32
+2010,Spain,Fossil,18,298,6
+2010,Spain,Nuclear,62,298,21
+2010,Spain,Renewables,98,298,33
+2010,Spain,Hydro,42,298,14
+2010,Spain,Wind and solar,51,298,17
+2010,Spain,Wind,44,298,15
+2010,Spain,Solar,7,298,2
+2010,Spain,Bioenergy,4,298,1
+2010,Sweden,Fossil,9,148,6
+2010,Sweden,Coal,1,148,1
+2010,Sweden,Hard Coal,1,148,1
+2010,Sweden,Gas,3,148,2
+2010,Sweden,Fossil,5,148,3
+2010,Sweden,Nuclear,58,148,39
+2010,Sweden,Renewables,82,148,55
+2010,Sweden,Hydro,66,148,45
+2010,Sweden,Wind and solar,3,148,2
+2010,Sweden,Wind,3,148,2
+2010,Sweden,Bioenergy,12,148,8
+2010,United Kingdom,Fossil,291,379,77
+2010,United Kingdom,Coal,108,379,28
+2010,United Kingdom,Hard Coal,108,379,28
+2010,United Kingdom,Gas,176,379,46
+2010,United Kingdom,Fossil,7,379,2
+2010,United Kingdom,Nuclear,62,379,16
+2010,United Kingdom,Renewables,26,379,7
+2010,United Kingdom,Hydro,4,379,1
+2010,United Kingdom,Wind and solar,10,379,3
+2010,United Kingdom,Wind,10,379,3
+2010,United Kingdom,Bioenergy,12,379,3
+2011,Austria,Fossil,21,62,34
+2011,Austria,Coal,5,62,9
+2011,Austria,Hard Coal,5,62,9
+2011,Austria,Gas,12,62,20
+2011,Austria,Fossil,3,62,6
+2011,Austria,Renewables,41,62,66
+2011,Austria,Hydro,34,62,55
+2011,Austria,Wind and solar,2,62,3
+2011,Austria,Wind,2,62,3
+2011,Austria,Bioenergy,5,62,7
+2011,Belgium,Fossil,32,89,36
+2011,Belgium,Coal,3,89,4
+2011,Belgium,Hard Coal,3,89,4
+2011,Belgium,Gas,25,89,29
+2011,Belgium,Fossil,3,89,4
+2011,Belgium,Nuclear,48,89,54
+2011,Belgium,Renewables,8,89,9
+2011,Belgium,Wind and solar,3,89,4
+2011,Belgium,Wind,2,89,3
+2011,Belgium,Solar,1,89,1
+2011,Belgium,Bioenergy,5,89,5
+2011,Bulgaria,Fossil,30,50,60
+2011,Bulgaria,Coal,28,50,55
+2011,Bulgaria,Hard Coal,4,50,9
+2011,Bulgaria,Lignite,23,50,46
+2011,Bulgaria,Gas,2,50,4
+2011,Bulgaria,Nuclear,16,50,33
+2011,Bulgaria,Renewables,4,50,8
+2011,Bulgaria,Hydro,3,50,6
+2011,Bulgaria,Wind and solar,1,50,2
+2011,Bulgaria,Wind,1,50,2
+2011,Croatia,Fossil,6,11,53
+2011,Croatia,Coal,3,11,23
+2011,Croatia,Hard Coal,3,11,23
+2011,Croatia,Gas,3,11,23
+2011,Croatia,Fossil,1,11,7
+2011,Croatia,Renewables,5,11,47
+2011,Croatia,Hydro,5,11,45
+2011,Cyprus,Fossil,5,5,96
+2011,Cyprus,Fossil,5,5,96
+2011,Czech Republic,Fossil,51,87,59
+2011,Czech Republic,Coal,47,87,54
+2011,Czech Republic,Hard Coal,6,87,7
+2011,Czech Republic,Lignite,41,87,47
+2011,Czech Republic,Gas,1,87,2
+2011,Czech Republic,Fossil,3,87,4
+2011,Czech Republic,Nuclear,28,87,33
+2011,Czech Republic,Renewables,7,87,8
+2011,Czech Republic,Hydro,2,87,2
+2011,Czech Republic,Wind and solar,3,87,3
+2011,Czech Republic,Solar,2,87,3
+2011,Czech Republic,Bioenergy,3,87,3
+2011,Denmark,Fossil,21,35,60
+2011,Denmark,Coal,14,35,40
+2011,Denmark,Hard Coal,14,35,40
+2011,Denmark,Gas,6,35,17
+2011,Denmark,Fossil,1,35,3
+2011,Denmark,Renewables,14,35,40
+2011,Denmark,Wind and solar,10,35,28
+2011,Denmark,Wind,10,35,28
+2011,Denmark,Bioenergy,4,35,12
+2011,Estonia,Fossil,12,13,91
+2011,Estonia,Fossil,11,13,89
+2011,Estonia,Renewables,1,13,9
+2011,Estonia,Bioenergy,1,13,6
+2011,Finland,Fossil,26,73,35
+2011,Finland,Coal,10,73,13
+2011,Finland,Hard Coal,10,73,13
+2011,Finland,Gas,9,73,13
+2011,Finland,Fossil,7,73,9
+2011,Finland,Nuclear,23,73,32
+2011,Finland,Renewables,24,73,33
+2011,Finland,Hydro,12,73,17
+2011,Finland,Bioenergy,11,73,15
+2011,France,Fossil,59,568,10
+2011,France,Coal,18,568,3
+2011,France,Hard Coal,18,568,3
+2011,France,Gas,29,568,5
+2011,France,Fossil,12,568,2
+2011,France,Nuclear,442,568,78
+2011,France,Renewables,66,568,12
+2011,France,Hydro,46,568,8
+2011,France,Wind and solar,15,568,3
+2011,France,Wind,12,568,2
+2011,France,Solar,2,568,0
+2011,France,Bioenergy,5,568,1
+2011,France,Renewables,1,568,0
+2011,Germany,Fossil,375,608,62
+2011,Germany,Coal,263,608,43
+2011,Germany,Hard Coal,112,608,19
+2011,Germany,Lignite,150,608,25
+2011,Germany,Gas,86,608,14
+2011,Germany,Fossil,27,608,4
+2011,Germany,Nuclear,108,608,18
+2011,Germany,Renewables,124,608,20
+2011,Germany,Hydro,18,608,3
+2011,Germany,Wind and solar,70,608,11
+2011,Germany,Wind,50,608,8
+2011,Germany,Solar,20,608,3
+2011,Germany,Bioenergy,37,608,6
+2011,Greece,Fossil,51,59,86
+2011,Greece,Coal,31,59,52
+2011,Greece,Lignite,31,59,52
+2011,Greece,Gas,14,59,24
+2011,Greece,Fossil,6,59,10
+2011,Greece,Renewables,8,59,14
+2011,Greece,Hydro,4,59,7
+2011,Greece,Wind and solar,4,59,7
+2011,Greece,Wind,3,59,6
+2011,Greece,Solar,1,59,1
+2011,Hungary,Fossil,18,36,49
+2011,Hungary,Coal,6,36,18
+2011,Hungary,Lignite,6,36,18
+2011,Hungary,Gas,11,36,30
+2011,Hungary,Nuclear,16,36,44
+2011,Hungary,Renewables,3,36,8
+2011,Hungary,Wind and solar,1,36,2
+2011,Hungary,Wind,1,36,2
+2011,Hungary,Bioenergy,2,36,5
+2011,Ireland,Fossil,22,27,80
+2011,Ireland,Coal,4,27,15
+2011,Ireland,Hard Coal,4,27,15
+2011,Ireland,Gas,15,27,57
+2011,Ireland,Fossil,2,27,9
+2011,Ireland,Renewables,5,27,20
+2011,Ireland,Hydro,1,27,3
+2011,Ireland,Wind and solar,4,27,16
+2011,Ireland,Wind,4,27,16
+2011,Italy,Fossil,217,300,72
+2011,Italy,Coal,45,300,15
+2011,Italy,Hard Coal,45,300,15
+2011,Italy,Gas,145,300,48
+2011,Italy,Fossil,27,300,9
+2011,Italy,Renewables,83,300,28
+2011,Italy,Hydro,46,300,15
+2011,Italy,Wind and solar,21,300,7
+2011,Italy,Wind,10,300,3
+2011,Italy,Solar,11,300,4
+2011,Italy,Bioenergy,11,300,4
+2011,Italy,Renewables,6,300,2
+2011,Latvia,Fossil,3,6,50
+2011,Latvia,Gas,3,6,49
+2011,Latvia,Renewables,3,6,50
+2011,Latvia,Hydro,3,6,47
+2011,Lithuania,Fossil,3,4,72
+2011,Lithuania,Gas,3,4,67
+2011,Lithuania,Renewables,1,4,28
+2011,Luxembourg,Fossil,2,3,91
+2011,Luxembourg,Gas,2,3,88
+2011,Malta,Fossil,2,2,100
+2011,Malta,Fossil,2,2,100
+2011,Netherlands,Fossil,97,114,86
+2011,Netherlands,Coal,21,114,19
+2011,Netherlands,Hard Coal,21,114,19
+2011,Netherlands,Gas,69,114,61
+2011,Netherlands,Fossil,6,114,6
+2011,Netherlands,Nuclear,4,114,4
+2011,Netherlands,Renewables,12,114,11
+2011,Netherlands,Wind and solar,5,114,5
+2011,Netherlands,Wind,5,114,4
+2011,Netherlands,Bioenergy,7,114,6
+2011,Poland,Fossil,150,163,92
+2011,Poland,Coal,140,163,86
+2011,Poland,Hard Coal,87,163,54
+2011,Poland,Lignite,53,163,32
+2011,Poland,Gas,6,163,4
+2011,Poland,Fossil,4,163,3
+2011,Poland,Renewables,13,163,8
+2011,Poland,Hydro,2,163,1
+2011,Poland,Wind and solar,3,163,2
+2011,Poland,Wind,3,163,2
+2011,Poland,Bioenergy,8,163,5
+2011,Portugal,Fossil,28,52,54
+2011,Portugal,Coal,10,52,19
+2011,Portugal,Hard Coal,10,52,19
+2011,Portugal,Gas,15,52,29
+2011,Portugal,Fossil,3,52,6
+2011,Portugal,Renewables,24,52,46
+2011,Portugal,Hydro,12,52,22
+2011,Portugal,Wind and solar,9,52,18
+2011,Portugal,Wind,9,52,18
+2011,Portugal,Bioenergy,3,52,6
+2011,Romania,Fossil,34,62,55
+2011,Romania,Coal,25,62,40
+2011,Romania,Hard Coal,1,62,1
+2011,Romania,Lignite,24,62,39
+2011,Romania,Gas,8,62,13
+2011,Romania,Fossil,1,62,1
+2011,Romania,Nuclear,12,62,19
+2011,Romania,Renewables,16,62,26
+2011,Romania,Hydro,15,62,24
+2011,Romania,Wind and solar,1,62,2
+2011,Romania,Wind,1,62,2
+2011,Slovakia,Fossil,8,28,28
+2011,Slovakia,Coal,4,28,13
+2011,Slovakia,Hard Coal,1,28,5
+2011,Slovakia,Lignite,2,28,8
+2011,Slovakia,Gas,3,28,11
+2011,Slovakia,Fossil,1,28,4
+2011,Slovakia,Nuclear,15,28,55
+2011,Slovakia,Renewables,5,28,18
+2011,Slovakia,Hydro,4,28,13
+2011,Slovakia,Bioenergy,1,28,3
+2011,Slovenia,Fossil,6,16,37
+2011,Slovenia,Coal,5,16,33
+2011,Slovenia,Lignite,5,16,31
+2011,Slovenia,Nuclear,6,16,39
+2011,Slovenia,Renewables,4,16,24
+2011,Slovenia,Hydro,4,16,22
+2011,Spain,Fossil,146,291,50
+2011,Spain,Coal,44,291,15
+2011,Spain,Hard Coal,44,291,15
+2011,Spain,Gas,86,291,29
+2011,Spain,Fossil,17,291,6
+2011,Spain,Nuclear,58,291,20
+2011,Spain,Renewables,88,291,30
+2011,Spain,Hydro,31,291,11
+2011,Spain,Wind and solar,52,291,18
+2011,Spain,Wind,43,291,15
+2011,Spain,Solar,9,291,3
+2011,Spain,Bioenergy,5,291,2
+2011,Sweden,Fossil,6,150,4
+2011,Sweden,Coal,1,150,0
+2011,Sweden,Hard Coal,1,150,0
+2011,Sweden,Gas,2,150,1
+2011,Sweden,Fossil,3,150,2
+2011,Sweden,Nuclear,60,150,40
+2011,Sweden,Renewables,84,150,56
+2011,Sweden,Hydro,66,150,44
+2011,Sweden,Wind and solar,6,150,4
+2011,Sweden,Wind,6,150,4
+2011,Sweden,Bioenergy,12,150,8
+2011,United Kingdom,Fossil,261,365,71
+2011,United Kingdom,Coal,108,365,30
+2011,United Kingdom,Hard Coal,108,365,30
+2011,United Kingdom,Gas,146,365,40
+2011,United Kingdom,Fossil,6,365,2
+2011,United Kingdom,Nuclear,69,365,19
+2011,United Kingdom,Renewables,35,365,10
+2011,United Kingdom,Hydro,6,365,2
+2011,United Kingdom,Wind and solar,16,365,4
+2011,United Kingdom,Wind,16,365,4
+2011,United Kingdom,Bioenergy,13,365,4
+2012,Austria,Fossil,17,69,25
+2012,Austria,Coal,4,69,6
+2012,Austria,Hard Coal,4,69,6
+2012,Austria,Gas,10,69,14
+2012,Austria,Fossil,3,69,5
+2012,Austria,Renewables,51,69,75
+2012,Austria,Hydro,44,69,64
+2012,Austria,Wind and solar,3,69,4
+2012,Austria,Wind,2,69,4
+2012,Austria,Bioenergy,5,69,7
+2012,Belgium,Fossil,31,81,38
+2012,Belgium,Coal,3,81,4
+2012,Belgium,Hard Coal,3,81,4
+2012,Belgium,Gas,24,81,29
+2012,Belgium,Fossil,4,81,5
+2012,Belgium,Nuclear,40,81,50
+2012,Belgium,Renewables,10,81,13
+2012,Belgium,Wind and solar,5,81,6
+2012,Belgium,Wind,3,81,3
+2012,Belgium,Solar,2,81,3
+2012,Belgium,Bioenergy,5,81,6
+2012,Bulgaria,Fossil,25,47,55
+2012,Bulgaria,Coal,23,47,49
+2012,Bulgaria,Hard Coal,3,47,6
+2012,Bulgaria,Lignite,20,47,43
+2012,Bulgaria,Gas,2,47,5
+2012,Bulgaria,Nuclear,16,47,34
+2012,Bulgaria,Renewables,5,47,11
+2012,Bulgaria,Hydro,3,47,7
+2012,Bulgaria,Wind and solar,2,47,4
+2012,Bulgaria,Wind,1,47,3
+2012,Bulgaria,Solar,1,47,2
+2012,Croatia,Fossil,5,11,50
+2012,Croatia,Coal,2,11,21
+2012,Croatia,Hard Coal,2,11,21
+2012,Croatia,Gas,3,11,24
+2012,Croatia,Fossil,1,11,5
+2012,Croatia,Renewables,5,11,50
+2012,Croatia,Hydro,5,11,46
+2012,Cyprus,Fossil,4,5,95
+2012,Cyprus,Fossil,4,5,95
+2012,Czech Republic,Fossil,48,87,56
+2012,Czech Republic,Coal,44,87,51
+2012,Czech Republic,Hard Coal,5,87,6
+2012,Czech Republic,Lignite,39,87,45
+2012,Czech Republic,Gas,1,87,2
+2012,Czech Republic,Fossil,3,87,3
+2012,Czech Republic,Nuclear,30,87,35
+2012,Czech Republic,Renewables,8,87,9
+2012,Czech Republic,Hydro,2,87,2
+2012,Czech Republic,Wind and solar,3,87,3
+2012,Czech Republic,Solar,2,87,2
+2012,Czech Republic,Bioenergy,3,87,4
+2012,Denmark,Fossil,16,31,52
+2012,Denmark,Coal,11,31,34
+2012,Denmark,Hard Coal,11,31,34
+2012,Denmark,Gas,4,31,14
+2012,Denmark,Fossil,1,31,4
+2012,Denmark,Renewables,15,31,48
+2012,Denmark,Wind and solar,10,31,34
+2012,Denmark,Wind,10,31,33
+2012,Denmark,Bioenergy,4,31,14
+2012,Estonia,Fossil,10,12,88
+2012,Estonia,Fossil,10,12,87
+2012,Estonia,Renewables,1,12,12
+2012,Estonia,Bioenergy,1,12,8
+2012,Finland,Fossil,19,70,26
+2012,Finland,Coal,7,70,10
+2012,Finland,Hard Coal,7,70,10
+2012,Finland,Gas,7,70,10
+2012,Finland,Fossil,5,70,7
+2012,Finland,Nuclear,23,70,33
+2012,Finland,Renewables,29,70,41
+2012,Finland,Hydro,17,70,24
+2012,Finland,Wind and solar,1,70,1
+2012,Finland,Bioenergy,11,70,16
+2012,France,Fossil,56,567,10
+2012,France,Coal,21,567,4
+2012,France,Hard Coal,21,567,4
+2012,France,Gas,23,567,4
+2012,France,Fossil,12,567,2
+2012,France,Nuclear,425,567,75
+2012,France,Renewables,85,567,15
+2012,France,Hydro,60,567,11
+2012,France,Wind and solar,20,567,3
+2012,France,Wind,15,567,3
+2012,France,Solar,4,567,1
+2012,France,Bioenergy,5,567,1
+2012,France,Renewables,1,567,0
+2012,Germany,Fossil,381,623,61
+2012,Germany,Coal,277,623,44
+2012,Germany,Hard Coal,116,623,19
+2012,Germany,Lignite,161,623,26
+2012,Germany,Gas,76,623,12
+2012,Germany,Fossil,27,623,4
+2012,Germany,Nuclear,100,623,16
+2012,Germany,Renewables,143,623,23
+2012,Germany,Hydro,22,623,3
+2012,Germany,Wind and solar,78,623,13
+2012,Germany,Wind,52,623,8
+2012,Germany,Solar,26,623,4
+2012,Germany,Bioenergy,43,623,7
+2012,Greece,Fossil,51,61,83
+2012,Greece,Coal,31,61,51
+2012,Greece,Lignite,31,61,51
+2012,Greece,Gas,13,61,22
+2012,Greece,Fossil,6,61,10
+2012,Greece,Renewables,10,61,17
+2012,Greece,Hydro,4,61,7
+2012,Greece,Wind and solar,6,61,9
+2012,Greece,Wind,4,61,6
+2012,Greece,Solar,2,61,3
+2012,Hungary,Fossil,16,35,47
+2012,Hungary,Coal,6,35,18
+2012,Hungary,Lignite,6,35,18
+2012,Hungary,Gas,9,35,27
+2012,Hungary,Nuclear,16,35,46
+2012,Hungary,Renewables,3,35,8
+2012,Hungary,Wind and solar,1,35,2
+2012,Hungary,Wind,1,35,2
+2012,Hungary,Bioenergy,2,35,5
+2012,Ireland,Fossil,22,27,81
+2012,Ireland,Coal,5,27,19
+2012,Ireland,Hard Coal,5,27,19
+2012,Ireland,Gas,14,27,52
+2012,Ireland,Fossil,3,27,10
+2012,Ireland,Renewables,5,27,19
+2012,Ireland,Hydro,1,27,3
+2012,Ireland,Wind and solar,4,27,15
+2012,Ireland,Wind,4,27,15
+2012,Italy,Fossil,204,296,69
+2012,Italy,Coal,49,296,17
+2012,Italy,Hard Coal,49,296,17
+2012,Italy,Gas,129,296,44
+2012,Italy,Fossil,26,296,9
+2012,Italy,Renewables,92,296,31
+2012,Italy,Hydro,42,296,14
+2012,Italy,Wind and solar,32,296,11
+2012,Italy,Wind,13,296,5
+2012,Italy,Solar,19,296,6
+2012,Italy,Bioenergy,12,296,4
+2012,Italy,Renewables,6,296,2
+2012,Latvia,Fossil,2,6,33
+2012,Latvia,Gas,2,6,33
+2012,Latvia,Renewables,4,6,67
+2012,Latvia,Hydro,4,6,60
+2012,Lithuania,Fossil,3,4,73
+2012,Lithuania,Gas,3,4,67
+2012,Lithuania,Renewables,1,4,27
+2012,Lithuania,Wind and solar,1,4,13
+2012,Lithuania,Wind,1,4,13
+2012,Luxembourg,Fossil,2,3,89
+2012,Luxembourg,Gas,2,3,87
+2012,Malta,Fossil,2,2,99
+2012,Malta,Fossil,2,2,99
+2012,Netherlands,Fossil,87,103,84
+2012,Netherlands,Coal,24,103,23
+2012,Netherlands,Hard Coal,24,103,23
+2012,Netherlands,Gas,57,103,55
+2012,Netherlands,Fossil,6,103,6
+2012,Netherlands,Nuclear,4,103,4
+2012,Netherlands,Renewables,12,103,12
+2012,Netherlands,Wind and solar,5,103,5
+2012,Netherlands,Wind,5,103,5
+2012,Netherlands,Bioenergy,7,103,7
+2012,Poland,Fossil,145,162,90
+2012,Poland,Coal,135,162,83
+2012,Poland,Hard Coal,81,162,50
+2012,Poland,Lignite,54,162,33
+2012,Poland,Gas,6,162,4
+2012,Poland,Fossil,4,162,2
+2012,Poland,Renewables,17,162,10
+2012,Poland,Hydro,2,162,1
+2012,Poland,Wind and solar,5,162,3
+2012,Poland,Wind,5,162,3
+2012,Poland,Bioenergy,10,162,6
+2012,Portugal,Fossil,26,46,57
+2012,Portugal,Coal,13,46,29
+2012,Portugal,Hard Coal,13,46,29
+2012,Portugal,Gas,11,46,23
+2012,Portugal,Fossil,2,46,5
+2012,Portugal,Renewables,19,46,43
+2012,Portugal,Hydro,6,46,12
+2012,Portugal,Wind and solar,11,46,23
+2012,Portugal,Wind,10,46,23
+2012,Portugal,Bioenergy,3,46,6
+2012,Romania,Fossil,32,59,55
+2012,Romania,Coal,23,59,39
+2012,Romania,Hard Coal,1,59,2
+2012,Romania,Lignite,22,59,37
+2012,Romania,Gas,9,59,15
+2012,Romania,Fossil,1,59,1
+2012,Romania,Nuclear,11,59,20
+2012,Romania,Renewables,15,59,25
+2012,Romania,Hydro,12,59,21
+2012,Romania,Wind and solar,3,59,5
+2012,Romania,Wind,3,59,4
+2012,Slovakia,Fossil,7,28,26
+2012,Slovakia,Coal,3,28,12
+2012,Slovakia,Hard Coal,1,28,5
+2012,Slovakia,Lignite,2,28,8
+2012,Slovakia,Gas,3,28,10
+2012,Slovakia,Fossil,1,28,4
+2012,Slovakia,Nuclear,15,28,55
+2012,Slovakia,Renewables,5,28,19
+2012,Slovakia,Hydro,4,28,15
+2012,Slovakia,Bioenergy,1,28,3
+2012,Slovenia,Fossil,6,16,37
+2012,Slovenia,Coal,5,16,33
+2012,Slovenia,Lignite,5,16,30
+2012,Slovenia,Gas,1,16,3
+2012,Slovenia,Nuclear,6,16,36
+2012,Slovenia,Renewables,4,16,28
+2012,Slovenia,Hydro,4,16,25
+2012,Spain,Fossil,145,294,49
+2012,Spain,Coal,55,294,19
+2012,Spain,Hard Coal,55,294,19
+2012,Spain,Gas,73,294,25
+2012,Spain,Fossil,17,294,6
+2012,Spain,Nuclear,61,294,21
+2012,Spain,Renewables,87,294,30
+2012,Spain,Hydro,21,294,7
+2012,Spain,Wind and solar,61,294,21
+2012,Spain,Wind,49,294,17
+2012,Spain,Solar,12,294,4
+2012,Spain,Bioenergy,5,294,2
+2012,Sweden,Fossil,4,166,2
+2012,Sweden,Gas,1,166,1
+2012,Sweden,Fossil,3,166,2
+2012,Sweden,Nuclear,64,166,38
+2012,Sweden,Renewables,98,166,59
+2012,Sweden,Hydro,79,166,47
+2012,Sweden,Wind and solar,7,166,4
+2012,Sweden,Wind,7,166,4
+2012,Sweden,Bioenergy,12,166,7
+2012,United Kingdom,Fossil,249,361,69
+2012,United Kingdom,Coal,143,361,40
+2012,United Kingdom,Hard Coal,143,361,40
+2012,United Kingdom,Gas,100,361,28
+2012,United Kingdom,Fossil,6,361,2
+2012,United Kingdom,Nuclear,70,361,20
+2012,United Kingdom,Renewables,41,361,11
+2012,United Kingdom,Hydro,5,361,1
+2012,United Kingdom,Wind and solar,21,361,6
+2012,United Kingdom,Wind,20,361,5
+2012,United Kingdom,Solar,1,361,0
+2012,United Kingdom,Bioenergy,15,361,4
+2013,Austria,Fossil,14,65,22
+2013,Austria,Coal,4,65,7
+2013,Austria,Hard Coal,4,65,7
+2013,Austria,Gas,7,65,10
+2013,Austria,Fossil,3,65,5
+2013,Austria,Renewables,50,65,78
+2013,Austria,Hydro,42,65,65
+2013,Austria,Wind and solar,4,65,6
+2013,Austria,Wind,3,65,5
+2013,Austria,Solar,1,65,1
+2013,Austria,Bioenergy,5,65,7
+2013,Belgium,Fossil,27,82,34
+2013,Belgium,Coal,3,82,4
+2013,Belgium,Hard Coal,3,82,4
+2013,Belgium,Gas,21,82,26
+2013,Belgium,Fossil,3,82,4
+2013,Belgium,Nuclear,43,82,52
+2013,Belgium,Renewables,12,82,14
+2013,Belgium,Wind and solar,6,82,8
+2013,Belgium,Wind,4,82,4
+2013,Belgium,Solar,3,82,3
+2013,Belgium,Bioenergy,5,82,6
+2013,Bulgaria,Fossil,22,43,51
+2013,Bulgaria,Coal,19,43,45
+2013,Bulgaria,Hard Coal,2,43,5
+2013,Bulgaria,Lignite,17,43,40
+2013,Bulgaria,Gas,2,43,5
+2013,Bulgaria,Nuclear,14,43,33
+2013,Bulgaria,Renewables,7,43,16
+2013,Bulgaria,Hydro,4,43,9
+2013,Bulgaria,Wind and solar,3,43,6
+2013,Bulgaria,Wind,1,43,3
+2013,Bulgaria,Solar,1,43,3
+2013,Croatia,Fossil,5,14,33
+2013,Croatia,Coal,2,14,17
+2013,Croatia,Hard Coal,2,14,17
+2013,Croatia,Gas,2,14,14
+2013,Croatia,Renewables,9,14,67
+2013,Croatia,Hydro,9,14,62
+2013,Croatia,Wind and solar,1,14,4
+2013,Croatia,Wind,1,14,4
+2013,Cyprus,Fossil,4,4,92
+2013,Cyprus,Fossil,4,4,92
+2013,Czech Republic,Fossil,46,86,53
+2013,Czech Republic,Coal,41,86,48
+2013,Czech Republic,Hard Coal,5,86,6
+2013,Czech Republic,Lignite,36,86,42
+2013,Czech Republic,Gas,2,86,2
+2013,Czech Republic,Fossil,3,86,3
+2013,Czech Republic,Nuclear,31,86,36
+2013,Czech Republic,Renewables,9,86,11
+2013,Czech Republic,Hydro,3,86,3
+2013,Czech Republic,Wind and solar,3,86,3
+2013,Czech Republic,Solar,2,86,2
+2013,Czech Republic,Bioenergy,4,86,5
+2013,Denmark,Fossil,19,35,54
+2013,Denmark,Coal,14,35,41
+2013,Denmark,Hard Coal,14,35,41
+2013,Denmark,Gas,3,35,10
+2013,Denmark,Fossil,1,35,3
+2013,Denmark,Renewables,16,35,46
+2013,Denmark,Wind and solar,12,35,34
+2013,Denmark,Wind,11,35,32
+2013,Denmark,Solar,1,35,1
+2013,Denmark,Bioenergy,4,35,12
+2013,Estonia,Fossil,12,13,91
+2013,Estonia,Fossil,12,13,90
+2013,Estonia,Renewables,1,13,9
+2013,Estonia,Wind and solar,1,13,4
+2013,Estonia,Wind,1,13,4
+2013,Estonia,Bioenergy,1,13,5
+2013,Finland,Fossil,22,71,31
+2013,Finland,Coal,11,71,15
+2013,Finland,Hard Coal,11,71,15
+2013,Finland,Gas,7,71,10
+2013,Finland,Fossil,4,71,6
+2013,Finland,Nuclear,24,71,33
+2013,Finland,Renewables,26,71,36
+2013,Finland,Hydro,13,71,18
+2013,Finland,Wind and solar,1,71,1
+2013,Finland,Wind,1,71,1
+2013,Finland,Bioenergy,12,71,17
+2013,France,Fossil,53,576,9
+2013,France,Coal,24,576,4
+2013,France,Hard Coal,24,576,4
+2013,France,Gas,18,576,3
+2013,France,Fossil,11,576,2
+2013,France,Nuclear,424,576,74
+2013,France,Renewables,99,576,17
+2013,France,Hydro,72,576,12
+2013,France,Wind and solar,21,576,4
+2013,France,Wind,16,576,3
+2013,France,Solar,5,576,1
+2013,France,Bioenergy,6,576,1
+2013,France,Renewables,1,576,0
+2013,Germany,Fossil,383,633,61
+2013,Germany,Coal,288,633,46
+2013,Germany,Hard Coal,127,633,20
+2013,Germany,Lignite,161,633,25
+2013,Germany,Gas,68,633,11
+2013,Germany,Fossil,28,633,4
+2013,Germany,Nuclear,97,633,15
+2013,Germany,Renewables,152,633,24
+2013,Germany,Hydro,23,633,4
+2013,Germany,Wind and solar,84,633,13
+2013,Germany,Wind,53,633,8
+2013,Germany,Solar,31,633,5
+2013,Germany,Bioenergy,46,633,7
+2013,Greece,Fossil,43,57,75
+2013,Greece,Coal,26,57,46
+2013,Greece,Lignite,26,57,46
+2013,Greece,Gas,11,57,19
+2013,Greece,Fossil,5,57,10
+2013,Greece,Renewables,14,57,25
+2013,Greece,Hydro,6,57,11
+2013,Greece,Wind and solar,8,57,14
+2013,Greece,Wind,4,57,7
+2013,Greece,Solar,4,57,6
+2013,Hungary,Fossil,12,30,40
+2013,Hungary,Coal,6,30,21
+2013,Hungary,Lignite,6,30,21
+2013,Hungary,Gas,6,30,18
+2013,Hungary,Nuclear,15,30,51
+2013,Hungary,Renewables,3,30,9
+2013,Hungary,Wind and solar,1,30,2
+2013,Hungary,Wind,1,30,2
+2013,Hungary,Bioenergy,2,30,6
+2013,Ireland,Fossil,20,26,78
+2013,Ireland,Coal,4,26,17
+2013,Ireland,Hard Coal,4,26,17
+2013,Ireland,Gas,13,26,51
+2013,Ireland,Fossil,3,26,10
+2013,Ireland,Renewables,6,26,22
+2013,Ireland,Hydro,1,26,2
+2013,Ireland,Wind and solar,5,26,18
+2013,Ireland,Wind,5,26,18
+2013,Italy,Fossil,175,287,61
+2013,Italy,Coal,45,287,16
+2013,Italy,Hard Coal,45,287,16
+2013,Italy,Gas,109,287,38
+2013,Italy,Fossil,21,287,7
+2013,Italy,Renewables,112,287,39
+2013,Italy,Hydro,53,287,18
+2013,Italy,Wind and solar,36,287,13
+2013,Italy,Wind,15,287,5
+2013,Italy,Solar,22,287,8
+2013,Italy,Bioenergy,17,287,6
+2013,Italy,Renewables,6,287,2
+2013,Latvia,Fossil,3,6,43
+2013,Latvia,Gas,3,6,43
+2013,Latvia,Renewables,4,6,57
+2013,Latvia,Hydro,3,6,47
+2013,Latvia,Bioenergy,1,6,8
+2013,Lithuania,Fossil,2,4,62
+2013,Lithuania,Gas,2,4,56
+2013,Lithuania,Renewables,2,4,38
+2013,Lithuania,Hydro,1,4,13
+2013,Lithuania,Wind and solar,1,4,16
+2013,Lithuania,Wind,1,4,15
+2013,Luxembourg,Fossil,1,2,80
+2013,Luxembourg,Gas,1,2,77
+2013,Malta,Fossil,2,2,98
+2013,Malta,Fossil,2,2,98
+2013,Netherlands,Fossil,87,102,85
+2013,Netherlands,Coal,25,102,24
+2013,Netherlands,Hard Coal,25,102,24
+2013,Netherlands,Gas,56,102,55
+2013,Netherlands,Fossil,6,102,6
+2013,Netherlands,Nuclear,3,102,3
+2013,Netherlands,Renewables,12,102,12
+2013,Netherlands,Wind and solar,6,102,6
+2013,Netherlands,Wind,6,102,6
+2013,Netherlands,Bioenergy,6,102,6
+2013,Poland,Fossil,147,164,90
+2013,Poland,Coal,138,164,84
+2013,Poland,Hard Coal,82,164,50
+2013,Poland,Lignite,56,164,34
+2013,Poland,Gas,5,164,3
+2013,Poland,Fossil,4,164,2
+2013,Poland,Renewables,17,164,10
+2013,Poland,Hydro,2,164,1
+2013,Poland,Wind and solar,6,164,4
+2013,Poland,Wind,6,164,4
+2013,Poland,Bioenergy,9,164,5
+2013,Portugal,Fossil,21,51,42
+2013,Portugal,Coal,12,51,23
+2013,Portugal,Hard Coal,12,51,23
+2013,Portugal,Gas,7,51,14
+2013,Portugal,Fossil,2,51,4
+2013,Portugal,Renewables,29,51,58
+2013,Portugal,Hydro,14,51,27
+2013,Portugal,Wind and solar,12,51,25
+2013,Portugal,Wind,12,51,24
+2013,Portugal,Bioenergy,3,51,6
+2013,Romania,Fossil,27,59,46
+2013,Romania,Coal,17,59,29
+2013,Romania,Lignite,17,59,28
+2013,Romania,Gas,9,59,16
+2013,Romania,Fossil,1,59,1
+2013,Romania,Nuclear,12,59,20
+2013,Romania,Renewables,20,59,34
+2013,Romania,Hydro,15,59,26
+2013,Romania,Wind and solar,5,59,8
+2013,Romania,Wind,5,59,8
+2013,Slovakia,Fossil,6,28,22
+2013,Slovakia,Coal,3,28,11
+2013,Slovakia,Hard Coal,1,28,4
+2013,Slovakia,Lignite,2,28,7
+2013,Slovakia,Gas,2,28,8
+2013,Slovakia,Fossil,1,28,3
+2013,Slovakia,Nuclear,16,28,55
+2013,Slovakia,Renewables,6,28,22
+2013,Slovakia,Hydro,5,28,17
+2013,Slovakia,Wind and solar,1,28,2
+2013,Slovakia,Solar,1,28,2
+2013,Slovakia,Bioenergy,1,28,3
+2013,Slovenia,Fossil,5,16,34
+2013,Slovenia,Coal,5,16,31
+2013,Slovenia,Lignite,4,16,28
+2013,Slovenia,Gas,1,16,3
+2013,Slovenia,Nuclear,5,16,34
+2013,Slovenia,Renewables,5,16,32
+2013,Slovenia,Hydro,5,16,29
+2013,Spain,Fossil,113,281,40
+2013,Spain,Coal,40,281,14
+2013,Spain,Hard Coal,40,281,14
+2013,Spain,Gas,58,281,20
+2013,Spain,Fossil,16,281,6
+2013,Spain,Nuclear,57,281,20
+2013,Spain,Renewables,111,281,40
+2013,Spain,Hydro,37,281,13
+2013,Spain,Wind and solar,69,281,24
+2013,Spain,Wind,56,281,20
+2013,Spain,Solar,13,281,5
+2013,Spain,Bioenergy,6,281,2
+2013,Sweden,Fossil,4,153,3
+2013,Sweden,Coal,1,153,0
+2013,Sweden,Hard Coal,1,153,0
+2013,Sweden,Gas,1,153,1
+2013,Sweden,Fossil,2,153,2
+2013,Sweden,Nuclear,66,153,43
+2013,Sweden,Renewables,83,153,54
+2013,Sweden,Hydro,61,153,40
+2013,Sweden,Wind and solar,10,153,6
+2013,Sweden,Wind,10,153,6
+2013,Sweden,Bioenergy,11,153,7
+2013,United Kingdom,Fossil,232,355,65
+2013,United Kingdom,Coal,130,355,37
+2013,United Kingdom,Hard Coal,130,355,37
+2013,United Kingdom,Gas,96,355,27
+2013,United Kingdom,Fossil,5,355,2
+2013,United Kingdom,Nuclear,71,355,20
+2013,United Kingdom,Renewables,53,355,15
+2013,United Kingdom,Hydro,5,355,1
+2013,United Kingdom,Wind and solar,30,355,9
+2013,United Kingdom,Wind,28,355,8
+2013,United Kingdom,Solar,2,355,1
+2013,United Kingdom,Bioenergy,18,355,5
+2014,Austria,Fossil,11,62,19
+2014,Austria,Coal,3,62,5
+2014,Austria,Hard Coal,3,62,5
+2014,Austria,Gas,5,62,9
+2014,Austria,Fossil,3,62,5
+2014,Austria,Renewables,50,62,81
+2014,Austria,Hydro,41,62,67
+2014,Austria,Wind and solar,5,62,8
+2014,Austria,Wind,4,62,6
+2014,Austria,Solar,1,62,1
+2014,Austria,Bioenergy,5,62,7
+2014,Belgium,Fossil,25,71,35
+2014,Belgium,Coal,2,71,3
+2014,Belgium,Hard Coal,2,71,3
+2014,Belgium,Gas,19,71,27
+2014,Belgium,Fossil,4,71,5
+2014,Belgium,Nuclear,34,71,47
+2014,Belgium,Renewables,12,71,17
+2014,Belgium,Wind and solar,8,71,11
+2014,Belgium,Wind,5,71,6
+2014,Belgium,Solar,3,71,4
+2014,Belgium,Bioenergy,4,71,6
+2014,Bulgaria,Fossil,24,47,50
+2014,Bulgaria,Coal,21,47,45
+2014,Bulgaria,Hard Coal,2,47,5
+2014,Bulgaria,Lignite,19,47,40
+2014,Bulgaria,Gas,2,47,5
+2014,Bulgaria,Nuclear,16,47,34
+2014,Bulgaria,Renewables,7,47,16
+2014,Bulgaria,Hydro,5,47,10
+2014,Bulgaria,Wind and solar,3,47,6
+2014,Bulgaria,Wind,1,47,3
+2014,Bulgaria,Solar,1,47,3
+2014,Croatia,Fossil,3,13,26
+2014,Croatia,Coal,2,13,18
+2014,Croatia,Hard Coal,2,13,17
+2014,Croatia,Gas,1,13,7
+2014,Croatia,Renewables,10,13,74
+2014,Croatia,Hydro,9,13,67
+2014,Croatia,Wind and solar,1,13,6
+2014,Croatia,Wind,1,13,5
+2014,Cyprus,Fossil,4,4,93
+2014,Cyprus,Fossil,4,4,93
+2014,Czech Republic,Fossil,46,85,54
+2014,Czech Republic,Coal,41,85,48
+2014,Czech Republic,Hard Coal,5,85,6
+2014,Czech Republic,Lignite,36,85,42
+2014,Czech Republic,Gas,2,85,2
+2014,Czech Republic,Fossil,3,85,3
+2014,Czech Republic,Nuclear,30,85,36
+2014,Czech Republic,Renewables,9,85,11
+2014,Czech Republic,Hydro,2,85,2
+2014,Czech Republic,Wind and solar,3,85,3
+2014,Czech Republic,Solar,2,85,2
+2014,Czech Republic,Bioenergy,5,85,5
+2014,Denmark,Fossil,14,32,44
+2014,Denmark,Coal,11,32,34
+2014,Denmark,Hard Coal,11,32,34
+2014,Denmark,Gas,2,32,7
+2014,Denmark,Fossil,1,32,3
+2014,Denmark,Renewables,18,32,56
+2014,Denmark,Wind and solar,14,32,42
+2014,Denmark,Wind,13,32,41
+2014,Denmark,Solar,1,32,2
+2014,Denmark,Bioenergy,4,32,13
+2014,Estonia,Fossil,11,12,89
+2014,Estonia,Fossil,11,12,88
+2014,Estonia,Renewables,1,12,11
+2014,Estonia,Wind and solar,1,12,5
+2014,Estonia,Wind,1,12,5
+2014,Estonia,Bioenergy,1,12,6
+2014,Finland,Fossil,18,68,26
+2014,Finland,Coal,8,68,12
+2014,Finland,Hard Coal,8,68,12
+2014,Finland,Gas,6,68,8
+2014,Finland,Fossil,5,68,7
+2014,Finland,Nuclear,24,68,35
+2014,Finland,Renewables,26,68,39
+2014,Finland,Hydro,13,68,20
+2014,Finland,Wind and solar,1,68,2
+2014,Finland,Wind,1,68,2
+2014,Finland,Bioenergy,12,68,17
+2014,France,Fossil,36,566,6
+2014,France,Coal,11,566,2
+2014,France,Hard Coal,11,566,2
+2014,France,Gas,13,566,2
+2014,France,Fossil,11,566,2
+2014,France,Nuclear,436,566,77
+2014,France,Renewables,94,566,17
+2014,France,Hydro,64,566,11
+2014,France,Wind and solar,24,566,4
+2014,France,Wind,17,566,3
+2014,France,Solar,6,566,1
+2014,France,Bioenergy,6,566,1
+2014,France,Renewables,1,566,0
+2014,Germany,Fossil,362,622,58
+2014,Germany,Coal,274,622,44
+2014,Germany,Hard Coal,119,622,19
+2014,Germany,Lignite,156,622,25
+2014,Germany,Gas,61,622,10
+2014,Germany,Fossil,27,622,4
+2014,Germany,Nuclear,97,622,16
+2014,Germany,Renewables,163,622,26
+2014,Germany,Hydro,20,622,3
+2014,Germany,Wind and solar,95,622,15
+2014,Germany,Wind,59,622,9
+2014,Germany,Solar,36,622,6
+2014,Germany,Bioenergy,48,622,8
+2014,Greece,Fossil,38,50,76
+2014,Greece,Coal,26,50,51
+2014,Greece,Lignite,26,50,51
+2014,Greece,Gas,7,50,13
+2014,Greece,Fossil,6,50,11
+2014,Greece,Renewables,12,50,24
+2014,Greece,Hydro,4,50,9
+2014,Greece,Wind and solar,7,50,15
+2014,Greece,Wind,4,50,7
+2014,Greece,Solar,4,50,8
+2014,Hungary,Fossil,11,29,36
+2014,Hungary,Coal,6,29,20
+2014,Hungary,Lignite,6,29,20
+2014,Hungary,Gas,4,29,14
+2014,Hungary,Nuclear,16,29,53
+2014,Hungary,Renewables,3,29,11
+2014,Hungary,Wind and solar,1,29,2
+2014,Hungary,Wind,1,29,2
+2014,Hungary,Bioenergy,2,29,7
+2014,Ireland,Fossil,19,26,75
+2014,Ireland,Coal,4,26,15
+2014,Ireland,Hard Coal,4,26,15
+2014,Ireland,Gas,13,26,49
+2014,Ireland,Fossil,3,26,11
+2014,Ireland,Renewables,6,26,25
+2014,Ireland,Hydro,1,26,3
+2014,Ireland,Wind and solar,5,26,20
+2014,Ireland,Wind,5,26,20
+2014,Ireland,Bioenergy,1,26,2
+2014,Italy,Fossil,157,277,57
+2014,Italy,Coal,43,277,16
+2014,Italy,Hard Coal,43,277,16
+2014,Italy,Gas,94,277,34
+2014,Italy,Fossil,20,277,7
+2014,Italy,Renewables,121,277,43
+2014,Italy,Hydro,59,277,21
+2014,Italy,Wind and solar,37,277,14
+2014,Italy,Wind,15,277,5
+2014,Italy,Solar,22,277,8
+2014,Italy,Bioenergy,19,277,7
+2014,Italy,Renewables,6,277,2
+2014,Latvia,Fossil,2,5,45
+2014,Latvia,Gas,2,5,45
+2014,Latvia,Renewables,3,5,55
+2014,Latvia,Hydro,2,5,39
+2014,Latvia,Bioenergy,1,5,13
+2014,Lithuania,Fossil,2,3,56
+2014,Lithuania,Gas,2,3,50
+2014,Lithuania,Renewables,2,3,44
+2014,Lithuania,Wind and solar,1,3,21
+2014,Lithuania,Wind,1,3,18
+2014,Luxembourg,Fossil,2,2,79
+2014,Luxembourg,Gas,1,2,76
+2014,Malta,Fossil,2,2,97
+2014,Malta,Fossil,2,2,97
+2014,Netherlands,Fossil,87,103,85
+2014,Netherlands,Coal,29,103,29
+2014,Netherlands,Hard Coal,29,103,29
+2014,Netherlands,Gas,52,103,50
+2014,Netherlands,Fossil,6,103,6
+2014,Netherlands,Nuclear,4,103,4
+2014,Netherlands,Renewables,12,103,11
+2014,Netherlands,Wind and solar,7,103,6
+2014,Netherlands,Wind,6,103,6
+2014,Netherlands,Solar,1,103,1
+2014,Netherlands,Bioenergy,5,103,5
+2014,Poland,Fossil,139,158,87
+2014,Poland,Coal,130,158,82
+2014,Poland,Hard Coal,76,158,48
+2014,Poland,Lignite,53,158,34
+2014,Poland,Gas,5,158,3
+2014,Poland,Fossil,4,158,2
+2014,Poland,Renewables,20,158,13
+2014,Poland,Hydro,2,158,1
+2014,Poland,Wind and solar,8,158,5
+2014,Poland,Wind,8,158,5
+2014,Poland,Bioenergy,10,158,6
+2014,Portugal,Fossil,20,52,39
+2014,Portugal,Coal,12,52,23
+2014,Portugal,Hard Coal,12,52,23
+2014,Portugal,Gas,7,52,13
+2014,Portugal,Fossil,2,52,3
+2014,Portugal,Renewables,32,52,61
+2014,Portugal,Hydro,16,52,30
+2014,Portugal,Wind and solar,13,52,25
+2014,Portugal,Wind,12,52,23
+2014,Portugal,Solar,1,52,1
+2014,Portugal,Bioenergy,3,52,6
+2014,Romania,Fossil,26,65,40
+2014,Romania,Coal,18,65,27
+2014,Romania,Lignite,17,65,27
+2014,Romania,Gas,8,65,12
+2014,Romania,Fossil,1,65,1
+2014,Romania,Nuclear,12,65,18
+2014,Romania,Renewables,27,65,42
+2014,Romania,Hydro,19,65,29
+2014,Romania,Wind and solar,8,65,12
+2014,Romania,Wind,6,65,10
+2014,Romania,Solar,2,65,2
+2014,Romania,Bioenergy,1,65,1
+2014,Slovakia,Fossil,5,27,20
+2014,Slovakia,Coal,3,27,11
+2014,Slovakia,Hard Coal,1,27,4
+2014,Slovakia,Lignite,2,27,7
+2014,Slovakia,Gas,2,27,6
+2014,Slovakia,Fossil,1,27,3
+2014,Slovakia,Nuclear,15,27,57
+2014,Slovakia,Renewables,6,27,23
+2014,Slovakia,Hydro,4,27,16
+2014,Slovakia,Wind and solar,1,27,2
+2014,Slovakia,Solar,1,27,2
+2014,Slovakia,Bioenergy,1,27,5
+2014,Slovenia,Fossil,4,17,24
+2014,Slovenia,Coal,4,17,22
+2014,Slovenia,Lignite,3,17,20
+2014,Slovenia,Nuclear,6,17,37
+2014,Slovenia,Renewables,7,17,39
+2014,Slovenia,Hydro,6,17,35
+2014,Spain,Fossil,107,275,39
+2014,Spain,Coal,44,275,16
+2014,Spain,Hard Coal,44,275,16
+2014,Spain,Gas,47,275,17
+2014,Spain,Fossil,16,275,6
+2014,Spain,Nuclear,57,275,21
+2014,Spain,Renewables,110,275,40
+2014,Spain,Hydro,39,275,14
+2014,Spain,Wind and solar,66,275,24
+2014,Spain,Wind,52,275,19
+2014,Spain,Solar,14,275,5
+2014,Spain,Bioenergy,5,275,2
+2014,Sweden,Fossil,3,154,2
+2014,Sweden,Fossil,2,154,1
+2014,Sweden,Nuclear,65,154,42
+2014,Sweden,Renewables,86,154,56
+2014,Sweden,Hydro,64,154,42
+2014,Sweden,Wind and solar,11,154,7
+2014,Sweden,Wind,11,154,7
+2014,Sweden,Bioenergy,11,154,7
+2014,United Kingdom,Fossil,207,335,62
+2014,United Kingdom,Coal,100,335,30
+2014,United Kingdom,Hard Coal,100,335,30
+2014,United Kingdom,Gas,101,335,30
+2014,United Kingdom,Fossil,6,335,2
+2014,United Kingdom,Nuclear,64,335,19
+2014,United Kingdom,Renewables,65,335,19
+2014,United Kingdom,Hydro,6,335,2
+2014,United Kingdom,Wind and solar,36,335,11
+2014,United Kingdom,Wind,32,335,10
+2014,United Kingdom,Solar,4,335,1
+2014,United Kingdom,Bioenergy,23,335,7
+2015,Austria,Fossil,14,62,23
+2015,Austria,Coal,3,62,5
+2015,Austria,Hard Coal,3,62,5
+2015,Austria,Gas,8,62,12
+2015,Austria,Fossil,4,62,6
+2015,Austria,Renewables,48,62,77
+2015,Austria,Hydro,37,62,60
+2015,Austria,Wind and solar,6,62,9
+2015,Austria,Wind,5,62,8
+2015,Austria,Solar,1,62,2
+2015,Austria,Bioenergy,5,62,8
+2015,Belgium,Fossil,28,68,41
+2015,Belgium,Coal,2,68,3
+2015,Belgium,Hard Coal,2,68,3
+2015,Belgium,Gas,22,68,32
+2015,Belgium,Fossil,4,68,5
+2015,Belgium,Nuclear,26,68,38
+2015,Belgium,Renewables,14,68,21
+2015,Belgium,Wind and solar,9,68,13
+2015,Belgium,Wind,6,68,8
+2015,Belgium,Solar,3,68,4
+2015,Belgium,Bioenergy,6,68,8
+2015,Bulgaria,Fossil,25,49,50
+2015,Bulgaria,Coal,23,49,46
+2015,Bulgaria,Hard Coal,1,49,1
+2015,Bulgaria,Lignite,22,49,45
+2015,Bulgaria,Gas,2,49,4
+2015,Bulgaria,Nuclear,15,49,32
+2015,Bulgaria,Renewables,9,49,18
+2015,Bulgaria,Hydro,6,49,12
+2015,Bulgaria,Wind and solar,3,49,6
+2015,Bulgaria,Wind,1,49,3
+2015,Bulgaria,Solar,1,49,3
+2015,Croatia,Fossil,4,11,33
+2015,Croatia,Coal,2,11,21
+2015,Croatia,Hard Coal,2,11,20
+2015,Croatia,Gas,1,11,11
+2015,Croatia,Renewables,8,11,67
+2015,Croatia,Hydro,6,11,57
+2015,Croatia,Wind and solar,1,11,8
+2015,Croatia,Wind,1,11,7
+2015,Cyprus,Fossil,4,5,91
+2015,Cyprus,Fossil,4,5,91
+2015,Czech Republic,Fossil,46,83,56
+2015,Czech Republic,Coal,41,83,50
+2015,Czech Republic,Hard Coal,6,83,7
+2015,Czech Republic,Lignite,35,83,43
+2015,Czech Republic,Gas,2,83,3
+2015,Czech Republic,Fossil,3,83,3
+2015,Czech Republic,Nuclear,27,83,33
+2015,Czech Republic,Renewables,9,83,11
+2015,Czech Republic,Hydro,2,83,2
+2015,Czech Republic,Wind and solar,3,83,3
+2015,Czech Republic,Wind,1,83,1
+2015,Czech Republic,Solar,2,83,3
+2015,Czech Republic,Bioenergy,5,83,6
+2015,Denmark,Fossil,10,29,35
+2015,Denmark,Coal,7,29,25
+2015,Denmark,Hard Coal,7,29,25
+2015,Denmark,Gas,2,29,6
+2015,Denmark,Fossil,1,29,4
+2015,Denmark,Renewables,19,29,65
+2015,Denmark,Wind and solar,15,29,51
+2015,Denmark,Wind,14,29,49
+2015,Denmark,Solar,1,29,2
+2015,Denmark,Bioenergy,4,29,14
+2015,Estonia,Fossil,9,10,86
+2015,Estonia,Fossil,9,10,85
+2015,Estonia,Renewables,2,10,14
+2015,Estonia,Wind and solar,1,10,7
+2015,Estonia,Wind,1,10,7
+2015,Estonia,Bioenergy,1,10,7
+2015,Finland,Fossil,15,68,21
+2015,Finland,Coal,5,68,7
+2015,Finland,Hard Coal,5,68,7
+2015,Finland,Gas,5,68,8
+2015,Finland,Fossil,4,68,6
+2015,Finland,Nuclear,23,68,34
+2015,Finland,Renewables,31,68,45
+2015,Finland,Hydro,17,68,25
+2015,Finland,Wind and solar,2,68,3
+2015,Finland,Wind,2,68,3
+2015,Finland,Bioenergy,11,68,17
+2015,France,Fossil,45,574,8
+2015,France,Coal,12,574,2
+2015,France,Hard Coal,12,574,2
+2015,France,Gas,21,574,4
+2015,France,Fossil,12,574,2
+2015,France,Nuclear,437,574,76
+2015,France,Renewables,92,574,16
+2015,France,Hydro,56,574,10
+2015,France,Wind and solar,29,574,5
+2015,France,Wind,21,574,4
+2015,France,Solar,8,574,1
+2015,France,Bioenergy,7,574,1
+2015,France,Renewables,1,574,0
+2015,Germany,Fossil,362,642,56
+2015,Germany,Coal,272,642,42
+2015,Germany,Hard Coal,118,642,18
+2015,Germany,Lignite,155,642,24
+2015,Germany,Gas,62,642,10
+2015,Germany,Fossil,28,642,4
+2015,Germany,Nuclear,92,642,14
+2015,Germany,Renewables,189,642,29
+2015,Germany,Hydro,19,642,3
+2015,Germany,Wind and solar,119,642,19
+2015,Germany,Wind,81,642,13
+2015,Germany,Solar,39,642,6
+2015,Germany,Bioenergy,50,642,8
+2015,Greece,Fossil,37,52,71
+2015,Greece,Coal,22,52,43
+2015,Greece,Lignite,22,52,43
+2015,Greece,Gas,9,52,18
+2015,Greece,Fossil,6,52,11
+2015,Greece,Renewables,15,52,29
+2015,Greece,Hydro,6,52,12
+2015,Greece,Wind and solar,9,52,16
+2015,Greece,Wind,5,52,9
+2015,Greece,Solar,4,52,8
+2015,Hungary,Fossil,11,30,37
+2015,Hungary,Coal,6,30,19
+2015,Hungary,Lignite,6,30,19
+2015,Hungary,Gas,5,30,17
+2015,Hungary,Nuclear,16,30,52
+2015,Hungary,Renewables,3,30,11
+2015,Hungary,Wind and solar,1,30,3
+2015,Hungary,Wind,1,30,2
+2015,Hungary,Bioenergy,2,30,7
+2015,Ireland,Fossil,20,28,72
+2015,Ireland,Coal,5,28,17
+2015,Ireland,Hard Coal,5,28,17
+2015,Ireland,Gas,12,28,44
+2015,Ireland,Fossil,3,28,11
+2015,Ireland,Renewables,8,28,28
+2015,Ireland,Hydro,1,28,3
+2015,Ireland,Wind and solar,7,28,23
+2015,Ireland,Wind,7,28,23
+2015,Italy,Fossil,172,281,61
+2015,Italy,Coal,43,281,15
+2015,Italy,Hard Coal,43,281,15
+2015,Italy,Gas,111,281,39
+2015,Italy,Fossil,18,281,6
+2015,Italy,Renewables,109,281,39
+2015,Italy,Hydro,46,281,16
+2015,Italy,Wind and solar,38,281,13
+2015,Italy,Wind,15,281,5
+2015,Italy,Solar,23,281,8
+2015,Italy,Bioenergy,19,281,7
+2015,Italy,Renewables,6,281,2
+2015,Latvia,Fossil,3,6,50
+2015,Latvia,Gas,3,6,50
+2015,Latvia,Renewables,3,6,50
+2015,Latvia,Hydro,2,6,34
+2015,Latvia,Bioenergy,1,6,14
+2015,Lithuania,Fossil,2,4,58
+2015,Lithuania,Gas,2,4,50
+2015,Lithuania,Renewables,2,4,42
+2015,Lithuania,Wind and solar,1,4,22
+2015,Lithuania,Wind,1,4,20
+2015,Luxembourg,Fossil,1,1,68
+2015,Luxembourg,Gas,1,1,63
+2015,Malta,Fossil,1,1,92
+2015,Malta,Fossil,1,1,92
+2015,Netherlands,Fossil,92,110,84
+2015,Netherlands,Coal,39,110,36
+2015,Netherlands,Hard Coal,39,110,36
+2015,Netherlands,Gas,47,110,43
+2015,Netherlands,Fossil,6,110,5
+2015,Netherlands,Nuclear,4,110,4
+2015,Netherlands,Renewables,14,110,12
+2015,Netherlands,Wind and solar,9,110,8
+2015,Netherlands,Wind,8,110,7
+2015,Netherlands,Solar,1,110,1
+2015,Netherlands,Bioenergy,5,110,4
+2015,Poland,Fossil,142,164,86
+2015,Poland,Coal,131,164,79
+2015,Poland,Hard Coal,78,164,47
+2015,Poland,Lignite,53,164,32
+2015,Poland,Gas,6,164,4
+2015,Poland,Fossil,5,164,3
+2015,Poland,Renewables,23,164,14
+2015,Poland,Hydro,2,164,1
+2015,Poland,Wind and solar,11,164,7
+2015,Poland,Wind,11,164,7
+2015,Poland,Bioenergy,10,164,6
+2015,Portugal,Fossil,27,51,52
+2015,Portugal,Coal,15,51,29
+2015,Portugal,Hard Coal,15,51,29
+2015,Portugal,Gas,11,51,21
+2015,Portugal,Fossil,2,51,3
+2015,Portugal,Renewables,24,51,48
+2015,Portugal,Hydro,9,51,17
+2015,Portugal,Wind and solar,12,51,24
+2015,Portugal,Wind,12,51,23
+2015,Portugal,Solar,1,51,2
+2015,Portugal,Bioenergy,3,51,6
+2015,Romania,Fossil,28,66,43
+2015,Romania,Coal,18,66,27
+2015,Romania,Lignite,18,66,27
+2015,Romania,Gas,9,66,14
+2015,Romania,Fossil,1,66,1
+2015,Romania,Nuclear,12,66,18
+2015,Romania,Renewables,26,66,40
+2015,Romania,Hydro,17,66,25
+2015,Romania,Wind and solar,9,66,14
+2015,Romania,Wind,7,66,11
+2015,Romania,Solar,2,66,3
+2015,Romania,Bioenergy,1,66,1
+2015,Slovakia,Fossil,5,27,20
+2015,Slovakia,Coal,3,27,11
+2015,Slovakia,Hard Coal,1,27,4
+2015,Slovakia,Lignite,2,27,7
+2015,Slovakia,Gas,2,27,6
+2015,Slovakia,Fossil,1,27,3
+2015,Slovakia,Nuclear,15,27,57
+2015,Slovakia,Renewables,6,27,23
+2015,Slovakia,Hydro,4,27,15
+2015,Slovakia,Wind and solar,1,27,2
+2015,Slovakia,Solar,1,27,2
+2015,Slovakia,Bioenergy,2,27,6
+2015,Slovenia,Fossil,5,15,32
+2015,Slovenia,Coal,4,15,30
+2015,Slovenia,Lignite,4,15,27
+2015,Slovenia,Nuclear,6,15,38
+2015,Slovenia,Renewables,4,15,29
+2015,Slovenia,Hydro,4,15,26
+2015,Spain,Fossil,123,277,44
+2015,Spain,Coal,51,277,19
+2015,Spain,Hard Coal,51,277,19
+2015,Spain,Gas,52,277,19
+2015,Spain,Fossil,19,277,7
+2015,Spain,Nuclear,57,277,21
+2015,Spain,Renewables,97,277,35
+2015,Spain,Hydro,28,277,10
+2015,Spain,Wind and solar,63,277,23
+2015,Spain,Wind,49,277,18
+2015,Spain,Solar,14,277,5
+2015,Spain,Bioenergy,6,277,2
+2015,Sweden,Fossil,3,162,2
+2015,Sweden,Fossil,2,162,1
+2015,Sweden,Nuclear,56,162,35
+2015,Sweden,Renewables,102,162,63
+2015,Sweden,Hydro,75,162,46
+2015,Sweden,Wind and solar,16,162,10
+2015,Sweden,Wind,16,162,10
+2015,Sweden,Bioenergy,11,162,7
+2015,United Kingdom,Fossil,182,335,54
+2015,United Kingdom,Coal,76,335,23
+2015,United Kingdom,Hard Coal,76,335,23
+2015,United Kingdom,Gas,100,335,30
+2015,United Kingdom,Fossil,7,335,2
+2015,United Kingdom,Nuclear,70,335,21
+2015,United Kingdom,Renewables,83,335,25
+2015,United Kingdom,Hydro,6,335,2
+2015,United Kingdom,Wind and solar,48,335,14
+2015,United Kingdom,Wind,40,335,12
+2015,United Kingdom,Solar,8,335,2
+2015,United Kingdom,Bioenergy,28,335,8
+2016,Austria,Fossil,14,65,22
+2016,Austria,Coal,2,65,3
+2016,Austria,Hard Coal,2,65,3
+2016,Austria,Gas,8,65,13
+2016,Austria,Fossil,4,65,6
+2016,Austria,Renewables,51,65,78
+2016,Austria,Hydro,40,65,61
+2016,Austria,Wind and solar,6,65,10
+2016,Austria,Wind,5,65,8
+2016,Austria,Solar,1,65,2
+2016,Austria,Bioenergy,5,65,7
+2016,Belgium,Fossil,26,84,31
+2016,Belgium,Gas,22,84,26
+2016,Belgium,Fossil,4,84,4
+2016,Belgium,Nuclear,44,84,52
+2016,Belgium,Renewables,14,84,17
+2016,Belgium,Wind and solar,9,84,10
+2016,Belgium,Wind,5,84,6
+2016,Belgium,Solar,3,84,4
+2016,Belgium,Bioenergy,5,84,6
+2016,Bulgaria,Fossil,22,45,49
+2016,Bulgaria,Coal,19,45,43
+2016,Bulgaria,Lignite,19,45,42
+2016,Bulgaria,Gas,2,45,5
+2016,Bulgaria,Nuclear,16,45,35
+2016,Bulgaria,Renewables,7,45,16
+2016,Bulgaria,Hydro,4,45,9
+2016,Bulgaria,Wind and solar,3,45,6
+2016,Bulgaria,Wind,1,45,3
+2016,Bulgaria,Solar,1,45,3
+2016,Croatia,Fossil,4,13,34
+2016,Croatia,Coal,3,13,21
+2016,Croatia,Hard Coal,3,13,20
+2016,Croatia,Gas,2,13,13
+2016,Croatia,Renewables,8,13,66
+2016,Croatia,Hydro,7,13,54
+2016,Croatia,Wind and solar,1,13,9
+2016,Croatia,Wind,1,13,8
+2016,Cyprus,Fossil,4,5,91
+2016,Cyprus,Fossil,4,5,91
+2016,Czech Republic,Fossil,49,82,59
+2016,Czech Republic,Coal,42,82,51
+2016,Czech Republic,Hard Coal,6,82,7
+2016,Czech Republic,Lignite,36,82,44
+2016,Czech Republic,Gas,4,82,5
+2016,Czech Republic,Fossil,3,82,3
+2016,Czech Republic,Nuclear,24,82,29
+2016,Czech Republic,Renewables,9,82,11
+2016,Czech Republic,Hydro,2,82,2
+2016,Czech Republic,Wind and solar,3,82,3
+2016,Czech Republic,Solar,2,82,3
+2016,Czech Republic,Bioenergy,5,82,6
+2016,Denmark,Fossil,12,31,40
+2016,Denmark,Coal,9,31,29
+2016,Denmark,Hard Coal,9,31,29
+2016,Denmark,Gas,2,31,7
+2016,Denmark,Fossil,1,31,3
+2016,Denmark,Renewables,18,31,60
+2016,Denmark,Wind and solar,14,31,44
+2016,Denmark,Wind,13,31,42
+2016,Denmark,Solar,1,31,2
+2016,Denmark,Bioenergy,5,31,16
+2016,Estonia,Fossil,11,12,87
+2016,Estonia,Fossil,11,12,87
+2016,Estonia,Renewables,2,12,13
+2016,Estonia,Wind and solar,1,12,5
+2016,Estonia,Wind,1,12,5
+2016,Estonia,Bioenergy,1,12,7
+2016,Finland,Fossil,15,68,22
+2016,Finland,Coal,7,68,10
+2016,Finland,Hard Coal,7,68,10
+2016,Finland,Gas,4,68,5
+2016,Finland,Fossil,4,68,6
+2016,Finland,Nuclear,23,68,34
+2016,Finland,Renewables,30,68,44
+2016,Finland,Hydro,16,68,23
+2016,Finland,Wind and solar,3,68,5
+2016,Finland,Wind,3,68,4
+2016,Finland,Bioenergy,12,68,17
+2016,France,Fossil,57,559,10
+2016,France,Coal,10,559,2
+2016,France,Hard Coal,10,559,2
+2016,France,Gas,35,559,6
+2016,France,Fossil,11,559,2
+2016,France,Nuclear,403,559,72
+2016,France,Renewables,99,559,18
+2016,France,Hydro,61,559,11
+2016,France,Wind and solar,30,559,5
+2016,France,Wind,21,559,4
+2016,France,Solar,9,559,2
+2016,France,Bioenergy,8,559,1
+2016,France,Renewables,1,559,0
+2016,Germany,Fossil,371,645,57
+2016,Germany,Coal,262,645,41
+2016,Germany,Hard Coal,112,645,17
+2016,Germany,Lignite,150,645,23
+2016,Germany,Gas,81,645,13
+2016,Germany,Fossil,28,645,4
+2016,Germany,Nuclear,85,645,13
+2016,Germany,Renewables,190,645,29
+2016,Germany,Hydro,21,645,3
+2016,Germany,Wind and solar,118,645,18
+2016,Germany,Wind,80,645,12
+2016,Germany,Solar,38,645,6
+2016,Germany,Bioenergy,51,645,8
+2016,Greece,Fossil,40,54,73
+2016,Greece,Coal,19,54,35
+2016,Greece,Lignite,19,54,35
+2016,Greece,Gas,15,54,28
+2016,Greece,Fossil,6,54,10
+2016,Greece,Renewables,15,54,27
+2016,Greece,Hydro,6,54,10
+2016,Greece,Wind and solar,9,54,17
+2016,Greece,Wind,5,54,9
+2016,Greece,Solar,4,54,7
+2016,Hungary,Fossil,13,32,39
+2016,Hungary,Coal,6,32,18
+2016,Hungary,Lignite,5,32,17
+2016,Hungary,Gas,6,32,20
+2016,Hungary,Nuclear,16,32,50
+2016,Hungary,Renewables,3,32,10
+2016,Hungary,Wind and solar,1,32,3
+2016,Hungary,Wind,1,32,2
+2016,Hungary,Bioenergy,2,32,7
+2016,Ireland,Fossil,23,30,75
+2016,Ireland,Coal,5,30,16
+2016,Ireland,Hard Coal,5,30,16
+2016,Ireland,Gas,15,30,51
+2016,Ireland,Fossil,3,30,9
+2016,Ireland,Renewables,8,30,25
+2016,Ireland,Hydro,1,30,2
+2016,Ireland,Wind and solar,6,30,20
+2016,Ireland,Wind,6,30,20
+2016,Ireland,Bioenergy,1,30,2
+2016,Italy,Fossil,179,287,62
+2016,Italy,Coal,36,287,12
+2016,Italy,Hard Coal,36,287,12
+2016,Italy,Gas,126,287,44
+2016,Italy,Fossil,17,287,6
+2016,Italy,Renewables,108,287,38
+2016,Italy,Hydro,42,287,15
+2016,Italy,Wind and solar,40,287,14
+2016,Italy,Wind,18,287,6
+2016,Italy,Solar,22,287,8
+2016,Italy,Bioenergy,19,287,7
+2016,Italy,Renewables,6,287,2
+2016,Latvia,Fossil,3,6,46
+2016,Latvia,Gas,3,6,46
+2016,Latvia,Renewables,3,6,54
+2016,Latvia,Hydro,3,6,39
+2016,Latvia,Bioenergy,1,6,13
+2016,Lithuania,Fossil,1,3,38
+2016,Lithuania,Gas,1,3,29
+2016,Lithuania,Renewables,2,3,62
+2016,Lithuania,Wind and solar,1,3,35
+2016,Lithuania,Wind,1,3,33
+2016,Malta,Fossil,1,1,84
+2016,Malta,Fossil,1,1,84
+2016,Netherlands,Fossil,96,115,84
+2016,Netherlands,Coal,37,115,32
+2016,Netherlands,Hard Coal,37,115,32
+2016,Netherlands,Gas,54,115,47
+2016,Netherlands,Fossil,6,115,5
+2016,Netherlands,Nuclear,4,115,3
+2016,Netherlands,Renewables,15,115,13
+2016,Netherlands,Wind and solar,10,115,8
+2016,Netherlands,Wind,8,115,7
+2016,Netherlands,Solar,2,115,1
+2016,Netherlands,Bioenergy,5,115,4
+2016,Poland,Fossil,143,166,86
+2016,Poland,Coal,130,166,78
+2016,Poland,Hard Coal,79,166,48
+2016,Poland,Lignite,51,166,31
+2016,Poland,Gas,8,166,5
+2016,Poland,Fossil,5,166,3
+2016,Poland,Renewables,23,166,14
+2016,Poland,Hydro,2,166,1
+2016,Poland,Wind and solar,13,166,8
+2016,Poland,Wind,13,166,8
+2016,Poland,Bioenergy,8,166,5
+2016,Portugal,Fossil,27,59,45
+2016,Portugal,Coal,13,59,21
+2016,Portugal,Hard Coal,13,59,21
+2016,Portugal,Gas,13,59,21
+2016,Portugal,Fossil,2,59,3
+2016,Portugal,Renewables,32,59,55
+2016,Portugal,Hydro,16,59,27
+2016,Portugal,Wind and solar,13,59,23
+2016,Portugal,Wind,12,59,21
+2016,Portugal,Solar,1,59,1
+2016,Portugal,Bioenergy,3,59,5
+2016,Romania,Fossil,26,65,41
+2016,Romania,Coal,16,65,25
+2016,Romania,Lignite,16,65,24
+2016,Romania,Gas,10,65,15
+2016,Romania,Fossil,1,65,1
+2016,Romania,Nuclear,11,65,17
+2016,Romania,Renewables,27,65,42
+2016,Romania,Hydro,18,65,28
+2016,Romania,Wind and solar,8,65,13
+2016,Romania,Wind,7,65,10
+2016,Romania,Solar,2,65,3
+2016,Romania,Bioenergy,1,65,1
+2016,Slovakia,Fossil,5,27,20
+2016,Slovakia,Coal,3,27,10
+2016,Slovakia,Hard Coal,1,27,4
+2016,Slovakia,Lignite,2,27,6
+2016,Slovakia,Gas,2,27,6
+2016,Slovakia,Fossil,1,27,4
+2016,Slovakia,Nuclear,15,27,55
+2016,Slovakia,Renewables,7,27,25
+2016,Slovakia,Hydro,4,27,16
+2016,Slovakia,Wind and solar,1,27,2
+2016,Slovakia,Solar,1,27,2
+2016,Slovakia,Bioenergy,2,27,6
+2016,Slovenia,Fossil,5,16,34
+2016,Slovenia,Coal,5,16,31
+2016,Slovenia,Lignite,5,16,29
+2016,Slovenia,Nuclear,6,16,35
+2016,Slovenia,Renewables,5,16,31
+2016,Slovenia,Hydro,5,16,28
+2016,Spain,Fossil,108,271,40
+2016,Spain,Coal,36,271,13
+2016,Spain,Hard Coal,36,271,13
+2016,Spain,Gas,53,271,19
+2016,Spain,Fossil,19,271,7
+2016,Spain,Nuclear,59,271,22
+2016,Spain,Renewables,105,271,39
+2016,Spain,Hydro,36,271,13
+2016,Spain,Wind and solar,63,271,23
+2016,Spain,Wind,49,271,18
+2016,Spain,Solar,14,271,5
+2016,Spain,Bioenergy,6,271,2
+2016,Sweden,Fossil,4,156,2
+2016,Sweden,Gas,1,156,0
+2016,Sweden,Fossil,3,156,2
+2016,Sweden,Nuclear,63,156,40
+2016,Sweden,Renewables,89,156,57
+2016,Sweden,Hydro,62,156,40
+2016,Sweden,Wind and solar,16,156,10
+2016,Sweden,Wind,15,156,10
+2016,Sweden,Bioenergy,11,156,7
+2016,United Kingdom,Fossil,181,335,54
+2016,United Kingdom,Coal,31,335,9
+2016,United Kingdom,Hard Coal,31,335,9
+2016,United Kingdom,Gas,143,335,43
+2016,United Kingdom,Fossil,7,335,2
+2016,United Kingdom,Nuclear,72,335,21
+2016,United Kingdom,Renewables,82,335,24
+2016,United Kingdom,Hydro,5,335,2
+2016,United Kingdom,Wind and solar,48,335,14
+2016,United Kingdom,Wind,37,335,11
+2016,United Kingdom,Solar,10,335,3
+2016,United Kingdom,Bioenergy,29,335,9
+2017,Austria,Fossil,16,67,24
+2017,Austria,Coal,2,67,3
+2017,Austria,Hard Coal,2,67,3
+2017,Austria,Gas,11,67,16
+2017,Austria,Fossil,4,67,5
+2017,Austria,Renewables,51,67,76
+2017,Austria,Hydro,38,67,57
+2017,Austria,Wind and solar,8,67,12
+2017,Austria,Wind,7,67,10
+2017,Austria,Solar,1,67,2
+2017,Austria,Bioenergy,5,67,7
+2017,Belgium,Fossil,27,85,32
+2017,Belgium,Gas,23,85,27
+2017,Belgium,Fossil,4,85,5
+2017,Belgium,Nuclear,42,85,50
+2017,Belgium,Renewables,16,85,19
+2017,Belgium,Wind and solar,10,85,12
+2017,Belgium,Wind,7,85,8
+2017,Belgium,Solar,3,85,4
+2017,Belgium,Bioenergy,6,85,7
+2017,Bulgaria,Fossil,23,45,52
+2017,Bulgaria,Coal,21,45,47
+2017,Bulgaria,Lignite,21,45,46
+2017,Bulgaria,Gas,2,45,4
+2017,Bulgaria,Nuclear,16,45,35
+2017,Bulgaria,Renewables,6,45,14
+2017,Bulgaria,Hydro,3,45,6
+2017,Bulgaria,Wind and solar,3,45,6
+2017,Bulgaria,Wind,2,45,3
+2017,Bulgaria,Solar,1,45,3
+2017,Croatia,Fossil,5,12,40
+2017,Croatia,Coal,1,12,12
+2017,Croatia,Hard Coal,1,12,11
+2017,Croatia,Gas,3,12,26
+2017,Croatia,Renewables,7,12,60
+2017,Croatia,Hydro,5,12,45
+2017,Croatia,Wind and solar,1,12,11
+2017,Croatia,Wind,1,12,10
+2017,Croatia,Bioenergy,1,12,4
+2017,Cyprus,Fossil,5,5,91
+2017,Cyprus,Fossil,5,5,91
+2017,Czech Republic,Fossil,48,86,56
+2017,Czech Republic,Coal,41,86,48
+2017,Czech Republic,Hard Coal,4,86,5
+2017,Czech Republic,Lignite,37,86,43
+2017,Czech Republic,Gas,4,86,4
+2017,Czech Republic,Fossil,3,86,3
+2017,Czech Republic,Nuclear,28,86,33
+2017,Czech Republic,Renewables,10,86,11
+2017,Czech Republic,Hydro,2,86,2
+2017,Czech Republic,Wind and solar,3,86,3
+2017,Czech Republic,Wind,1,86,1
+2017,Czech Republic,Solar,2,86,3
+2017,Czech Republic,Bioenergy,5,86,6
+2017,Denmark,Fossil,9,31,30
+2017,Denmark,Coal,6,31,20
+2017,Denmark,Hard Coal,6,31,20
+2017,Denmark,Gas,2,31,7
+2017,Denmark,Fossil,1,31,3
+2017,Denmark,Renewables,22,31,70
+2017,Denmark,Wind and solar,16,31,50
+2017,Denmark,Wind,15,31,48
+2017,Denmark,Solar,1,31,2
+2017,Denmark,Bioenergy,6,31,20
+2017,Estonia,Fossil,11,13,86
+2017,Estonia,Fossil,11,13,85
+2017,Estonia,Renewables,2,13,14
+2017,Estonia,Wind and solar,1,13,6
+2017,Estonia,Wind,1,13,6
+2017,Estonia,Bioenergy,1,13,8
+2017,Finland,Fossil,13,67,20
+2017,Finland,Coal,6,67,9
+2017,Finland,Hard Coal,6,67,9
+2017,Finland,Gas,3,67,5
+2017,Finland,Fossil,4,67,6
+2017,Finland,Nuclear,22,67,33
+2017,Finland,Renewables,31,67,47
+2017,Finland,Hydro,15,67,22
+2017,Finland,Wind and solar,5,67,7
+2017,Finland,Wind,5,67,7
+2017,Finland,Bioenergy,12,67,18
+2017,France,Fossil,65,556,12
+2017,France,Coal,13,556,2
+2017,France,Hard Coal,13,556,2
+2017,France,Gas,41,556,7
+2017,France,Fossil,12,556,2
+2017,France,Nuclear,398,556,72
+2017,France,Renewables,93,556,17
+2017,France,Hydro,50,556,9
+2017,France,Wind and solar,34,556,6
+2017,France,Wind,25,556,4
+2017,France,Solar,10,556,2
+2017,France,Bioenergy,8,556,1
+2017,France,Renewables,1,556,0
+2017,Germany,Fossil,355,648,55
+2017,Germany,Coal,241,648,37
+2017,Germany,Hard Coal,93,648,14
+2017,Germany,Lignite,148,648,23
+2017,Germany,Gas,87,648,13
+2017,Germany,Fossil,27,648,4
+2017,Germany,Nuclear,76,648,12
+2017,Germany,Renewables,217,648,33
+2017,Germany,Hydro,20,648,3
+2017,Germany,Wind and solar,145,648,22
+2017,Germany,Wind,106,648,16
+2017,Germany,Solar,39,648,6
+2017,Germany,Bioenergy,51,648,8
+2017,Greece,Fossil,41,55,75
+2017,Greece,Coal,19,55,34
+2017,Greece,Lignite,19,55,34
+2017,Greece,Gas,17,55,31
+2017,Greece,Fossil,5,55,10
+2017,Greece,Renewables,14,55,25
+2017,Greece,Hydro,4,55,7
+2017,Greece,Wind and solar,10,55,17
+2017,Greece,Wind,6,55,10
+2017,Greece,Solar,4,55,7
+2017,Hungary,Fossil,13,33,40
+2017,Hungary,Coal,5,33,15
+2017,Hungary,Lignite,5,33,14
+2017,Hungary,Gas,8,33,24
+2017,Hungary,Nuclear,16,33,49
+2017,Hungary,Renewables,3,33,11
+2017,Hungary,Wind and solar,1,33,3
+2017,Hungary,Wind,1,33,2
+2017,Hungary,Bioenergy,2,33,7
+2017,Ireland,Fossil,22,31,71
+2017,Ireland,Coal,4,31,12
+2017,Ireland,Hard Coal,4,31,12
+2017,Ireland,Gas,16,31,51
+2017,Ireland,Fossil,2,31,8
+2017,Ireland,Renewables,9,31,29
+2017,Ireland,Hydro,1,31,2
+2017,Ireland,Wind and solar,7,31,24
+2017,Ireland,Wind,7,31,24
+2017,Ireland,Bioenergy,1,31,2
+2017,Italy,Fossil,189,293,65
+2017,Italy,Coal,33,293,11
+2017,Italy,Hard Coal,33,293,11
+2017,Italy,Gas,140,293,48
+2017,Italy,Fossil,16,293,6
+2017,Italy,Renewables,104,293,35
+2017,Italy,Hydro,36,293,12
+2017,Italy,Wind and solar,42,293,14
+2017,Italy,Wind,18,293,6
+2017,Italy,Solar,24,293,8
+2017,Italy,Bioenergy,19,293,7
+2017,Italy,Renewables,6,293,2
+2017,Latvia,Fossil,2,8,27
+2017,Latvia,Gas,2,8,27
+2017,Latvia,Renewables,5,8,73
+2017,Latvia,Hydro,4,8,58
+2017,Latvia,Bioenergy,1,8,12
+2017,Lithuania,Fossil,1,3,24
+2017,Lithuania,Gas,1,3,18
+2017,Lithuania,Renewables,3,3,76
+2017,Lithuania,Hydro,1,3,18
+2017,Lithuania,Wind and solar,1,3,43
+2017,Lithuania,Wind,1,3,41
+2017,Lithuania,Bioenergy,1,3,15
+2017,Luxembourg,Renewables,1,1,67
+2017,Malta,Fossil,1,2,90
+2017,Malta,Gas,1,2,78
+2017,Netherlands,Fossil,96,117,82
+2017,Netherlands,Coal,31,117,27
+2017,Netherlands,Hard Coal,31,117,27
+2017,Netherlands,Gas,59,117,51
+2017,Netherlands,Fossil,6,117,5
+2017,Netherlands,Nuclear,3,117,3
+2017,Netherlands,Renewables,17,117,15
+2017,Netherlands,Wind and solar,13,117,11
+2017,Netherlands,Wind,11,117,9
+2017,Netherlands,Solar,2,117,2
+2017,Netherlands,Bioenergy,5,117,4
+2017,Poland,Fossil,146,170,86
+2017,Poland,Coal,131,170,77
+2017,Poland,Hard Coal,79,170,46
+2017,Poland,Lignite,52,170,31
+2017,Poland,Gas,10,170,6
+2017,Poland,Fossil,5,170,3
+2017,Poland,Renewables,24,170,14
+2017,Poland,Hydro,3,170,2
+2017,Poland,Wind and solar,15,170,9
+2017,Poland,Wind,15,170,9
+2017,Poland,Bioenergy,6,170,4
+2017,Portugal,Fossil,35,58,61
+2017,Portugal,Coal,15,58,25
+2017,Portugal,Hard Coal,15,58,25
+2017,Portugal,Gas,19,58,33
+2017,Portugal,Fossil,2,58,3
+2017,Portugal,Renewables,23,58,39
+2017,Portugal,Hydro,6,58,10
+2017,Portugal,Wind and solar,13,58,23
+2017,Portugal,Wind,12,58,21
+2017,Portugal,Solar,1,58,2
+2017,Portugal,Bioenergy,3,58,6
+2017,Romania,Fossil,28,64,44
+2017,Romania,Coal,17,64,26
+2017,Romania,Lignite,17,64,26
+2017,Romania,Gas,11,64,17
+2017,Romania,Fossil,1,64,1
+2017,Romania,Nuclear,12,64,18
+2017,Romania,Renewables,24,64,38
+2017,Romania,Hydro,14,64,23
+2017,Romania,Wind and solar,9,64,14
+2017,Romania,Wind,7,64,12
+2017,Romania,Solar,2,64,3
+2017,Romania,Bioenergy,1,64,1
+2017,Slovakia,Fossil,6,27,21
+2017,Slovakia,Coal,3,27,11
+2017,Slovakia,Hard Coal,1,27,5
+2017,Slovakia,Lignite,2,27,6
+2017,Slovakia,Gas,2,27,6
+2017,Slovakia,Fossil,1,27,4
+2017,Slovakia,Nuclear,15,27,55
+2017,Slovakia,Renewables,7,27,24
+2017,Slovakia,Hydro,4,27,16
+2017,Slovakia,Wind and solar,1,27,2
+2017,Slovakia,Solar,1,27,2
+2017,Slovakia,Bioenergy,2,27,6
+2017,Slovenia,Fossil,5,16,33
+2017,Slovenia,Coal,5,16,30
+2017,Slovenia,Lignite,4,16,28
+2017,Slovenia,Nuclear,6,16,39
+2017,Slovenia,Renewables,4,16,28
+2017,Slovenia,Hydro,4,16,24
+2017,Spain,Fossil,127,273,47
+2017,Spain,Coal,45,273,17
+2017,Spain,Hard Coal,45,273,17
+2017,Spain,Gas,64,273,23
+2017,Spain,Fossil,18,273,7
+2017,Spain,Nuclear,58,273,21
+2017,Spain,Renewables,88,273,32
+2017,Spain,Hydro,18,273,7
+2017,Spain,Wind and solar,64,273,23
+2017,Spain,Wind,49,273,18
+2017,Spain,Solar,14,273,5
+2017,Spain,Bioenergy,6,273,2
+2017,Sweden,Fossil,3,164,2
+2017,Sweden,Fossil,3,164,2
+2017,Sweden,Nuclear,66,164,40
+2017,Sweden,Renewables,95,164,58
+2017,Sweden,Hydro,65,164,40
+2017,Sweden,Wind and solar,18,164,11
+2017,Sweden,Wind,18,164,11
+2017,Sweden,Bioenergy,12,164,7
+2017,United Kingdom,Fossil,166,333,50
+2017,United Kingdom,Coal,23,333,7
+2017,United Kingdom,Hard Coal,23,333,7
+2017,United Kingdom,Gas,137,333,41
+2017,United Kingdom,Fossil,7,333,2
+2017,United Kingdom,Nuclear,70,333,21
+2017,United Kingdom,Renewables,97,333,29
+2017,United Kingdom,Hydro,6,333,2
+2017,United Kingdom,Wind and solar,61,333,18
+2017,United Kingdom,Wind,50,333,15
+2017,United Kingdom,Solar,11,333,3
+2017,United Kingdom,Bioenergy,30,333,9
+2018,Austria,Fossil,15,65,23
+2018,Austria,Coal,2,65,3
+2018,Austria,Hard Coal,2,65,3
+2018,Austria,Gas,10,65,15
+2018,Austria,Fossil,3,65,5
+2018,Austria,Renewables,50,65,77
+2018,Austria,Hydro,38,65,58
+2018,Austria,Wind and solar,7,65,11
+2018,Austria,Wind,6,65,9
+2018,Austria,Solar,1,65,2
+2018,Austria,Bioenergy,5,65,8
+2018,Belgium,Fossil,28,74,38
+2018,Belgium,Gas,24,74,33
+2018,Belgium,Fossil,4,74,5
+2018,Belgium,Nuclear,29,74,39
+2018,Belgium,Renewables,17,74,23
+2018,Belgium,Wind and solar,11,74,15
+2018,Belgium,Wind,7,74,10
+2018,Belgium,Solar,4,74,5
+2018,Belgium,Bioenergy,5,74,7
+2018,Bulgaria,Fossil,21,47,45
+2018,Bulgaria,Coal,19,47,40
+2018,Bulgaria,Lignite,18,47,39
+2018,Bulgaria,Gas,2,47,4
+2018,Bulgaria,Nuclear,16,47,35
+2018,Bulgaria,Renewables,9,47,20
+2018,Bulgaria,Hydro,5,47,11
+2018,Bulgaria,Wind and solar,3,47,6
+2018,Bulgaria,Wind,1,47,3
+2018,Bulgaria,Solar,1,47,3
+2018,Bulgaria,Bioenergy,1,47,3
+2018,Croatia,Fossil,4,14,28
+2018,Croatia,Coal,1,14,11
+2018,Croatia,Hard Coal,1,14,11
+2018,Croatia,Gas,2,14,17
+2018,Croatia,Renewables,10,14,72
+2018,Croatia,Hydro,8,14,57
+2018,Croatia,Wind and solar,1,14,10
+2018,Croatia,Wind,1,14,10
+2018,Croatia,Bioenergy,1,14,5
+2018,Cyprus,Fossil,5,5,91
+2018,Cyprus,Fossil,5,5,91
+2018,Czech Republic,Fossil,48,87,55
+2018,Czech Republic,Coal,41,87,47
+2018,Czech Republic,Hard Coal,3,87,4
+2018,Czech Republic,Lignite,38,87,43
+2018,Czech Republic,Gas,4,87,4
+2018,Czech Republic,Fossil,3,87,3
+2018,Czech Republic,Nuclear,30,87,34
+2018,Czech Republic,Renewables,9,87,11
+2018,Czech Republic,Hydro,2,87,2
+2018,Czech Republic,Wind and solar,3,87,3
+2018,Czech Republic,Wind,1,87,1
+2018,Czech Republic,Solar,2,87,3
+2018,Czech Republic,Bioenergy,5,87,6
+2018,Denmark,Fossil,10,30,32
+2018,Denmark,Coal,7,30,22
+2018,Denmark,Hard Coal,7,30,22
+2018,Denmark,Gas,2,30,7
+2018,Denmark,Fossil,1,30,3
+2018,Denmark,Renewables,21,30,68
+2018,Denmark,Wind and solar,15,30,49
+2018,Denmark,Wind,14,30,46
+2018,Denmark,Solar,1,30,3
+2018,Denmark,Bioenergy,6,30,19
+2018,Estonia,Fossil,10,12,84
+2018,Estonia,Fossil,10,12,83
+2018,Estonia,Renewables,2,12,16
+2018,Estonia,Wind and solar,1,12,5
+2018,Estonia,Wind,1,12,5
+2018,Estonia,Bioenergy,1,12,11
+2018,Finland,Fossil,15,70,22
+2018,Finland,Coal,6,70,8
+2018,Finland,Hard Coal,6,70,8
+2018,Finland,Gas,4,70,6
+2018,Finland,Fossil,5,70,7
+2018,Finland,Nuclear,23,70,33
+2018,Finland,Renewables,32,70,46
+2018,Finland,Hydro,13,70,19
+2018,Finland,Wind and solar,6,70,8
+2018,Finland,Wind,6,70,8
+2018,Finland,Bioenergy,13,70,18
+2018,France,Fossil,50,576,9
+2018,France,Coal,8,576,1
+2018,France,Hard Coal,8,576,1
+2018,France,Gas,31,576,5
+2018,France,Fossil,11,576,2
+2018,France,Nuclear,413,576,72
+2018,France,Renewables,113,576,20
+2018,France,Hydro,65,576,11
+2018,France,Wind and solar,39,576,7
+2018,France,Wind,29,576,5
+2018,France,Solar,11,576,2
+2018,France,Bioenergy,8,576,1
+2018,France,Renewables,1,576,0
+2018,Germany,Fossil,337,637,53
+2018,Germany,Coal,228,637,36
+2018,Germany,Hard Coal,83,637,13
+2018,Germany,Lignite,146,637,23
+2018,Germany,Gas,83,637,13
+2018,Germany,Fossil,26,637,4
+2018,Germany,Nuclear,76,637,12
+2018,Germany,Renewables,225,637,35
+2018,Germany,Hydro,18,637,3
+2018,Germany,Wind and solar,156,637,24
+2018,Germany,Wind,110,637,17
+2018,Germany,Solar,46,637,7
+2018,Germany,Bioenergy,51,637,8
+2018,Greece,Fossil,37,53,70
+2018,Greece,Coal,17,53,32
+2018,Greece,Lignite,17,53,32
+2018,Greece,Gas,14,53,26
+2018,Greece,Fossil,6,53,11
+2018,Greece,Renewables,16,53,30
+2018,Greece,Hydro,6,53,11
+2018,Greece,Wind and solar,10,53,19
+2018,Greece,Wind,6,53,12
+2018,Greece,Solar,4,53,7
+2018,Hungary,Fossil,12,32,39
+2018,Hungary,Coal,5,32,15
+2018,Hungary,Lignite,5,32,14
+2018,Hungary,Gas,7,32,23
+2018,Hungary,Nuclear,16,32,49
+2018,Hungary,Renewables,4,32,12
+2018,Hungary,Wind and solar,1,32,4
+2018,Hungary,Wind,1,32,2
+2018,Hungary,Solar,1,32,2
+2018,Hungary,Bioenergy,2,32,7
+2018,Ireland,Fossil,21,31,67
+2018,Ireland,Coal,2,31,7
+2018,Ireland,Hard Coal,2,31,7
+2018,Ireland,Gas,16,31,52
+2018,Ireland,Fossil,3,31,8
+2018,Ireland,Renewables,10,31,33
+2018,Ireland,Hydro,1,31,2
+2018,Ireland,Wind and solar,9,31,28
+2018,Ireland,Wind,9,31,28
+2018,Ireland,Bioenergy,1,31,3
+2018,Italy,Fossil,173,287,60
+2018,Italy,Coal,28,287,10
+2018,Italy,Hard Coal,28,287,10
+2018,Italy,Gas,129,287,45
+2018,Italy,Fossil,16,287,6
+2018,Italy,Renewables,114,287,40
+2018,Italy,Hydro,49,287,17
+2018,Italy,Wind and solar,40,287,14
+2018,Italy,Wind,18,287,6
+2018,Italy,Solar,23,287,8
+2018,Italy,Bioenergy,19,287,7
+2018,Italy,Renewables,6,287,2
+2018,Latvia,Fossil,3,7,48
+2018,Latvia,Gas,3,7,48
+2018,Latvia,Renewables,3,7,52
+2018,Latvia,Hydro,2,7,36
+2018,Latvia,Bioenergy,1,7,14
+2018,Lithuania,Fossil,1,3,20
+2018,Lithuania,Renewables,2,3,80
+2018,Lithuania,Wind and solar,1,3,45
+2018,Lithuania,Wind,1,3,42
+2018,Lithuania,Bioenergy,1,3,20
+2018,Luxembourg,Renewables,1,1,72
+2018,Malta,Fossil,2,2,90
+2018,Malta,Gas,2,2,89
+2018,Netherlands,Fossil,92,114,80
+2018,Netherlands,Coal,27,114,24
+2018,Netherlands,Hard Coal,27,114,24
+2018,Netherlands,Gas,58,114,51
+2018,Netherlands,Fossil,6,114,5
+2018,Netherlands,Nuclear,4,114,3
+2018,Netherlands,Renewables,19,114,17
+2018,Netherlands,Wind and solar,14,114,12
+2018,Netherlands,Wind,11,114,9
+2018,Netherlands,Solar,4,114,3
+2018,Netherlands,Bioenergy,5,114,4
+2018,Poland,Fossil,148,169,87
+2018,Poland,Coal,131,169,77
+2018,Poland,Hard Coal,81,169,48
+2018,Poland,Lignite,49,169,29
+2018,Poland,Gas,13,169,7
+2018,Poland,Fossil,5,169,3
+2018,Poland,Renewables,22,169,13
+2018,Poland,Hydro,2,169,1
+2018,Poland,Wind and solar,13,169,8
+2018,Poland,Wind,13,169,8
+2018,Poland,Bioenergy,7,169,4
+2018,Portugal,Fossil,29,58,50
+2018,Portugal,Coal,12,58,21
+2018,Portugal,Hard Coal,12,58,21
+2018,Portugal,Gas,16,58,27
+2018,Portugal,Fossil,1,58,2
+2018,Portugal,Renewables,29,58,50
+2018,Portugal,Hydro,12,58,21
+2018,Portugal,Wind and solar,14,58,23
+2018,Portugal,Wind,13,58,22
+2018,Portugal,Solar,1,58,2
+2018,Portugal,Bioenergy,3,58,5
+2018,Romania,Fossil,27,64,42
+2018,Romania,Coal,16,64,24
+2018,Romania,Lignite,15,64,24
+2018,Romania,Gas,11,64,16
+2018,Romania,Fossil,1,64,1
+2018,Romania,Nuclear,11,64,18
+2018,Romania,Renewables,26,64,41
+2018,Romania,Hydro,18,64,27
+2018,Romania,Wind and solar,8,64,13
+2018,Romania,Wind,6,64,10
+2018,Romania,Solar,2,64,3
+2018,Slovakia,Fossil,6,27,22
+2018,Slovakia,Coal,3,27,11
+2018,Slovakia,Hard Coal,1,27,6
+2018,Slovakia,Lignite,2,27,6
+2018,Slovakia,Gas,2,27,7
+2018,Slovakia,Fossil,1,27,4
+2018,Slovakia,Nuclear,15,27,56
+2018,Slovakia,Renewables,6,27,22
+2018,Slovakia,Hydro,4,27,14
+2018,Slovakia,Wind and solar,1,27,2
+2018,Slovakia,Solar,1,27,2
+2018,Slovakia,Bioenergy,2,27,6
+2018,Slovenia,Fossil,5,16,32
+2018,Slovenia,Coal,5,16,29
+2018,Slovenia,Lignite,4,16,26
+2018,Slovenia,Nuclear,6,16,36
+2018,Slovenia,Renewables,5,16,32
+2018,Slovenia,Hydro,5,16,29
+2018,Spain,Fossil,112,272,41
+2018,Spain,Coal,37,272,14
+2018,Spain,Hard Coal,37,272,14
+2018,Spain,Gas,58,272,21
+2018,Spain,Fossil,17,272,6
+2018,Spain,Nuclear,56,272,21
+2018,Spain,Renewables,104,272,38
+2018,Spain,Hydro,34,272,13
+2018,Spain,Wind and solar,64,272,23
+2018,Spain,Wind,51,272,19
+2018,Spain,Solar,13,272,5
+2018,Spain,Bioenergy,6,272,2
+2018,Sweden,Fossil,4,163,2
+2018,Sweden,Fossil,3,163,2
+2018,Sweden,Nuclear,69,163,42
+2018,Sweden,Renewables,91,163,56
+2018,Sweden,Hydro,62,163,38
+2018,Sweden,Wind and solar,17,163,10
+2018,Sweden,Wind,17,163,10
+2018,Sweden,Bioenergy,12,163,7
+2018,United Kingdom,Fossil,155,328,47
+2018,United Kingdom,Coal,17,328,5
+2018,United Kingdom,Hard Coal,17,328,5
+2018,United Kingdom,Gas,131,328,40
+2018,United Kingdom,Fossil,7,328,2
+2018,United Kingdom,Nuclear,65,328,20
+2018,United Kingdom,Renewables,108,328,33
+2018,United Kingdom,Hydro,5,328,2
+2018,United Kingdom,Wind and solar,70,328,21
+2018,United Kingdom,Wind,57,328,17
+2018,United Kingdom,Solar,13,328,4
+2018,United Kingdom,Bioenergy,33,328,10
+2019,Austria,Fossil,16,72,23
+2019,Austria,Coal,2,72,2
+2019,Austria,Hard Coal,2,72,2
+2019,Austria,Gas,12,72,16
+2019,Austria,Fossil,3,72,5
+2019,Austria,Renewables,55,72,77
+2019,Austria,Hydro,42,72,58
+2019,Austria,Wind and solar,9,72,12
+2019,Austria,Wind,8,72,11
+2019,Austria,Solar,1,72,2
+2019,Austria,Bioenergy,5,72,6
+2019,Belgium,Fossil,29,90,32
+2019,Belgium,Gas,25,90,28
+2019,Belgium,Fossil,4,90,4
+2019,Belgium,Nuclear,42,90,47
+2019,Belgium,Renewables,19,90,21
+2019,Belgium,Wind and solar,13,90,15
+2019,Belgium,Wind,9,90,10
+2019,Belgium,Solar,4,90,4
+2019,Belgium,Bioenergy,5,90,6
+2019,Bulgaria,Fossil,20,44,46
+2019,Bulgaria,Coal,17,44,40
+2019,Bulgaria,Lignite,17,44,39
+2019,Bulgaria,Gas,2,44,5
+2019,Bulgaria,Nuclear,17,44,38
+2019,Bulgaria,Renewables,7,44,16
+2019,Bulgaria,Hydro,3,44,7
+2019,Bulgaria,Wind and solar,3,44,6
+2019,Bulgaria,Wind,1,44,3
+2019,Bulgaria,Solar,1,44,3
+2019,Bulgaria,Bioenergy,1,44,3
+2019,Croatia,Fossil,4,13,34
+2019,Croatia,Coal,2,13,13
+2019,Croatia,Hard Coal,1,13,11
+2019,Croatia,Gas,3,13,21
+2019,Croatia,Renewables,8,13,66
+2019,Croatia,Hydro,6,13,47
+2019,Croatia,Wind and solar,2,13,12
+2019,Croatia,Wind,1,13,11
+2019,Croatia,Bioenergy,1,13,7
+2019,Cyprus,Fossil,4,5,90
+2019,Cyprus,Fossil,4,5,90
+2019,Czech Republic,Fossil,46,85,54
+2019,Czech Republic,Coal,38,85,44
+2019,Czech Republic,Hard Coal,2,85,2
+2019,Czech Republic,Lignite,36,85,42
+2019,Czech Republic,Gas,6,85,7
+2019,Czech Republic,Fossil,2,85,3
+2019,Czech Republic,Nuclear,30,85,35
+2019,Czech Republic,Renewables,9,85,11
+2019,Czech Republic,Hydro,2,85,2
+2019,Czech Republic,Wind and solar,3,85,3
+2019,Czech Republic,Wind,1,85,1
+2019,Czech Republic,Solar,2,85,3
+2019,Czech Republic,Bioenergy,5,85,5
+2019,Denmark,Fossil,7,30,24
+2019,Denmark,Coal,4,30,14
+2019,Denmark,Hard Coal,4,30,14
+2019,Denmark,Gas,2,30,6
+2019,Denmark,Fossil,1,30,4
+2019,Denmark,Renewables,23,30,76
+2019,Denmark,Wind and solar,17,30,57
+2019,Denmark,Wind,16,30,53
+2019,Denmark,Solar,1,30,3
+2019,Denmark,Bioenergy,6,30,19
+2019,Estonia,Fossil,6,8,74
+2019,Estonia,Fossil,6,8,74
+2019,Estonia,Renewables,2,8,26
+2019,Estonia,Wind and solar,1,8,9
+2019,Estonia,Wind,1,8,9
+2019,Estonia,Bioenergy,1,8,16
+2019,Finland,Fossil,13,67,19
+2019,Finland,Coal,4,67,7
+2019,Finland,Hard Coal,4,67,7
+2019,Finland,Gas,4,67,6
+2019,Finland,Fossil,4,67,6
+2019,Finland,Nuclear,24,67,35
+2019,Finland,Renewables,31,67,46
+2019,Finland,Hydro,12,67,18
+2019,Finland,Wind and solar,6,67,9
+2019,Finland,Wind,6,67,9
+2019,Finland,Bioenergy,13,67,19
+2019,France,Fossil,54,565,9
+2019,France,Coal,4,565,1
+2019,France,Hard Coal,4,565,1
+2019,France,Gas,38,565,7
+2019,France,Fossil,12,565,2
+2019,France,Nuclear,399,565,71
+2019,France,Renewables,112,565,20
+2019,France,Hydro,57,565,10
+2019,France,Wind and solar,46,565,8
+2019,France,Wind,34,565,6
+2019,France,Solar,13,565,2
+2019,France,Bioenergy,8,565,1
+2019,France,Renewables,1,565,0
+2019,Germany,Fossil,286,604,47
+2019,Germany,Coal,172,604,28
+2019,Germany,Hard Coal,58,604,10
+2019,Germany,Lignite,114,604,19
+2019,Germany,Gas,91,604,15
+2019,Germany,Fossil,24,604,4
+2019,Germany,Nuclear,75,604,12
+2019,Germany,Renewables,242,604,40
+2019,Germany,Hydro,20,604,3
+2019,Germany,Wind and solar,172,604,29
+2019,Germany,Wind,126,604,21
+2019,Germany,Solar,46,604,8
+2019,Germany,Bioenergy,50,604,8
+2019,Greece,Fossil,34,50,68
+2019,Greece,Coal,12,50,24
+2019,Greece,Lignite,12,50,24
+2019,Greece,Gas,16,50,32
+2019,Greece,Fossil,6,50,12
+2019,Greece,Renewables,16,50,32
+2019,Greece,Hydro,4,50,9
+2019,Greece,Wind and solar,11,50,22
+2019,Greece,Wind,7,50,14
+2019,Greece,Solar,4,50,8
+2019,Hungary,Fossil,13,34,38
+2019,Hungary,Coal,4,34,12
+2019,Hungary,Lignite,4,34,11
+2019,Hungary,Gas,8,34,25
+2019,Hungary,Fossil,1,34,2
+2019,Hungary,Nuclear,16,34,48
+2019,Hungary,Renewables,5,34,14
+2019,Hungary,Wind and solar,2,34,6
+2019,Hungary,Wind,1,34,2
+2019,Hungary,Solar,1,34,4
+2019,Hungary,Bioenergy,2,34,7
+2019,Ireland,Fossil,20,31,64
+2019,Ireland,Coal,1,31,2
+2019,Ireland,Hard Coal,1,31,2
+2019,Ireland,Gas,17,31,54
+2019,Ireland,Fossil,2,31,8
+2019,Ireland,Renewables,11,31,36
+2019,Ireland,Hydro,1,31,3
+2019,Ireland,Wind and solar,9,31,31
+2019,Ireland,Wind,9,31,31
+2019,Ireland,Bioenergy,1,31,3
+2019,Italy,Fossil,173,290,60
+2019,Italy,Coal,20,290,7
+2019,Italy,Hard Coal,20,290,7
+2019,Italy,Gas,137,290,47
+2019,Italy,Fossil,16,290,5
+2019,Italy,Renewables,117,290,40
+2019,Italy,Hydro,47,290,16
+2019,Italy,Wind and solar,45,290,16
+2019,Italy,Wind,20,290,7
+2019,Italy,Solar,25,290,9
+2019,Italy,Bioenergy,19,290,7
+2019,Italy,Renewables,6,290,2
+2019,Latvia,Fossil,3,6,51
+2019,Latvia,Gas,3,6,52
+2019,Latvia,Renewables,3,6,49
+2019,Latvia,Hydro,2,6,33
+2019,Latvia,Bioenergy,1,6,14
+2019,Lithuania,Fossil,1,3,21
+2019,Lithuania,Renewables,2,3,79
+2019,Lithuania,Wind and solar,2,3,49
+2019,Lithuania,Wind,1,3,46
+2019,Lithuania,Bioenergy,1,3,18
+2019,Luxembourg,Renewables,1,1,72
+2019,Malta,Fossil,2,2,90
+2019,Malta,Gas,2,2,89
+2019,Netherlands,Fossil,95,122,78
+2019,Netherlands,Coal,18,122,15
+2019,Netherlands,Hard Coal,18,122,15
+2019,Netherlands,Gas,71,122,59
+2019,Netherlands,Fossil,6,122,5
+2019,Netherlands,Nuclear,4,122,3
+2019,Netherlands,Renewables,23,122,19
+2019,Netherlands,Wind and solar,17,122,14
+2019,Netherlands,Wind,12,122,9
+2019,Netherlands,Solar,5,122,4
+2019,Netherlands,Bioenergy,6,122,5
+2019,Poland,Fossil,138,163,85
+2019,Poland,Coal,119,163,73
+2019,Poland,Hard Coal,76,163,47
+2019,Poland,Lignite,42,163,26
+2019,Poland,Gas,15,163,9
+2019,Poland,Fossil,5,163,3
+2019,Poland,Renewables,25,163,15
+2019,Poland,Hydro,2,163,1
+2019,Poland,Wind and solar,16,163,10
+2019,Poland,Wind,15,163,9
+2019,Poland,Solar,1,163,0
+2019,Poland,Bioenergy,7,163,4
+2019,Portugal,Fossil,24,52,46
+2019,Portugal,Coal,6,52,12
+2019,Portugal,Hard Coal,6,52,12
+2019,Portugal,Gas,17,52,32
+2019,Portugal,Fossil,1,52,2
+2019,Portugal,Renewables,28,52,54
+2019,Portugal,Hydro,9,52,18
+2019,Portugal,Wind and solar,15,52,29
+2019,Portugal,Wind,14,52,26
+2019,Portugal,Solar,1,52,2
+2019,Portugal,Bioenergy,3,52,7
+2019,Romania,Fossil,23,59,39
+2019,Romania,Coal,14,59,23
+2019,Romania,Lignite,13,59,23
+2019,Romania,Gas,9,59,15
+2019,Romania,Fossil,1,59,1
+2019,Romania,Nuclear,11,59,19
+2019,Romania,Renewables,25,59,42
+2019,Romania,Hydro,16,59,26
+2019,Romania,Wind and solar,9,59,14
+2019,Romania,Wind,7,59,11
+2019,Romania,Solar,2,59,3
+2019,Romania,Bioenergy,1,59,1
+2019,Slovakia,Fossil,6,28,20
+2019,Slovakia,Coal,2,28,9
+2019,Slovakia,Hard Coal,1,28,4
+2019,Slovakia,Lignite,1,28,5
+2019,Slovakia,Gas,3,28,11
+2019,Slovakia,Nuclear,15,28,55
+2019,Slovakia,Renewables,7,28,26
+2019,Slovakia,Hydro,5,28,16
+2019,Slovakia,Wind and solar,1,28,2
+2019,Slovakia,Solar,1,28,2
+2019,Slovakia,Bioenergy,2,28,7
+2019,Slovenia,Fossil,5,16,32
+2019,Slovenia,Coal,4,16,28
+2019,Slovenia,Lignite,4,16,25
+2019,Slovenia,Gas,1,16,3
+2019,Slovenia,Nuclear,6,16,36
+2019,Slovenia,Renewables,5,16,32
+2019,Slovenia,Hydro,5,16,29
+2019,Spain,Fossil,113,272,42
+2019,Spain,Coal,12,272,5
+2019,Spain,Hard Coal,12,272,5
+2019,Spain,Gas,84,272,31
+2019,Spain,Fossil,16,272,6
+2019,Spain,Nuclear,58,272,22
+2019,Spain,Renewables,100,272,37
+2019,Spain,Hydro,25,272,9
+2019,Spain,Wind and solar,70,272,26
+2019,Spain,Wind,54,272,20
+2019,Spain,Solar,15,272,6
+2019,Spain,Bioenergy,6,272,2
+2019,Sweden,Fossil,4,171,2
+2019,Sweden,Fossil,3,171,2
+2019,Sweden,Nuclear,67,171,39
+2019,Sweden,Renewables,100,171,58
+2019,Sweden,Hydro,67,171,39
+2019,Sweden,Wind and solar,20,171,12
+2019,Sweden,Wind,20,171,12
+2019,Sweden,Bioenergy,13,171,8
+2019,United Kingdom,Fossil,145,320,45
+2019,United Kingdom,Coal,7,320,2
+2019,United Kingdom,Hard Coal,7,320,2
+2019,United Kingdom,Gas,131,320,41
+2019,United Kingdom,Fossil,7,320,2
+2019,United Kingdom,Nuclear,57,320,18
+2019,United Kingdom,Renewables,117,320,37
+2019,United Kingdom,Hydro,6,320,2
+2019,United Kingdom,Wind and solar,77,320,24
+2019,United Kingdom,Wind,65,320,20
+2019,United Kingdom,Solar,13,320,4
+2019,United Kingdom,Bioenergy,34,320,11
+2020,Austria,Fossil,14,69,21
+2020,Austria,Coal,1,69,1
+2020,Austria,Hard Coal,1,69,1
+2020,Austria,Gas,10,69,15
+2020,Austria,Fossil,3,69,5
+2020,Austria,Renewables,55,69,79
+2020,Austria,Hydro,43,69,62
+2020,Austria,Wind and solar,8,69,12
+2020,Austria,Wind,7,69,10
+2020,Austria,Solar,1,69,2
+2020,Austria,Bioenergy,4,69,6
+2020,Belgium,Fossil,30,86,35
+2020,Belgium,Gas,26,86,30
+2020,Belgium,Fossil,4,86,4
+2020,Belgium,Nuclear,34,86,39
+2020,Belgium,Renewables,22,86,26
+2020,Belgium,Wind and solar,17,86,20
+2020,Belgium,Wind,12,86,14
+2020,Belgium,Solar,5,86,5
+2020,Belgium,Bioenergy,5,86,6
+2020,Bulgaria,Fossil,16,40,40
+2020,Bulgaria,Coal,14,40,33
+2020,Bulgaria,Lignite,13,40,33
+2020,Bulgaria,Gas,2,40,6
+2020,Bulgaria,Nuclear,17,40,41
+2020,Bulgaria,Renewables,7,40,19
+2020,Bulgaria,Hydro,3,40,7
+2020,Bulgaria,Wind and solar,3,40,8
+2020,Bulgaria,Wind,1,40,4
+2020,Bulgaria,Solar,2,40,4
+2020,Bulgaria,Bioenergy,1,40,4
+2020,Croatia,Fossil,5,13,36
+2020,Croatia,Coal,1,13,10
+2020,Croatia,Hard Coal,1,13,8
+2020,Croatia,Gas,3,13,26
+2020,Croatia,Renewables,8,13,64
+2020,Croatia,Hydro,6,13,44
+2020,Croatia,Wind and solar,2,13,13
+2020,Croatia,Wind,2,13,12
+2020,Croatia,Bioenergy,1,13,7
+2020,Cyprus,Fossil,4,5,89
+2020,Cyprus,Fossil,4,5,89
+2020,Cyprus,Renewables,1,5,11
+2020,Czech Republic,Fossil,41,81,51
+2020,Czech Republic,Coal,32,81,40
+2020,Czech Republic,Hard Coal,2,81,2
+2020,Czech Republic,Lignite,30,81,38
+2020,Czech Republic,Gas,6,81,7
+2020,Czech Republic,Fossil,3,81,4
+2020,Czech Republic,Nuclear,30,81,37
+2020,Czech Republic,Renewables,10,81,12
+2020,Czech Republic,Hydro,2,81,2
+2020,Czech Republic,Wind and solar,3,81,4
+2020,Czech Republic,Wind,1,81,1
+2020,Czech Republic,Solar,2,81,3
+2020,Czech Republic,Bioenergy,5,81,6
+2020,Denmark,Fossil,6,29,22
+2020,Denmark,Coal,4,29,15
+2020,Denmark,Hard Coal,4,29,15
+2020,Denmark,Gas,1,29,4
+2020,Denmark,Fossil,1,29,4
+2020,Denmark,Renewables,23,29,78
+2020,Denmark,Wind and solar,18,29,61
+2020,Denmark,Wind,16,29,56
+2020,Denmark,Solar,1,29,4
+2020,Denmark,Bioenergy,5,29,18
+2020,Estonia,Fossil,4,6,65
+2020,Estonia,Fossil,4,6,64
+2020,Estonia,Renewables,2,6,35
+2020,Estonia,Wind and solar,1,6,15
+2020,Estonia,Wind,1,6,14
+2020,Estonia,Bioenergy,1,6,21
+2020,Finland,Fossil,11,67,16
+2020,Finland,Coal,3,67,5
+2020,Finland,Hard Coal,3,67,5
+2020,Finland,Gas,4,67,6
+2020,Finland,Fossil,3,67,5
+2020,Finland,Nuclear,23,67,34
+2020,Finland,Renewables,34,67,50
+2020,Finland,Hydro,15,67,23
+2020,Finland,Wind and solar,8,67,12
+2020,Finland,Wind,8,67,11
+2020,Finland,Bioenergy,11,67,16
+2020,France,Fossil,50,529,9
+2020,France,Coal,4,529,1
+2020,France,Hard Coal,4,529,1
+2020,France,Gas,34,529,6
+2020,France,Fossil,12,529,2
+2020,France,Nuclear,355,529,67
+2020,France,Renewables,123,529,23
+2020,France,Hydro,62,529,12
+2020,France,Wind and solar,52,529,10
+2020,France,Wind,39,529,7
+2020,France,Solar,13,529,2
+2020,France,Bioenergy,8,529,2
+2020,France,Renewables,1,529,0
+2020,Germany,Fossil,248,567,44
+2020,Germany,Coal,134,567,24
+2020,Germany,Hard Coal,43,567,7
+2020,Germany,Lignite,92,567,16
+2020,Germany,Gas,92,567,16
+2020,Germany,Fossil,23,567,4
+2020,Germany,Nuclear,64,567,11
+2020,Germany,Renewables,255,567,45
+2020,Germany,Hydro,19,567,3
+2020,Germany,Wind and solar,186,567,33
+2020,Germany,Wind,135,567,24
+2020,Germany,Solar,51,567,9
+2020,Germany,Bioenergy,50,567,9
+2020,Greece,Fossil,31,48,64
+2020,Greece,Coal,7,48,15
+2020,Greece,Lignite,7,48,15
+2020,Greece,Gas,18,48,37
+2020,Greece,Fossil,6,48,12
+2020,Greece,Renewables,17,48,36
+2020,Greece,Hydro,4,48,8
+2020,Greece,Wind and solar,13,48,27
+2020,Greece,Wind,9,48,18
+2020,Greece,Solar,4,48,9
+2020,Hungary,Fossil,13,34,38
+2020,Hungary,Coal,4,34,11
+2020,Hungary,Lignite,3,34,10
+2020,Hungary,Gas,9,34,26
+2020,Hungary,Nuclear,16,34,48
+2020,Hungary,Renewables,5,34,15
+2020,Hungary,Wind and solar,2,34,7
+2020,Hungary,Wind,1,34,2
+2020,Hungary,Solar,2,34,5
+2020,Hungary,Bioenergy,2,34,7
+2020,Ireland,Fossil,19,32,59
+2020,Ireland,Coal,1,32,2
+2020,Ireland,Hard Coal,1,32,2
+2020,Ireland,Gas,16,32,52
+2020,Ireland,Fossil,2,32,5
+2020,Ireland,Renewables,13,32,41
+2020,Ireland,Hydro,1,32,3
+2020,Ireland,Wind and solar,11,32,35
+2020,Ireland,Wind,11,32,35
+2020,Ireland,Bioenergy,1,32,3
+2020,Italy,Fossil,156,275,57
+2020,Italy,Coal,15,275,5
+2020,Italy,Hard Coal,15,275,5
+2020,Italy,Gas,126,275,46
+2020,Italy,Fossil,16,275,6
+2020,Italy,Renewables,119,275,43
+2020,Italy,Hydro,48,275,17
+2020,Italy,Wind and solar,46,275,17
+2020,Italy,Wind,19,275,7
+2020,Italy,Solar,27,275,10
+2020,Italy,Bioenergy,19,275,7
+2020,Italy,Renewables,6,275,2
+2020,Latvia,Fossil,2,6,37
+2020,Latvia,Gas,2,6,40
+2020,Latvia,Renewables,4,6,63
+2020,Latvia,Hydro,3,6,45
+2020,Latvia,Bioenergy,1,6,14
+2020,Lithuania,Fossil,2,4,42
+2020,Lithuania,Gas,2,4,38
+2020,Lithuania,Renewables,2,4,58
+2020,Lithuania,Wind and solar,2,4,38
+2020,Lithuania,Wind,2,4,36
+2020,Lithuania,Bioenergy,1,4,13
+2020,Luxembourg,Renewables,1,1,72
+2020,Malta,Fossil,2,2,90
+2020,Malta,Gas,2,2,89
+2020,Netherlands,Fossil,89,124,72
+2020,Netherlands,Coal,9,124,7
+2020,Netherlands,Hard Coal,9,124,7
+2020,Netherlands,Gas,74,124,60
+2020,Netherlands,Fossil,6,124,5
+2020,Netherlands,Nuclear,4,124,3
+2020,Netherlands,Renewables,31,124,25
+2020,Netherlands,Wind and solar,23,124,19
+2020,Netherlands,Wind,16,124,13
+2020,Netherlands,Solar,8,124,6
+2020,Netherlands,Bioenergy,8,124,6
+2020,Poland,Fossil,131,157,83
+2020,Poland,Coal,110,157,70
+2020,Poland,Hard Coal,71,157,45
+2020,Poland,Lignite,39,157,25
+2020,Poland,Gas,16,157,10
+2020,Poland,Fossil,4,157,3
+2020,Poland,Renewables,27,157,17
+2020,Poland,Hydro,2,157,1
+2020,Poland,Wind and solar,18,157,11
+2020,Poland,Wind,16,157,10
+2020,Poland,Solar,2,157,1
+2020,Poland,Bioenergy,7,157,4
+2020,Portugal,Fossil,21,52,41
+2020,Portugal,Coal,3,52,6
+2020,Portugal,Hard Coal,3,52,6
+2020,Portugal,Gas,17,52,33
+2020,Portugal,Fossil,1,52,2
+2020,Portugal,Renewables,31,52,59
+2020,Portugal,Hydro,13,52,24
+2020,Portugal,Wind and solar,14,52,26
+2020,Portugal,Wind,12,52,24
+2020,Portugal,Solar,1,52,3
+2020,Portugal,Bioenergy,4,52,8
+2020,Romania,Fossil,20,56,36
+2020,Romania,Coal,9,56,17
+2020,Romania,Lignite,9,56,17
+2020,Romania,Gas,10,56,18
+2020,Romania,Fossil,1,56,1
+2020,Romania,Nuclear,11,56,20
+2020,Romania,Renewables,25,56,44
+2020,Romania,Hydro,15,56,27
+2020,Romania,Wind and solar,9,56,16
+2020,Romania,Wind,7,56,12
+2020,Romania,Solar,2,56,3
+2020,Romania,Bioenergy,1,56,1
+2020,Slovakia,Fossil,5,28,19
+2020,Slovakia,Coal,2,28,7
+2020,Slovakia,Hard Coal,1,28,3
+2020,Slovakia,Lignite,1,28,4
+2020,Slovakia,Gas,4,28,13
+2020,Slovakia,Nuclear,15,28,54
+2020,Slovakia,Renewables,7,28,26
+2020,Slovakia,Hydro,5,28,17
+2020,Slovakia,Wind and solar,1,28,2
+2020,Slovakia,Solar,1,28,2
+2020,Slovakia,Bioenergy,2,28,7
+2020,Slovenia,Fossil,5,17,29
+2020,Slovenia,Coal,4,17,26
+2020,Slovenia,Lignite,4,17,23
+2020,Slovenia,Gas,1,17,4
+2020,Slovenia,Nuclear,6,17,37
+2020,Slovenia,Renewables,6,17,33
+2020,Slovenia,Hydro,5,17,30
+2020,Spain,Fossil,91,264,34
+2020,Spain,Coal,6,264,2
+2020,Spain,Hard Coal,6,264,2
+2020,Spain,Gas,69,264,26
+2020,Spain,Fossil,16,264,6
+2020,Spain,Nuclear,58,264,22
+2020,Spain,Renewables,115,264,43
+2020,Spain,Hydro,32,264,12
+2020,Spain,Wind and solar,76,264,29
+2020,Spain,Wind,55,264,21
+2020,Spain,Solar,21,264,8
+2020,Spain,Bioenergy,7,264,3
+2020,Sweden,Fossil,4,166,2
+2020,Sweden,Fossil,3,166,2
+2020,Sweden,Nuclear,50,166,30
+2020,Sweden,Renewables,113,166,68
+2020,Sweden,Hydro,74,166,45
+2020,Sweden,Wind and solar,28,166,17
+2020,Sweden,Wind,27,166,16
+2020,Sweden,Bioenergy,11,166,6
+2020,United Kingdom,Fossil,124,305,41
+2020,United Kingdom,Coal,5,305,2
+2020,United Kingdom,Hard Coal,5,305,2
+2020,United Kingdom,Gas,112,305,37
+2020,United Kingdom,Fossil,7,305,2
+2020,United Kingdom,Nuclear,52,305,17
+2020,United Kingdom,Renewables,129,305,42
+2020,United Kingdom,Hydro,7,305,2
+2020,United Kingdom,Wind and solar,87,305,29
+2020,United Kingdom,Wind,74,305,24
+2020,United Kingdom,Solar,13,305,4
+2020,United Kingdom,Bioenergy,35,305,12
